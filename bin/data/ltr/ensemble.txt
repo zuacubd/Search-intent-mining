@@ -1,0 +1,145 @@
+## LambdaMART
+## No. of trees = 1000
+## No. of leaves = 10
+## No. of threshold candidates = 256
+## Learning rate = 0.0010
+## Stop early = 100
+
+<ensemble>
+	<tree id="1" weight="0.0010">
+		<split>
+			<feature> 12 </feature>
+			<threshold> 0.48707 </threshold>
+			<split pos="left">
+				<output> -0.8323795795440674 </output>
+			</split>
+			<split pos="right">
+				<feature> 17 </feature>
+				<threshold> 0.34375 </threshold>
+				<split pos="left">
+					<feature> 1 </feature>
+					<threshold> 0.46875 </threshold>
+					<split pos="left">
+						<output> -0.5822651386260986 </output>
+					</split>
+					<split pos="right">
+						<feature> 1 </feature>
+						<threshold> 0.4921875 </threshold>
+						<split pos="left">
+							<output> 1.325612187385559 </output>
+						</split>
+						<split pos="right">
+							<output> 0.04372502118349075 </output>
+						</split>
+					</split>
+				</split>
+				<split pos="right">
+					<feature> 10 </feature>
+					<threshold> 0.91414 </threshold>
+					<split pos="left">
+						<feature> 1 </feature>
+						<threshold> 0.5234375 </threshold>
+						<split pos="left">
+							<output> -0.003860579105094075 </output>
+						</split>
+						<split pos="right">
+							<feature> 1 </feature>
+							<threshold> 0.52734375 </threshold>
+							<split pos="left">
+								<output> 1.6376636028289795 </output>
+							</split>
+							<split pos="right">
+								<output> 0.8085910081863403 </output>
+							</split>
+						</split>
+					</split>
+					<split pos="right">
+						<feature> 17 </feature>
+						<threshold> 0.46875 </threshold>
+						<split pos="left">
+							<output> 0.7690473794937134 </output>
+						</split>
+						<split pos="right">
+							<feature> 1 </feature>
+							<threshold> 0.5703125 </threshold>
+							<split pos="left">
+								<output> 2.0 </output>
+							</split>
+							<split pos="right">
+								<output> 2.0 </output>
+							</split>
+						</split>
+					</split>
+				</split>
+			</split>
+		</split>
+	</tree>
+	<tree id="2" weight="0.0010">
+		<split>
+			<feature> 17 </feature>
+			<threshold> 0.34375 </threshold>
+			<split pos="left">
+				<feature> 16 </feature>
+				<threshold> 0.50297 </threshold>
+				<split pos="left">
+					<output> -1.072350025177002 </output>
+				</split>
+				<split pos="right">
+					<feature> 7 </feature>
+					<threshold> 0.46154 </threshold>
+					<split pos="left">
+						<output> 0.9261053800582886 </output>
+					</split>
+					<split pos="right">
+						<feature> 3 </feature>
+						<threshold> 0.0 </threshold>
+						<split pos="left">
+							<feature> 15 </feature>
+							<threshold> 0.99994 </threshold>
+							<split pos="left">
+								<feature> 1 </feature>
+								<threshold> 0.4921875 </threshold>
+								<split pos="left">
+									<output> 1.2138863801956177 </output>
+								</split>
+								<split pos="right">
+									<output> -1.2004203796386719 </output>
+								</split>
+							</split>
+							<split pos="right">
+								<output> 0.0317794568836689 </output>
+							</split>
+						</split>
+						<split pos="right">
+							<output> -0.7217581868171692 </output>
+						</split>
+					</split>
+				</split>
+			</split>
+			<split pos="right">
+				<feature> 10 </feature>
+				<threshold> 0.95163 </threshold>
+				<split pos="left">
+					<feature> 1 </feature>
+					<threshold> 0.5234375 </threshold>
+					<split pos="left">
+						<output> -0.5721388459205627 </output>
+					</split>
+					<split pos="right">
+						<feature> 1 </feature>
+						<threshold> 0.52734375 </threshold>
+						<split pos="left">
+							<output> 1.6165776252746582 </output>
+						</split>
+						<split pos="right">
+							<output> 0.5894846320152283 </output>
+						</split>
+					</split>
+				</split>
+				<split pos="right">
+					<output> 1.8402565717697144 </output>
+				</split>
+			</split>
+		</split>
+	</tree>
+</ensemble>

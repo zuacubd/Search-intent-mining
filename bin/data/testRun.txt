@@ -1,0 +1,1174 @@
+<SYSDESC>Query Logs, Query Dependent Features, Query Independent Features, Query Suggestion Ranklist</SYSDESC>
+0401;0;403b contribution limits;1;0.3203482633286265;TestRUN
+0401;0;403b calculator;2;0.27752517516738284;TestRUN
+0401;0;403b asp;3;0.2224514822995039;TestRUN
+0401;0;403b compare;4;0.19045805361574666;TestRUN
+0401;0;403b vs 401k;5;0.18752239139297863;TestRUN
+0401;0;403b regulations;6;0.15912751129767894;TestRUN
+0401;0;403b plan;7;0.14703389881561715;TestRUN
+0401;0;403b retirement;8;0.13664866739820047;TestRUN
+0401;0;403b rollover;9;0.13182637513393974;TestRUN
+0401;0;403b withdrawal;10;0.13003665102762318;TestRUN
+0401;0;403b withdrawal rules;11;0.1294944203894286;TestRUN
+0401;0;403b contribution limits 2012;12;0.1256588464080315;TestRUN
+0401;0;403b retirement plans;13;0.12468365963737947;TestRUN
+0401;0;403 B. Definition;14;0.12373972895806096;TestRUN
+0401;0;403 b;15;0.12010077194794959;TestRUN
+0401;0;403b vs 457b;16;0.11713467858191597;TestRUN
+0401;0;403bwise;17;0.10470488501190665;TestRUN
+0401;0;Fidelity 403 B Retirement Plan;18;0.10470488501190665;TestRUN
+0401;0;403bcompare;19;0.10470488501190665;TestRUN
+0401;0;403b.com;20;0.10470488501190665;TestRUN
+0401;0;403B Early Withdrawal;21;0.10470488501190665;TestRUN
+0401;0;403 B Rules;22;0.10470488501190665;TestRUN
+0401;0;IRS 403 B;23;0.10470488501190665;TestRUN
+0401;0;403 B Calculator;24;0.10470488501190665;TestRUN
+0402;0;angular cheilitis emedicine;1;0.4201635389989197;TestRUN
+0402;0;angular cheilitis treatment;2;0.34510915900409106;TestRUN
+0402;0;angular cheilitis webmd;3;0.21875649938183242;TestRUN
+0402;0;angular cheilitis cure;4;0.18043183182176778;TestRUN
+0402;0;angular cheilitis hiv;5;0.17094240377665817;TestRUN
+0402;0;angular cheilitis pictures;6;0.16861477377490927;TestRUN
+0402;0;angular cheilitis home remedy;7;0.1592005160900314;TestRUN
+0402;0;angular cheilitis symptoms;8;0.15706458000180915;TestRUN
+0402;0;angular cheilitis contagious;9;0.13961950736280357;TestRUN
+0402;0;angular cheilitis mayo clinic;10;0.1386222404110471;TestRUN
+0402;0;Causes of Angular Cheilitis;11;0.12760609111600565;TestRUN
+0402;0;angular cheilitis causes;12;0.12630312278332595;TestRUN
+0402;0;angular cheilitis treatment webmd;13;0.12124712622042566;TestRUN
+0402;0;angular cheilitis apple cider vinegar;14;0.10470488501190665;TestRUN
+0402;0;Angular Cheilitis Stress;15;0.10470488501190665;TestRUN
+0402;0;Over the Counter Angular Cheilitis;16;0.10470488501190665;TestRUN
+0402;0;angular cheilitis treatment over the counter;17;0.10470488501190665;TestRUN
+0402;0;Angular Cheilitis Vitamin;18;0.10470488501190665;TestRUN
+0402;0;How to Treat Angular Cheilitis;19;0.10470488501190665;TestRUN
+0402;0;angular cheilitis home remedy free;20;0.10470488501190665;TestRUN
+0402;0;Pictures of Angular Cheilitis;21;0.10470488501190665;TestRUN
+0403;0;pocono record;1;0.7457827442363282;TestRUN
+0403;0;pocono resorts;2;0.22501984688692256;TestRUN
+0403;0;pocono palace;3;0.1825543420062228;TestRUN
+0403;0;pocono raceway;4;0.177095730360401;TestRUN
+0403;0;pocono downs;5;0.1703294558366517;TestRUN
+0403;0;pocono manor;6;0.16681387404235906;TestRUN
+0403;0;pocono medical center;7;0.15791061520365315;TestRUN
+0403;0;pocono qualifying;8;0.15357233514031796;TestRUN
+0403;0;pocono real estate;9;0.14818601315510774;TestRUN
+0403;0;pocono mountains;10;0.14227840058548316;TestRUN
+0403;0;poconos all inclusive;11;0.1357456499307416;TestRUN
+0403;0;pocono mountain school district;12;0.13366217664484528;TestRUN
+0403;0;pocono mountain resorts;13;0.13327268727304545;TestRUN
+0403;0;Pocono Pennsylvania;14;0.1166697305403708;TestRUN
+0403;0;Pocono NASCAR Race;15;0.11036397005251836;TestRUN
+0403;0;poconos attractions;16;0.10470488501190665;TestRUN
+0403;0;Poconos Skiing;17;0.10470488501190665;TestRUN
+0403;0;poconos resorts;18;0.10470488501190665;TestRUN
+0403;0;Poconos Family Vacations;19;0.10470488501190665;TestRUN
+0403;0;Pocono Vacation Packages;20;0.10470488501190665;TestRUN
+0403;0;poconos rentals;21;0.10470488501190665;TestRUN
+0403;0;poconos vacation;22;0.10470488501190665;TestRUN
+0403;0;Pocono Map;23;0.10470488501190665;TestRUN
+0403;0;Poconos Honeymoon;24;0.10470488501190665;TestRUN
+0403;0;poconos family resorts;25;0.10470488501190665;TestRUN
+0403;0;poconos hotels;26;0.10470488501190665;TestRUN
+0404;0;figs boston;1;0.3318432065454076;TestRUN
+0404;0;figs recipes;2;0.2547521705310477;TestRUN
+0404;0;figs nutrition;3;0.23210852918646144;TestRUN
+0404;0;figs grille;4;0.21365141495601697;TestRUN
+0404;0;figs charlestown;5;0.16973531590571966;TestRUN
+0404;0;figs philadelphia;6;0.16723239014204205;TestRUN
+0404;0;figs calories;7;0.15554397421062455;TestRUN
+0404;0;figs newtown ct;8;0.14335692141051945;TestRUN
+0404;0;figs restaurant;9;0.14137923207856481;TestRUN
+0404;0;figs nutritional value;10;0.1293538249462979;TestRUN
+0404;0;figs boston menu;11;0.12124712622042566;TestRUN
+0404;0;Fig Recipes;12;0.12010077194794959;TestRUN
+0404;0;figs and olives;13;0.11915542942202814;TestRUN
+0404;0;figs engineering;14;0.11856285407100305;TestRUN
+0404;0;figs beacon hill;15;0.11713467858191597;TestRUN
+0404;0;figs health benefits;16;0.11518132438607794;TestRUN
+0404;0;Fig Fruit;17;0.11342928044398144;TestRUN
+0404;0;figs charlestown menu;18;0.11329205039251375;TestRUN
+0404;0;Growing Fig Trees;19;0.10470488501190665;TestRUN
+0404;0;How to Eat Figs;20;0.10470488501190665;TestRUN
+0404;0;Fresh Figs;21;0.10470488501190665;TestRUN
+0404;0;Dried Figs;22;0.10470488501190665;TestRUN
+0404;0;Fig Preserves;23;0.10470488501190665;TestRUN
+0405;0;last supper painting tickets;1;0.4565077941248468;TestRUN
+0405;0;last supper painting milan;2;0.402719850088798;TestRUN
+0405;0;last supper painting museum;3;0.2726987674814323;TestRUN
+0405;0;last supper painting people;4;0.1846524724518007;TestRUN
+0405;0;last supper painting secrets;5;0.1819394676510888;TestRUN
+0405;0;last supper painting for sale;6;0.16861731199208183;TestRUN
+0405;0;last supper painting location;7;0.16856405245874595;TestRUN
+0405;0;last supper painting controversy;8;0.14354963682281396;TestRUN
+0405;0;last supper painting analysis;9;0.13363417515765103;TestRUN
+0405;0;The Last Supper;10;0.13172186240853004;TestRUN
+0405;0;last supper painting jesus;11;0.125;TestRUN
+0405;0;last supper painting meaning;12;0.11741382997473124;TestRUN
+0405;0;last supper painting by tintoretto;13;0.1166697305403708;TestRUN
+0405;0;last supper painting da vinci;14;0.11342928044398144;TestRUN
+0405;0;last supper painting mysteries;15;0.11069577425793553;TestRUN
+0405;0;Da Vinci Last Supper;16;0.11036397005251836;TestRUN
+0405;0;last supper painting with names;17;0.11020320897012137;TestRUN
+0405;0;last supper paintings for sale;18;0.1073837109562251;TestRUN
+0405;0;last supper painting mysteries knife in hand;19;0.10470488501190665;TestRUN
+0405;0;Last Supper Painting Milan Italy;20;0.10470488501190665;TestRUN
+0405;0;Da Vinci Last Supper Portrait;21;0.10470488501190665;TestRUN
+0405;0;Last Supper Painting Enlarge;22;0.10470488501190665;TestRUN
+0405;0;Dali Last Supper Painting;23;0.10470488501190665;TestRUN
+0405;0;last supper painting christ;24;0.10470488501190665;TestRUN
+0405;0;Picture of the Last Supper;25;0.10470488501190665;TestRUN
+0405;0;last supper painting online;26;0.10470488501190665;TestRUN
+0405;0;last supper painting roman catholic;27;0.10470488501190665;TestRUN
+0406;0;university of phoenix login;1;0.44943100841109707;TestRUN
+0406;0;university of phoenix reviews;2;0.25873716943821756;TestRUN
+0406;0;university of phoenix transcripts;3;0.2282161830915585;TestRUN
+0406;0;university of phoenix address;4;0.20246718915543746;TestRUN
+0406;0;university of phoenix jobs;5;0.17561700013544645;TestRUN
+0406;0;university of phoenix ecampus;6;0.17135339600170268;TestRUN
+0406;0;university of phoenix stadium;7;0.1628218205700693;TestRUN
+0406;0;university of phoenix accreditation;8;0.15505445190522343;TestRUN
+0406;0;university of phoenix tuition;9;0.14354963682281396;TestRUN
+0406;0;university of phoenix scam;10;0.13363417515765103;TestRUN
+0406;0;University Phoenix Student Web eCampus;11;0.12760609111600565;TestRUN
+0406;0;university of phoenix financial aid;12;0.11962601556607831;TestRUN
+0406;0;university of phoenix employment;13;0.11741382997473124;TestRUN
+0406;0;university of phoenix student web;14;0.1166697305403708;TestRUN
+0406;0;University Phoenix Student Web;15;0.1074599740659324;TestRUN
+0406;0;university of phoenix student portal;16;0.10470488501190665;TestRUN
+0406;0;University of Phoenix Logo;17;0.10470488501190665;TestRUN
+0406;0;University Phoenix Free;18;0.10470488501190665;TestRUN
+0406;0;university of phoenix student login;19;0.10470488501190665;TestRUN
+0406;0;University Phoenix Student Site;20;0.10470488501190665;TestRUN
+0406;0;University Phoenix myCampus;21;0.10470488501190665;TestRUN
+0407;0;the beatles rock band songs;1;0.3338953536198451;TestRUN
+0407;0;the beatles rock band cheats;2;0.29394073656182196;TestRUN
+0407;0;the beatles rock band setlist;3;0.23659708009550884;TestRUN
+0407;0;the beatles rock band guitar;4;0.2099063270734208;TestRUN
+0407;0;the beatles rock band dlc;5;0.20073337836651922;TestRUN
+0407;0;the beatles rock band song list;6;0.16880542461150377;TestRUN
+0407;0;the beatles rock band ps2;7;0.1662371918130596;TestRUN
+0407;0;the beatles rock band wii;8;0.14513342106667632;TestRUN
+0407;0;the beatles rock band instruments;9;0.1418586695688113;TestRUN
+0407;0;the beatles rock band achievements;10;0.13946219864195677;TestRUN
+0407;0;the beatles rock band ps3;11;0.1321675484521487;TestRUN
+0407;0;the beatles rock band 2;12;0.13169481423567836;TestRUN
+0407;0;The Beatles Biography;13;0.12760609111600565;TestRUN
+0407;0;The Beatles Site Site;14;0.1166697305403708;TestRUN
+0407;0;The Beatles;15;0.11577780489100298;TestRUN
+0407;0;the beatles rock band on youtube;16;0.11317475841397963;TestRUN
+0407;0;The Beatles Rock Band Music;17;0.11020320897012137;TestRUN
+0407;0;the beatles rock band review;18;0.1096875305549074;TestRUN
+0407;0;The Beatles Pictures;19;0.1074599740659324;TestRUN
+0407;0;The Beatles Albums;20;0.10470488501190665;TestRUN
+0407;0;the beatles rock band wii bundle;21;0.10470488501190665;TestRUN
+0407;0;the beatles rock band achievement guide;22;0.10470488501190665;TestRUN
+0407;0;the beatles rock band premium bundle;23;0.10470488501190665;TestRUN
+0407;0;The Beatles Rock Band Wiki;24;0.10470488501190665;TestRUN
+0407;0;the beatles rock band game;25;0.10470488501190665;TestRUN
+0407;0;the beatles rock band xbox 360 bundle;26;0.10470488501190665;TestRUN
+0407;0;The Beatles Music;27;0.10470488501190665;TestRUN
+0408;0;septic system design software;1;2.041963799956846;TestRUN
+0408;0;septic system design manual;2;0.5051910163021863;TestRUN
+0408;0;septic system design drawings;3;0.25087441047788067;TestRUN
+0408;0;septic system design basics;4;0.23900949491845327;TestRUN
+0408;0;septic system design nj;5;0.23631474616486872;TestRUN
+0408;0;septic system design drainfield;6;0.19628254074718907;TestRUN
+0408;0;septic system design nh;7;0.16100223737307426;TestRUN
+0408;0;septic system design alaska;8;0.14354963682281396;TestRUN
+0408;0;septic system design maine;9;0.13363417515765103;TestRUN
+0408;0;Home Septic Systems;10;0.13172186240853004;TestRUN
+0408;0;septic system design guidelines;11;0.11741382997473124;TestRUN
+0408;0;Types of Septic Systems;12;0.1166697305403708;TestRUN
+0408;0;Simple Septic System Design;13;0.11631100000447267;TestRUN
+0408;0;septic system design requirements;14;0.11069577425793553;TestRUN
+0408;0;Septic Tank Design;15;0.11036397005251836;TestRUN
+0408;0;septic system design soil;16;0.1074599740659324;TestRUN
+0408;0;septic system design/infiltrators;17;0.10470488501190665;TestRUN
+0408;0;septic system designers;18;0.10470488501190665;TestRUN
+0408;0;Septic Drain Field Design;19;0.10470488501190665;TestRUN
+0408;0;Leach Field Design;20;0.10470488501190665;TestRUN
+0408;0;Septic Tank Installation;21;0.10470488501190665;TestRUN
+0408;0;septic system designs drainfield;22;0.10470488501190665;TestRUN
+0408;0;septic system design drainfield size;23;0.10470488501190665;TestRUN
+0408;0;septic system designs incorporated 60097;24;0.10470488501190665;TestRUN
+0408;0;Do It Yourself Septic System;25;0.10470488501190665;TestRUN
+0408;0;septic system designers nh;26;0.10470488501190665;TestRUN
+0408;0;septic system design tires virginia;27;0.10470488501190665;TestRUN
+0408;0;septic system design cost;28;0.10470488501190665;TestRUN
+0408;0;septic system design texas;29;0.10470488501190665;TestRUN
+0409;0;porterville college;1;0.46154276928675014;TestRUN
+0409;0;porterville recorder;2;0.2665907610566043;TestRUN
+0409;0;porterville mls;3;0.22774073134428913;TestRUN
+0409;0;porterville high school;4;0.1823457569997463;TestRUN
+0409;0;porterville weather;5;0.17785358046162306;TestRUN
+0409;0;porterville ca;6;0.1751101785556964;TestRUN
+0409;0;porterville courthouse;7;0.1628800626136652;TestRUN
+0409;0;porterville adult school;8;0.15118469833142179;TestRUN
+0409;0;porterville unified school district;9;0.14302420686438197;TestRUN
+0409;0;porterville police department;10;0.14022668535319666;TestRUN
+0409;0;porterville fair;11;0.13003665102762318;TestRUN
+0409;0;porterville developmental center;12;0.12247279270698914;TestRUN
+0409;0;Porterville Hospital;13;0.1074599740659324;TestRUN
+0409;0;Porterville Homes for Sale;14;0.10470488501190665;TestRUN
+0409;0;Porterville Jobs;15;0.10470488501190665;TestRUN
+0409;0;Map of Porterville CA;16;0.10470488501190665;TestRUN
+0409;0;Porterville Hotels;17;0.10470488501190665;TestRUN
+0409;0;porterville.com;18;0.10470488501190665;TestRUN
+0409;0;portervillerecorder.com;19;0.10470488501190665;TestRUN
+0409;0;Porterville Community College;20;0.10470488501190665;TestRUN
+0410;0;grilling recipes;1;0.4770967897671902;TestRUN
+0410;0;grilling ideas;2;0.23550599340225822;TestRUN
+0410;0;grilling corn;3;0.22501984688692256;TestRUN
+0410;0;grilling salmon;4;0.19468933573258684;TestRUN
+0410;0;grilling vegetables;5;0.17371812296075947;TestRUN
+0410;0;grilling steak;6;0.15957292809735438;TestRUN
+0410;0;grilling chicken;7;0.14821964010350797;TestRUN
+0410;0;grilling lobster tails;8;0.14538000685110758;TestRUN
+0410;0;grilling asparagus;9;0.14227840058548316;TestRUN
+0410;0;grilling pork chops;10;0.1417163051850375;TestRUN
+0410;0;grilling chicken breasts;11;0.1256588464080315;TestRUN
+0410;0;grilling tips;12;0.1240349732277503;TestRUN
+0410;0;Charcoal Grilling;13;0.12373972895806096;TestRUN
+0410;0;grilling corn on the cob;14;0.11915542942202814;TestRUN
+0410;0;grilling ribs;15;0.11355316654659818;TestRUN
+0410;0;Easy Grilling Recipes;16;0.11036397005251836;TestRUN
+0410;0;grilling lobster;17;0.10894966908299747;TestRUN
+0410;0;Grilling Potatoes;18;0.10470488501190665;TestRUN
+0410;0;Outdoor Grilling Tips;19;0.10470488501190665;TestRUN
+0410;0;Memorial Day Grilling Recipes;20;0.10470488501190665;TestRUN
+0410;0;Cooking Chicken;21;0.10470488501190665;TestRUN
+0410;0;grilling steaks;22;0.10470488501190665;TestRUN
+0411;0;furniture for small spaces toronto;1;0.38606574656729836;TestRUN
+0411;0;furniture for small spaces sofa;2;0.2687759222621471;TestRUN
+0411;0;furniture for small spaces seattle;3;0.21754068437198287;TestRUN
+0411;0;furniture for small spaces kids;4;0.2121357579773292;TestRUN
+0411;0;furniture for small spaces canada;5;0.18684677319534568;TestRUN
+0411;0;furniture for small spaces nyc;6;0.17914519707832308;TestRUN
+0411;0;furniture for small spaces stores;7;0.17398169892297366;TestRUN
+0411;0;Small-Scale Furniture;8;0.13950775843447258;TestRUN
+0411;0;furniture for small spaces chicago;9;0.13701663752128967;TestRUN
+0411;0;Small Apartment Furniture;10;0.13172186240853004;TestRUN
+0411;0;furniture for small spaces michigan;11;0.1279546651363098;TestRUN
+0411;0;furniture for small spaces new york;12;0.12707027625554443;TestRUN
+0411;0;furniture for small spaces uk;13;0.12259132573959386;TestRUN
+0411;0;furniture for small spaces one room living;14;0.12010077194794959;TestRUN
+0411;0;furniture for small spaces modern;15;0.1166697305403708;TestRUN
+0411;0;furniture for small spaces australia;16;0.11516809425015594;TestRUN
+0411;0;Apartment Furniture;17;0.11467532039616257;TestRUN
+0411;0;Thomasville Furniture;18;0.11359363448195114;TestRUN
+0411;0;IKEA Furniture;19;0.11253216409428617;TestRUN
+0411;0;furniture for small spaces living room;20;0.1073837109562251;TestRUN
+0411;0;Furniture Solutions for Small Spaces;21;0.10470488501190665;TestRUN
+0411;0;furniture for small spaces miami fl;22;0.10470488501190665;TestRUN
+0411;0;furniture for small spaces san francisco;23;0.10470488501190665;TestRUN
+0411;0;Furniture for Small Rooms;24;0.10470488501190665;TestRUN
+0411;0;Decorating Ideas for Small Spaces;25;0.10470488501190665;TestRUN
+0411;0;furniture for small spaces san diego;26;0.10470488501190665;TestRUN
+0411;0;furniture for small spaces images;27;0.10470488501190665;TestRUN
+0412;0;dnr mn;1;2.566445620102517;TestRUN
+0412;0;dnr indiana;2;0.47075861308921946;TestRUN
+0412;0;dnr maryland;3;0.20637278839908368;TestRUN
+0412;0;dnr sc;4;0.19827594762218434;TestRUN
+0412;0;dnr michigan;5;0.18506229865260787;TestRUN
+0412;0;dnr wisconsin;6;0.17145652547512946;TestRUN
+0412;0;dnr lake finder;7;0.15456800114654576;TestRUN
+0412;0;dnr illinois;8;0.1516500544865212;TestRUN
+0412;0;dnr.wi.gov;9;0.13932331167454923;TestRUN
+0412;0;Illinois DNR;10;0.13172186240853004;TestRUN
+0412;0;dnronline;11;0.12961914189822576;TestRUN
+0412;0;Wisconsin DNR;12;0.11754987890286217;TestRUN
+0412;0;Georgia Department of Natural Resources;13;0.11578454185881315;TestRUN
+0412;0;DNR Forms;14;0.11165139095246113;TestRUN
+0412;0;dnrec;15;0.10544974223409134;TestRUN
+0412;0;Minnesota DNR;16;0.10470488501190665;TestRUN
+0412;0;Iowa DNR;17;0.10470488501190665;TestRUN
+0413;0;arkansas lottery;1;0.8633692393927542;TestRUN
+0413;0;arkansas map;2;0.26091704088155443;TestRUN
+0413;0;arkansas razorbacks;3;0.21545368578841617;TestRUN
+0413;0;arkansas democrat gazette;4;0.19776116111359351;TestRUN
+0413;0;arkansas football;5;0.16509966589661196;TestRUN
+0413;0;arkansas children's hospital;6;0.16234335531718228;TestRUN
+0413;0;arkansas department of education;7;0.16154566189906613;TestRUN
+0413;0;arkansas state university;8;0.15869320743358203;TestRUN
+0413;0;arkansas state parks;9;0.14977530168946843;TestRUN
+0413;0;arkansas baseball;10;0.14396911220539027;TestRUN
+0413;0;arkansas game and fish;11;0.1406579470329781;TestRUN
+0413;0;arkansas state jobs;12;0.1390133734933878;TestRUN
+0413;0;arkansas department of corrections;13;0.12124712622042566;TestRUN
+0413;0;Arkansas State;14;0.11036397005251836;TestRUN
+0413;0;AR Weather Radar;15;0.10470488501190665;TestRUN
+0413;0;Mena Arkansas;16;0.10470488501190665;TestRUN
+0413;0;Arkansas Razorbacks Football;17;0.10470488501190665;TestRUN
+0413;0;Arkansas Highway Map;18;0.10470488501190665;TestRUN
+0413;0;Flooding in Arkansas;19;0.10470488501190665;TestRUN
+0413;0;Arkansas Cities;20;0.10470488501190665;TestRUN
+0414;0;hobby stores mn;1;0.34333157621494;TestRUN
+0414;0;hobby stores nyc;2;0.25873716943821756;TestRUN
+0414;0;hobby stores in maryland;3;0.20766957804490604;TestRUN
+0414;0;hobby stores online;4;0.20413602193128236;TestRUN
+0414;0;hobby stores nj;5;0.19165522739785812;TestRUN
+0414;0;hobby stores denver;6;0.1846524724518007;TestRUN
+0414;0;hobby stores in utah;7;0.17195893795809775;TestRUN
+0414;0;hobby stores near me;8;0.15741148115714265;TestRUN
+0414;0;hobby stores in colorado;9;0.15505445190522343;TestRUN
+0414;0;RC Hobby Shop Online;10;0.13586754075287177;TestRUN
+0414;0;Hobby Shop Locator;11;0.13172186240853004;TestRUN
+0414;0;hobby stores in michigan;12;0.12707027625554443;TestRUN
+0414;0;hobby stores in nj;13;0.125;TestRUN
+0414;0;hobby stores in minnesota;14;0.12010077194794959;TestRUN
+0414;0;hobby stores in california;15;0.1166697305403708;TestRUN
+0414;0;hobby stores las vegas;16;0.11631100000447267;TestRUN
+0414;0;hobby stores in massachusetts;17;0.11069577425793553;TestRUN
+0414;0;Hobby Lobby Stores;18;0.1073837109562251;TestRUN
+0414;0;hobby stores in san diego;19;0.10470488501190665;TestRUN
+0414;0;hobby stores in los angeles;20;0.10470488501190665;TestRUN
+0414;0;Hobby Store Locations;21;0.10470488501190665;TestRUN
+0414;0;Online Hobby Shop;22;0.10470488501190665;TestRUN
+0414;0;Hobby Models;23;0.10470488501190665;TestRUN
+0414;0;Largest R/C Hobby Stores;24;0.10470488501190665;TestRUN
+0414;0;hobby stores in ma;25;0.10470488501190665;TestRUN
+0414;0;hobby stores in miami;26;0.10470488501190665;TestRUN
+0414;0;RC Hobby Shops;27;0.10470488501190665;TestRUN
+0415;0;blue throated hummingbird facts;1;0.30862082360959986;TestRUN
+0415;0;blue throated hummingbird habitat;2;0.26366102541680775;TestRUN
+0415;0;blue throated hummingbird female;3;0.2392748669248377;TestRUN
+0415;0;blue throated hummingbird texas;4;0.21988236438929243;TestRUN
+0415;0;blue throated hummingbird discovered;5;0.1974423090301164;TestRUN
+0415;0;blue throated hummingbird images;6;0.17915833700029607;TestRUN
+0415;0;blue throated hummingbird pictures;7;0.16880542461150377;TestRUN
+0415;0;blue throated hummingbird physiology;8;0.14020707656930564;TestRUN
+0415;0;blue throated hummingbird information;9;0.13073276454644664;TestRUN
+0415;0;Blue Hummingbird on the Left;10;0.12760609111600565;TestRUN
+0415;0;blue throated hummingbirds habitat;11;0.12739122383835005;TestRUN
+0415;0;blue throated hummingbird photos;12;0.12717707894531102;TestRUN
+0415;0;blue throated hummingbird nest;13;0.12617437627913125;TestRUN
+0415;0;blue throated hummingbird song;14;0.12245783461311466;TestRUN
+0415;0;Blue Hummingbird Southern Arizona;15;0.1166697305403708;TestRUN
+0415;0;Large Hummingbirds;16;0.11577780489100298;TestRUN
+0415;0;blue throated hummingbird predators;17;0.11516809425015594;TestRUN
+0415;0;Blue-bellied Hummingbird;18;0.11467532039616257;TestRUN
+0415;0;blue throated hummingbirds wings;19;0.11317475841397963;TestRUN
+0415;0;Hummingbird with Green Back;20;0.1074599740659324;TestRUN
+0415;0;Blue Throat Bird;21;0.10470488501190665;TestRUN
+0415;0;Blue Throat Yoga;22;0.10470488501190665;TestRUN
+0415;0;blue-throated hummingbird migration;23;0.10470488501190665;TestRUN
+0415;0;blue-throated hummingbird food;24;0.10470488501190665;TestRUN
+0415;0;blue throated hummingbird picture;25;0.10470488501190665;TestRUN
+0415;0;Blue Book Cornell;26;0.10470488501190665;TestRUN
+0416;0;computer programming jobs;1;0.49138053994154696;TestRUN
+0416;0;computer programming languages;2;0.29991624808451045;TestRUN
+0416;0;computer programming basics;3;0.23550599340225822;TestRUN
+0416;0;computer programming salary;4;0.19792046295560406;TestRUN
+0416;0;computer programming degree;5;0.1825543420062228;TestRUN
+0416;0;computer programming schools;6;0.17150900270078448;TestRUN
+0416;0;computer programming for kids;7;0.16006099836352494;TestRUN
+0416;0;computer programming classes;8;0.15357233514031796;TestRUN
+0416;0;computer programming for beginners;9;0.13746124372312496;TestRUN
+0416;0;computer programming courses;10;0.13253181659501478;TestRUN
+0416;0;computer programming salary 2012;11;0.1293538249462979;TestRUN
+0416;0;computer programming software;12;0.1240349732277503;TestRUN
+0416;0;Introduction to Computer Programming;13;0.12010077194794959;TestRUN
+0416;0;computer programming for dummies;14;0.11915542942202814;TestRUN
+0416;0;Learn Computer Programming;15;0.10470488501190665;TestRUN
+0416;0;Information on Computer Programming;16;0.10470488501190665;TestRUN
+0416;0;Computer Programming Job Description;17;0.10470488501190665;TestRUN
+0416;0;How to Do Computer Programming;18;0.10470488501190665;TestRUN
+0416;0;Free Computer Programming Software;19;0.10470488501190665;TestRUN
+0416;0;Computer Programming Tutorial;20;0.10470488501190665;TestRUN
+0417;0;barbados resorts;1;0.31579149032497245;TestRUN
+0417;0;barbados airport;2;0.27504108961943724;TestRUN
+0417;0;barbados lottery;3;0.17785358046162306;TestRUN
+0417;0;barbados map;4;0.16570026539208838;TestRUN
+0417;0;barbados news;5;0.1628800626136652;TestRUN
+0417;0;barbados advocate;6;0.16243747504665199;TestRUN
+0417;0;barbados underground;7;0.15023200875607615;TestRUN
+0417;0;barbados today;8;0.14505764163671334;TestRUN
+0417;0;barbados nation;9;0.13940672004404336;TestRUN
+0417;0;Barbados Music;10;0.13172186240853004;TestRUN
+0417;0;barbados weather;11;0.13003665102762318;TestRUN
+0417;0;barbados nation newspaper;12;0.12653942908539492;TestRUN
+0417;0;barbados real estate;13;0.1256588464080315;TestRUN
+0417;0;barbados all inclusive;14;0.12341357196793608;TestRUN
+0417;0;barbados radio stations;15;0.12124712622042566;TestRUN
+0417;0;barbados hotels;16;0.11856285407100305;TestRUN
+0417;0;barbados public workers credit union;17;0.11713467858191597;TestRUN
+0417;0;Barbados Museum;18;0.10470488501190665;TestRUN
+0417;0;Bridgetown Barbados;19;0.10470488501190665;TestRUN
+0417;0;Facts About Barbados;20;0.10470488501190665;TestRUN
+0417;0;Barbados Beaches;21;0.10470488501190665;TestRUN
+0418;0;lipoma removal;1;0.35716344504134595;TestRUN
+0418;0;lipoma symptoms;2;0.329950339393707;TestRUN
+0418;0;lipoma pain;3;0.24070347834216124;TestRUN
+0418;0;lipoma surgery;4;0.21406980417430124;TestRUN
+0418;0;lipoma in dogs;5;0.165658240100395;TestRUN
+0418;0;lipoma firs;6;0.16071934840856142;TestRUN
+0418;0;lipoma forum;7;0.14839194011649584;TestRUN
+0418;0;lipoma back;8;0.13782087789062306;TestRUN
+0418;0;lipomatosis;9;0.1356239776163638;TestRUN
+0418;0;lipoma excision;10;0.12865576994262182;TestRUN
+0418;0;lipoma treatment;11;0.1279908844939507;TestRUN
+0418;0;lipoma firs golf course;12;0.1256588464080315;TestRUN
+0418;0;Pictures Lipomas Tumor;13;0.12373972895806096;TestRUN
+0418;0;lipoma pictures;14;0.11680080020159941;TestRUN
+0418;0;lipomassage;15;0.1073837109562251;TestRUN
+0418;0;Lipoma Fatty Tumors Humans;16;0.10470488501190665;TestRUN
+0418;0;Causes of Lipoma Tumors;17;0.10470488501190665;TestRUN
+0418;0;Painful Lipoma;18;0.10470488501190665;TestRUN
+0418;0;lipomastia;19;0.10470488501190665;TestRUN
+0418;0;Liposarcomas;20;0.10470488501190665;TestRUN
+0418;0;Lipoma Abdominal;21;0.10470488501190665;TestRUN
+0419;0;battles in the civil war timeline;1;0.3859580183059315;TestRUN
+0419;0;battles in the civil war wiki;2;0.2893617887696531;TestRUN
+0419;0;battles in the civil war in order;3;0.24925721446592053;TestRUN
+0419;0;battles in the civil war list;4;0.2434369622519257;TestRUN
+0419;0;battles in the civil war 1864;5;0.22475584919610528;TestRUN
+0419;0;battles in the civil war west;6;0.20136295854210318;TestRUN
+0419;0;battles in the civil war maps;7;0.16666874489834668;TestRUN
+0419;0;battles of the civil war;8;0.15953823027250083;TestRUN
+0419;0;battles in the civil war who won;9;0.13397394669286103;TestRUN
+0419;0;battles in the civil war in 1863;10;0.13065230986115836;TestRUN
+0419;0;Major Battles Civil War;11;0.12760609111600565;TestRUN
+0419;0;battles in the civil war in 1861;12;0.12702036559854507;TestRUN
+0419;0;battles in the civil war in tennessee;13;0.11910792110253013;TestRUN
+0419;0;battles in the civil war during 1864;14;0.11396059780064133;TestRUN
+0419;0;Civil War Reenactment;15;0.11342928044398144;TestRUN
+0419;0;battles in the civil war in alabama;16;0.11012815070237975;TestRUN
+0419;0;Civil War Timeline;17;0.10896243332880662;TestRUN
+0419;0;Civil War Soldiers;18;0.10544974223409134;TestRUN
+0419;0;Civil War Grant;19;0.10470488501190665;TestRUN
+0419;0;Civil War Battle Scenes;20;0.10470488501190665;TestRUN
+0419;0;Civil War Battle Information;21;0.10470488501190665;TestRUN
+0419;0;battles in the civil war in the east coast;22;0.10470488501190665;TestRUN
+0419;0;battles in the civil war in virginia;23;0.10470488501190665;TestRUN
+0419;0;Civil War Battle of Gettysburg;24;0.10470488501190665;TestRUN
+0420;0;scooters coffee;1;0.3437528068246145;TestRUN
+0420;0;scooters for sale;2;0.2158951490009643;TestRUN
+0420;0;scooters chicago;3;0.2112550037500055;TestRUN
+0420;0;scooters jungle;4;0.20397929945342916;TestRUN
+0420;0;scooters for kids;5;0.19603799445376355;TestRUN
+0420;0;scooters denver;6;0.19045805361574666;TestRUN
+0420;0;scooters omaha;7;0.17338883020515555;TestRUN
+0420;0;scooters restaurant;8;0.14703389881561715;TestRUN
+0420;0;Gas Scooters;9;0.13126477902226796;TestRUN
+0420;0;scooters chicken;10;0.13003665102762318;TestRUN
+0420;0;Scooters and Motor Scooters;11;0.12760609111600565;TestRUN
+0420;0;scooters jungle el segundo;12;0.1256588464080315;TestRUN
+0420;0;scooters pizza;13;0.1240349732277503;TestRUN
+0420;0;scooters bar and grill;14;0.12341357196793608;TestRUN
+0420;0;scooters mopeds;15;0.11856285407100305;TestRUN
+0420;0;scooters and mopeds;16;0.11713467858191597;TestRUN
+0420;0;scooters for adults;17;0.11518132438607794;TestRUN
+0420;0;scooters.com;18;0.11317475841397963;TestRUN
+0420;0;250Cc Scooters;19;0.11036397005251836;TestRUN
+0420;0;Honda Scooter;20;0.11028353092570951;TestRUN
+0420;0;Electric Scooters;21;0.11020320897012137;TestRUN
+0420;0;Motor Scooter;22;0.10470488501190665;TestRUN
+0420;0;scooter's jungle;23;0.10470488501190665;TestRUN
+0420;0;Suzuki Scooters;24;0.10470488501190665;TestRUN
+0420;0;Yamaha Scooters;25;0.10470488501190665;TestRUN
+0420;0;scooter store;26;0.10470488501190665;TestRUN
+0421;0;ron howard bio;1;0.2649031614326299;TestRUN
+0421;0;ron howard death;2;0.25873716943821756;TestRUN
+0421;0;ron howard wiki;3;0.2282161830915585;TestRUN
+0421;0;ron howard twitter;4;0.20413602193128236;TestRUN
+0421;0;ron howard movies;5;0.19138625528492056;TestRUN
+0421;0;ron howard development;6;0.1846524724518007;TestRUN
+0421;0;ron howard's brother;7;0.1619314806857892;TestRUN
+0421;0;ron howard's daughter;8;0.15607695005411845;TestRUN
+0421;0;ron howard films;9;0.14701290371528208;TestRUN
+0421;0;ron howard jewish;10;0.14354963682281396;TestRUN
+0421;0;ron howard rush;11;0.13363417515765103;TestRUN
+0421;0;Rance Howard;12;0.13172186240853004;TestRUN
+0421;0;ron howard net worth;13;0.11962601556607831;TestRUN
+0421;0;ron howard imdb;14;0.11741382997473124;TestRUN
+0421;0;ron howard daughter;15;0.11685981313950454;TestRUN
+0421;0;Clint Howard;16;0.1166697305403708;TestRUN
+0421;0;ron howards brother;17;0.11342928044398144;TestRUN
+0421;0;ron howard a beautiful mind;18;0.1073837109562251;TestRUN
+0421;0;Ron Howard's Girl;19;0.10470488501190665;TestRUN
+0421;0;What Religion Is Ron Howard;20;0.10470488501190665;TestRUN
+0421;0;ron howard happy days;21;0.10470488501190665;TestRUN
+0421;0;ron howard's children;22;0.10470488501190665;TestRUN
+0421;0;Ron Howard Family Pictures;23;0.10470488501190665;TestRUN
+0421;0;Ronnie Howard Brother;24;0.10470488501190665;TestRUN
+0421;0;ron howard matthew mcconaughey;25;0.10470488501190665;TestRUN
+0421;0;ron howard opie taylor;26;0.10470488501190665;TestRUN
+0421;0;1999 Ron Howard Satire;27;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal online;1;0.3740192961390009;TestRUN
+0422;0;becoming a paralegal in florida;2;0.32244485025501973;TestRUN
+0422;0;becoming a paralegal in texas;3;0.2899099258853203;TestRUN
+0422;0;becoming a paralegal in california;4;0.23631474616486872;TestRUN
+0422;0;becoming a paralegal in ontario;5;0.2282161830915585;TestRUN
+0422;0;becoming a paralegal in missouri;6;0.1846524724518007;TestRUN
+0422;0;becoming a paralegal in pa;7;0.16100223737307426;TestRUN
+0422;0;becoming a paralegal in virginia;8;0.13363417515765103;TestRUN
+0422;0;becoming a paralegal in ct;9;0.125;TestRUN
+0422;0;Steps to Becoming a Paralegal;10;0.12373972895806096;TestRUN
+0422;0;becoming a paralegal in colorado;11;0.11741382997473124;TestRUN
+0422;0;becoming a paralegal in georgia;12;0.11069577425793553;TestRUN
+0422;0;Benefits of Becoming a Paralegal;13;0.11036397005251836;TestRUN
+0422;0;becoming a paralegal with a bachelor's degree;14;0.1074599740659324;TestRUN
+0422;0;Requirements for Becoming a Paralegal;15;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal after the age of 50;16;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal in washington state;17;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal in ny;18;0.10470488501190665;TestRUN
+0422;0;How to Become a Paralegal in California;19;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal in new jersey;20;0.10470488501190665;TestRUN
+0422;0;becoming a paralegal in maryland;21;0.10470488501190665;TestRUN
+0422;0;How Long to Become Paralegal;22;0.10470488501190665;TestRUN
+0423;0;hip fractures treatment;1;0.3333333333333333;TestRUN
+0423;0;hip fractures osteoporosis;2;0.25873716943821756;TestRUN
+0423;0;hip fractures types;3;0.23444388454081905;TestRUN
+0423;0;hip fractures mortality;4;0.2282161830915585;TestRUN
+0423;0;hip fractures radiology;5;0.20413602193128236;TestRUN
+0423;0;hip fractures symptoms;6;0.16856405245874595;TestRUN
+0423;0;hip fractures in the elderly;7;0.16210496370461402;TestRUN
+0423;0;hip fractures classification;8;0.1540897425512244;TestRUN
+0423;0;hip fractures in children;9;0.15313696332337373;TestRUN
+0423;0;hip fractures in elderly women;10;0.14002301787753388;TestRUN
+0423;0;hip fractures and death;11;0.125;TestRUN
+0423;0;hip fractures in childnre;12;0.11741382997473124;TestRUN
+0423;0;Hip Fracture Repair;13;0.11342928044398144;TestRUN
+0423;0;hip fractures and mortality;14;0.11334431266214207;TestRUN
+0423;0;hip fractures in dogs;15;0.11069577425793553;TestRUN
+0423;0;Hip Fracture ICD-9;16;0.1074599740659324;TestRUN
+0423;0;Types of Hip Fractures;17;0.10470488501190665;TestRUN
+0423;0;hip fractures in the elderly prognosis;18;0.10470488501190665;TestRUN
+0423;0;Recovery Time for Hip Fracture;19;0.10470488501190665;TestRUN
+0423;0;hip fractures in the elderly recovery;20;0.10470488501190665;TestRUN
+0423;0;Hairline Hip Fracture;21;0.10470488501190665;TestRUN
+0423;0;Hip Stress Fracture;22;0.10470488501190665;TestRUN
+0423;0;Life Expectancy After Hip Fracture;23;0.10470488501190665;TestRUN
+0423;0;hip fractures in elderly people;24;0.10470488501190665;TestRUN
+0424;0;rock art signs;1;0.45788925318140317;TestRUN
+0424;0;rock art ranch;2;0.43759085006995513;TestRUN
+0424;0;rock art foundation;3;0.2726987674814323;TestRUN
+0424;0;rock art brewery;4;0.24382479934255072;TestRUN
+0424;0;rock art posters;5;0.20413602193128236;TestRUN
+0424;0;rock artists;6;0.18885598758073302;TestRUN
+0424;0;rock art show;7;0.1832859311031708;TestRUN
+0424;0;rock art namibia;8;0.15505445190522343;TestRUN
+0424;0;rock artist list;9;0.14597308195499661;TestRUN
+0424;0;rock art beer;10;0.14354963682281396;TestRUN
+0424;0;Painting Animals Rocks Free Patterns;11;0.12502436778626275;TestRUN
+0424;0;Rock'n Roll Art;12;0.1166697305403708;TestRUN
+0424;0;rock artists 2011;13;0.11145755892785963;TestRUN
+0424;0;rock artists a-z;14;0.10907959187699734;TestRUN
+0424;0;rock artists of the 80's;15;0.10750909559661512;TestRUN
+0424;0;Rock Painting;16;0.1074599740659324;TestRUN
+0424;0;rock artists of the 2000's;17;0.10655781696814261;TestRUN
+0424;0;Rock Sculpture;18;0.10470488501190665;TestRUN
+0424;0;African Rock Art;19;0.10470488501190665;TestRUN
+0424;0;Native American Rock Art;20;0.10470488501190665;TestRUN
+0424;0;Stone Art;21;0.10470488501190665;TestRUN
+0424;0;Painted Rock Art;22;0.10470488501190665;TestRUN
+0425;0;signs of a heart attack;1;0.574959811989081;TestRUN
+0425;0;signs of a heartattack or stroke;2;0.4987370358574532;TestRUN
+0425;0;signs of a heart attack in women;3;0.27197430903609504;TestRUN
+0425;0;signs of a heartattack in females;4;0.21339905352050528;TestRUN
+0425;0;signs of a heart attack in men;5;0.19380094292662636;TestRUN
+0425;0;signs of a heartattack in young women;6;0.19326535791716892;TestRUN
+0425;0;signs of a heartattack in a man;7;0.17257369271152792;TestRUN
+0425;0;signs of a heartattack in a woman;8;0.16483567489172188;TestRUN
+0425;0;signs of a heart attack coming;9;0.15286443913842526;TestRUN
+0425;0;Heart Attack Early Warning Signs;10;0.12373972895806096;TestRUN
+0425;0;signs of a heart attack in women over 60;11;0.11923967353188641;TestRUN
+0425;0;Anxiety Heart Attack Symptoms;12;0.11816539246756716;TestRUN
+0425;0;Signs Heart Attack Women;13;0.1166697305403708;TestRUN
+0425;0;what are the signs of a heart attack;14;0.11558276856521926;TestRUN
+0425;0;First Signs Heart Attack;15;0.11036397005251836;TestRUN
+0425;0;signs of a heart attack in women over 50;16;0.1073837109562251;TestRUN
+0425;0;Symptoms Heart Attack Men;17;0.10544974223409134;TestRUN
+0425;0;Heart Attack Symptoms Left Arm;18;0.10470488501190665;TestRUN
+0425;0;Early Symptoms Heart Attack;19;0.10470488501190665;TestRUN
+0425;0;Women Heart Attack Symptoms;20;0.10470488501190665;TestRUN
+0426;0;weather stripping;1;0.2994863643668817;TestRUN
+0426;0;weather strip under door;2;0.2325121281678663;TestRUN
+0426;0;weather striping;3;0.20664536090597488;TestRUN
+0426;0;weather stripping tape;4;0.2013846474420389;TestRUN
+0426;0;weather stripping doors;5;0.16999332965828426;TestRUN
+0426;0;weather striping doors;6;0.1681635206480044;TestRUN
+0426;0;weather striping for cars;7;0.16000036372271922;TestRUN
+0426;0;weatherstrip;8;0.1571176262536828;TestRUN
+0426;0;weather striping windows;9;0.14721173342439942;TestRUN
+0426;0;weather stripping walmart;10;0.13837415657549862;TestRUN
+0426;0;Door Weatherstripping;11;0.12373972895806096;TestRUN
+0426;0;weather stripping window;12;0.12354105172427429;TestRUN
+0426;0;weather stripping windows;13;0.11725636669114667;TestRUN
+0426;0;weather stripping for car doors;14;0.11253216409428617;TestRUN
+0426;0;weather stripping videos;15;0.1124264311392425;TestRUN
+0426;0;weather striping for 1993 corvette;16;0.11149034777061023;TestRUN
+0426;0;weather striping for garage doors;17;0.11046764464959366;TestRUN
+0426;0;weather striping suburban 1996;18;0.10847751200922894;TestRUN
+0426;0;weather striping products;19;0.10797865602642022;TestRUN
+0426;0;weather stripping a door;20;0.10750909559661512;TestRUN
+0426;0;Weatherstrip Clips;21;0.1073837109562251;TestRUN
+0426;0;weather strips for doors;22;0.10655781696814261;TestRUN
+0426;0;weather stripping autozone;23;0.10631657445414791;TestRUN
+0426;0;weather stripping door bottom;24;0.10562322519024488;TestRUN
+0426;0;Rubber Weatherstrips;25;0.10470488501190665;TestRUN
+0426;0;Weatherstrip Seal;26;0.10470488501190665;TestRUN
+0426;0;The King McQueen;27;0.10470488501190665;TestRUN
+0426;0;Weatherstrip Door;28;0.10470488501190665;TestRUN
+0426;0;Weatherstrip Kits;29;0.10470488501190665;TestRUN
+0426;0;weather stripping for cars;30;0.10470488501190665;TestRUN
+0426;0;weather stripping doors types;31;0.10470488501190665;TestRUN
+0427;0;best long term care insurance providers;1;0.491698044132291;TestRUN
+0427;0;best long term care insurance book;2;0.2951228783042381;TestRUN
+0427;0;best long term care insurance rates;3;0.2413385533218017;TestRUN
+0427;0;best long term care insurance reviews;4;0.23118088453552849;TestRUN
+0427;0;best long term care insurance canada;5;0.20413602193128236;TestRUN
+0427;0;best long term care insurance program;6;0.16856405245874595;TestRUN
+0427;0;best long term care insurance policies;7;0.15505445190522343;TestRUN
+0427;0;best long term care insurance ratings;8;0.14513342106667632;TestRUN
+0427;0;best long term care insurance california;9;0.14109618716794398;TestRUN
+0427;0;best long term care insurance comparisons;10;0.13363417515765103;TestRUN
+0427;0;Long-Term Care Insurance Reviews;11;0.13172186240853004;TestRUN
+0427;0;best long term care insurance plan;12;0.125;TestRUN
+0427;0;best long term care insurance providers 2012;13;0.12333627928762018;TestRUN
+0427;0;Long-Term Care Insurance Ratings;14;0.12010077194794959;TestRUN
+0427;0;best long term care insurance companies;15;0.1166697305403708;TestRUN
+0427;0;Federal Long-Term Care Insurance;16;0.11317475841397963;TestRUN
+0427;0;best long term care insurance az;17;0.11069577425793553;TestRUN
+0427;0;best long term care insurance companies 2011;18;0.1074599740659324;TestRUN
+0427;0;best long term care insurance companies 2010;19;0.10470488501190665;TestRUN
+0427;0;Long-Term Care Insurance Cost;20;0.10470488501190665;TestRUN
+0427;0;Buying Long-Term Care Insurance;21;0.10470488501190665;TestRUN
+0427;0;best long term care insurance information;22;0.10470488501190665;TestRUN
+0427;0;GE Long-Term Care Insurance;23;0.10470488501190665;TestRUN
+0427;0;best long term care insurance plans;24;0.10470488501190665;TestRUN
+0427;0;best long term care insurance 2010;25;0.10470488501190665;TestRUN
+0427;0;best long term care insurance carriers;26;0.10470488501190665;TestRUN
+0427;0;AARP Long-Term Care Insurance;27;0.10470488501190665;TestRUN
+0427;0;USAA Long-Term Care Insurance;28;0.10470488501190665;TestRUN
+0428;0;pork tenderloin roast;1;0.4818208876454698;TestRUN
+0428;0;pork tenderloin marinade;2;0.25696861347922;TestRUN
+0428;0;pork tenderloin recipes;3;0.22752133089030324;TestRUN
+0428;0;pork tenderloin crockpot;4;0.22501984688692256;TestRUN
+0428;0;pork tenderloin crock pot;5;0.2143888483685896;TestRUN
+0428;0;pork tenderloin sandwich;6;0.1825543420062228;TestRUN
+0428;0;pork tenderloin temperature;7;0.1812185667997631;TestRUN
+0428;0;pork tenderloin cooking time;8;0.16789029710098521;TestRUN
+0428;0;pork tenderloin oven;9;0.15357233514031796;TestRUN
+0428;0;pork tenderloin slow cooker;10;0.1505146621087517;TestRUN
+0428;0;pork tenderloin rub;11;0.12781204363337764;TestRUN
+0428;0;How to Cook Pork Tenderloin;12;0.12760609111600565;TestRUN
+0428;0;pork tenderloin recipes oven;13;0.11915542942202814;TestRUN
+0428;0;Rachael Ray Pork Tenderloin;14;0.11342928044398144;TestRUN
+0428;0;Easy Baked Pork Tenderloin;15;0.1074599740659324;TestRUN
+0428;0;Baked Pork Tenderloin;16;0.10470488501190665;TestRUN
+0428;0;Simple Pork Tenderloin;17;0.10470488501190665;TestRUN
+0428;0;Grilled Pork Tenderloin;18;0.10470488501190665;TestRUN
+0428;0;Baked Pork Tenderloin Recipe;19;0.10470488501190665;TestRUN
+0428;0;pork tenderloin on the grill;20;0.10470488501190665;TestRUN
+0428;0;pork tenderloin recipes crock pot;21;0.10470488501190665;TestRUN
+0428;0;Pork Tenderloin Cooking Instructions;22;0.10470488501190665;TestRUN
+0429;0;black history facts;1;0.3258548409400478;TestRUN
+0429;0;black history timeline;2;0.23776694866025372;TestRUN
+0429;0;black history people;3;0.20471177144156089;TestRUN
+0429;0;black history skits;4;0.20157483572912294;TestRUN
+0429;0;black history month;5;0.18557753079473255;TestRUN
+0429;0;black history inventors;6;0.16681387404235906;TestRUN
+0429;0;black history trivia;7;0.15357233514031796;TestRUN
+0429;0;black history pictures;8;0.14227840058548316;TestRUN
+0429;0;black history poems;9;0.1275475060847608;TestRUN
+0429;0;black history month 2012;10;0.1256588464080315;TestRUN
+0429;0;black history month people;11;0.12341357196793608;TestRUN
+0429;0;black history month activities;12;0.12124712622042566;TestRUN
+0429;0;black history month facts;13;0.11915542942202814;TestRUN
+0429;0;black history plays;14;0.11856285407100305;TestRUN
+0429;0;black history quotes;15;0.10894966908299747;TestRUN
+0429;0;Little-Known Black History Facts;16;0.10470488501190665;TestRUN
+0429;0;Famous Black People;17;0.10470488501190665;TestRUN
+0429;0;Black Inventors;18;0.10470488501190665;TestRUN
+0429;0;African American History;19;0.10470488501190665;TestRUN
+0430;0;newyork hotels manhattan;1;1.3936421103061585;TestRUN
+0430;0;new york hotels;2;0.24681278310927293;TestRUN
+0430;0;newyork hotels cheap;3;0.21693715619397935;TestRUN
+0430;0;newyork hotels tripadvisor;4;0.19506432069325375;TestRUN
+0430;0;newyork hotels in manhattan;5;0.181691435337856;TestRUN
+0430;0;newyork hotels deals;6;0.1771981930312304;TestRUN
+0430;0;newyorkhotels.com;7;0.15422562382995725;TestRUN
+0430;0;newyork hotels near times square;8;0.14998553279213392;TestRUN
+0430;0;new york hotels in manhattan;9;0.14676136054951974;TestRUN
+0430;0;newyork hotels 4 or 5star vacation package;10;0.13411909481255088;TestRUN
+0430;0;new york hotels list;11;0.13154751197332368;TestRUN
+0430;0;New York City;12;0.12760609111600565;TestRUN
+0430;0;New York Post;13;0.1166697305403708;TestRUN
+0430;0;new york hotels near time square;14;0.11654781530875127;TestRUN
+0430;0;Trump Hotel New York;15;0.11631100000447267;TestRUN
+0430;0;new york hotels cheap;16;0.11428019493843504;TestRUN
+0430;0;new york hotel list;17;0.11342928044398144;TestRUN
+0430;0;new york hotels for cheap;18;0.10933355140749476;TestRUN
+0430;0;new york hotels w;19;0.10888183078390912;TestRUN
+0430;0;Manhattan Hotels;20;0.10697170846538644;TestRUN
+0430;0;Cheap Hotels in New York;21;0.10470488501190665;TestRUN
+0430;0;New York City Hotels;22;0.10470488501190665;TestRUN
+0430;0;New York Hotel Las Vegas;23;0.10470488501190665;TestRUN
+0430;0;new york hotels 5 star;24;0.10470488501190665;TestRUN
+0430;0;new york hotels downtown;25;0.10470488501190665;TestRUN
+0430;0;Hotels Times Square New York;26;0.10470488501190665;TestRUN
+0431;0;old coins pennies;1;0.6806545999856154;TestRUN
+0431;0;old coins worth;2;0.5085871152759152;TestRUN
+0431;0;old coins value;3;0.24831397233918304;TestRUN
+0431;0;old coins ebay;4;0.20413602193128236;TestRUN
+0431;0;old coins found;5;0.1846524724518007;TestRUN
+0431;0;old coins for sale;6;0.17692982600263546;TestRUN
+0431;0;old coins prices;7;0.16856405245874595;TestRUN
+0431;0;old coins dimes;8;0.14354963682281396;TestRUN
+0431;0;old coins and bills;9;0.14109618716794398;TestRUN
+0431;0;Old Coin Values;10;0.14054325195118547;TestRUN
+0431;0;old coins collection;11;0.13363417515765103;TestRUN
+0431;0;How to Clean Old Coins;12;0.12728406132163186;TestRUN
+0431;0;old coins sell;13;0.125;TestRUN
+0431;0;old coins and their value;14;0.11342928044398144;TestRUN
+0431;0;Find Value Old Coins;15;0.1074599740659324;TestRUN
+0431;0;Free Online Coin Values;16;0.1073837109562251;TestRUN
+0431;0;old coins for sale on ebay;17;0.10470488501190665;TestRUN
+0431;0;Us Old Coin Value;18;0.10470488501190665;TestRUN
+0431;0;old coins of india;19;0.10470488501190665;TestRUN
+0431;0;old coins of the philippines;20;0.10470488501190665;TestRUN
+0431;0;old coins worth money;21;0.10470488501190665;TestRUN
+0431;0;old coins from mexico;22;0.10470488501190665;TestRUN
+0431;0;old coins on ebay;23;0.10470488501190665;TestRUN
+0431;0;Old Gold Coins;24;0.10470488501190665;TestRUN
+0431;0;Old Pennies;25;0.10470488501190665;TestRUN
+0432;0;quit smoking timeline;1;0.3893786714651737;TestRUN
+0432;0;quit smoking hypnosis;2;0.33747048600007085;TestRUN
+0432;0;quit smoking benefits;3;0.26893578400075485;TestRUN
+0432;0;quit smoking cold turkey;4;0.24431187209288013;TestRUN
+0432;0;quit smoking aids;5;0.2122353299565465;TestRUN
+0432;0;quit smoking help;6;0.16071934840856142;TestRUN
+0432;0;quit smoking products;7;0.15383060377357954;TestRUN
+0432;0;quit smoking pill;8;0.153345827364796;TestRUN
+0432;0;quit smoking tips;9;0.14499434644994313;TestRUN
+0432;0;quit smoking side effects;10;0.14496216688041205;TestRUN
+0432;0;quit smoking zyban;11;0.12865576994262182;TestRUN
+0432;0;Free Patches to Stop Smoking;12;0.12760609111600565;TestRUN
+0432;0;quit smoking weed;13;0.12063361726643451;TestRUN
+0432;0;Side Effects Quitting Smoking;14;0.1166697305403708;TestRUN
+0432;0;quit smoking laser;15;0.11355316654659818;TestRUN
+0432;0;quit smoking calculator;16;0.10894966908299747;TestRUN
+0432;0;Benefits Quitting Smoking;17;0.1074599740659324;TestRUN
+0432;0;Strange Ways to Quit Smoking;18;0.10470488501190665;TestRUN
+0432;0;Stop Smoking Aids;19;0.10470488501190665;TestRUN
+0432;0;Free Stop Smoking Aids;20;0.10470488501190665;TestRUN
+0432;0;Free Stop Smoking Products;21;0.10470488501190665;TestRUN
+0432;0;Quitting Smoking Effects;22;0.10470488501190665;TestRUN
+0433;0;kansas city mo weather;1;0.9233285818301072;TestRUN
+0433;0;kansas city mo airport;2;0.3265319602513498;TestRUN
+0433;0;kansas city mo hotels;3;0.25329511534425525;TestRUN
+0433;0;kansas city mo newspaper;4;0.23323490196593072;TestRUN
+0433;0;kansas city mo school district;5;0.20376667679972074;TestRUN
+0433;0;kansas city mo zip code;6;0.1684995659510426;TestRUN
+0433;0;kansas city mo map;7;0.1662371918130596;TestRUN
+0433;0;kansas city mo news;8;0.15308343810712127;TestRUN
+0433;0;kansas city mo police department;9;0.1275504224704709;TestRUN
+0433;0;kansas city monarchs;10;0.12088776150414621;TestRUN
+0433;0;Missouri Map;11;0.11577780489100298;TestRUN
+0433;0;kansas city movies;12;0.11486354803358946;TestRUN
+0433;0;Kansas City MO Home Page;13;0.10562322519024488;TestRUN
+0433;0;Kansas City MO Attractions;14;0.10470488501190665;TestRUN
+0433;0;kansas city movie theaters;15;0.10470488501190665;TestRUN
+0433;0;Kansas City Missouri Events;16;0.10470488501190665;TestRUN
+0433;0;kansas city mormon temple;17;0.10470488501190665;TestRUN
+0433;0;kansas city zip code;18;0.10470488501190665;TestRUN
+0433;0;Kansas City MO Government;19;0.10470488501190665;TestRUN
+0434;0;civil right movement songs;1;0.2668228629592877;TestRUN
+0434;0;civil right movement leaders;2;0.26346885089846017;TestRUN
+0434;0;civil right movement quotes;3;0.25873716943821756;TestRUN
+0434;0;civil right movement 1960;4;0.2282161830915585;TestRUN
+0434;0;civil right movement 1960s;5;0.20413602193128236;TestRUN
+0434;0;civil right movement timeline;6;0.18728138553843493;TestRUN
+0434;0;civil rights act of 1964;7;0.17587900923001076;TestRUN
+0434;0;civil right movement facts;8;0.16856405245874595;TestRUN
+0434;0;civil right movement picture;9;0.14354963682281396;TestRUN
+0434;0;civil right movement essay;10;0.13363417515765103;TestRUN
+0434;0;civil rights movement timeline;11;0.13126477902226796;TestRUN
+0434;0;civil right movement people;12;0.11741382997473124;TestRUN
+0434;0;civil right movement definition;13;0.11069577425793553;TestRUN
+0434;0;Civil Rights Activist;14;0.11036397005251836;TestRUN
+0434;0;Civil Rights Court Cases;15;0.1074599740659324;TestRUN
+0434;0;civil right movement 1950 to1960;16;0.1073837109562251;TestRUN
+0434;0;civil rights movement people;17;0.10470488501190665;TestRUN
+0434;0;Civil Rights Leaders;18;0.10470488501190665;TestRUN
+0434;0;Civil Rights Movement Images;19;0.10470488501190665;TestRUN
+0434;0;Civil Rights Movement 1960;20;0.10470488501190665;TestRUN
+0434;0;civil right movement for kids;21;0.10470488501190665;TestRUN
+0434;0;civil rights movement leaders;22;0.10470488501190665;TestRUN
+0434;0;civil rights movement in america;23;0.10470488501190665;TestRUN
+0434;0;civil rights movement songs;24;0.10470488501190665;TestRUN
+0434;0;civil rights movement pictures;25;0.10470488501190665;TestRUN
+0434;0;civil right movements political cartoons;26;0.10470488501190665;TestRUN
+0434;0;Civil Rights Movement Information;27;0.10470488501190665;TestRUN
+0435;0;credit report reviews;1;0.24939474564981856;TestRUN
+0435;0;credit report scores;2;0.22573254578589028;TestRUN
+0435;0;credit report government;3;0.22091675988120318;TestRUN
+0435;0;credit report dispute;4;0.20966205255807732;TestRUN
+0435;0;credit report score;5;0.19827594762218434;TestRUN
+0435;0;credit report repair;6;0.17984445946870395;TestRUN
+0435;0;credit report monitoring;7;0.16892616651459216;TestRUN
+0435;0;credit reporting agencies;8;0.16880542461150377;TestRUN
+0435;0;credit report errors;9;0.16454825603063658;TestRUN
+0435;0;credit report gov;10;0.1428321505215674;TestRUN
+0435;0;credit report experian;11;0.13109772613648613;TestRUN
+0435;0;My Free Annual Credit Report;12;0.12760609111600565;TestRUN
+0435;0;credit report dispute letter;13;0.1256588464080315;TestRUN
+0435;0;credit report free;14;0.11880994884623255;TestRUN
+0435;0;My Free Credit Report;15;0.1166697305403708;TestRUN
+0435;0;Equifax Free Credit Report;16;0.11649008909593905;TestRUN
+0435;0;credit report companies;17;0.11317475841397963;TestRUN
+0435;0;Free Credit Score;18;0.1073837109562251;TestRUN
+0435;0;Experian Credit Report;19;0.10470488501190665;TestRUN
+0435;0;Three Major Credit Reporting Agencies;20;0.10470488501190665;TestRUN
+0435;0;credit reporting;21;0.10470488501190665;TestRUN
+0435;0;Credit Report Agencies;22;0.10470488501190665;TestRUN
+0435;0;Free Credit Report Now;23;0.10470488501190665;TestRUN
+0435;0;credit reports from all three bureaus;24;0.10470488501190665;TestRUN
+0436;0;unc basketball;1;0.6563862751049327;TestRUN
+0436;0;unc charlotte;2;0.3729962991114252;TestRUN
+0436;0;unc wilmington;3;0.25873716943821756;TestRUN
+0436;0;uncle henry's;4;0.18074561035048234;TestRUN
+0436;0;unclaimed money;5;0.16880542461150377;TestRUN
+0436;0;UNC Wallpapers;6;0.15281232815648735;TestRUN
+0436;0;uncc;7;0.15169412914018734;TestRUN
+0436;0;UNC Logos;8;0.14705254652476676;TestRUN
+0436;0;uncg;9;0.139393135565728;TestRUN
+0436;0;uncommon goods;10;0.13119468942513557;TestRUN
+0436;0;University of North Carolina Sports;11;0.12341487449362126;TestRUN
+0436;0;UNC Chapel Hill;12;0.12308060883831755;TestRUN
+0436;0;UNC Vs. Duke;13;0.11667638694358717;TestRUN
+0436;0;unclaimed.org;14;0.11654183089340585;TestRUN
+0436;0;UNC Basketball Team;15;0.11449458466297736;TestRUN
+0436;0;uncle tom's cabin;16;0.11239288222610143;TestRUN
+0436;0;uncw;17;0.11141951665340873;TestRUN
+0436;0;UNC Sports Schedule;18;0.11036694812187209;TestRUN
+0436;0;unclaimed bonds;19;0.10969353065280453;TestRUN
+0436;0;unclaimed property;20;0.10797865602642022;TestRUN
+0436;0;uncrate;21;0.10774928635129902;TestRUN
+0436;0;uncyclopedia;22;0.10697170846538644;TestRUN
+0436;0;uncle frank;23;0.10631657445414791;TestRUN
+0437;0;vanuatu weather;1;0.7612009987039488;TestRUN
+0437;0;vanuatu map;2;0.3466304302764433;TestRUN
+0437;0;vanuatu facts;3;0.20157483572912294;TestRUN
+0437;0;vanuatu tourism;4;0.19085544626633327;TestRUN
+0437;0;vanuatu meteo;5;0.16681387404235906;TestRUN
+0437;0;vanuatu real estate;6;0.15511766521397471;TestRUN
+0437;0;vanuatu news;7;0.14227840058548316;TestRUN
+0437;0;vanuatu earthquake;8;0.14047218893489147;TestRUN
+0437;0;vanuatu islands;9;0.13253181659501478;TestRUN
+0437;0;vanuatu kava bar;10;0.1256588464080315;TestRUN
+0437;0;vanuatu kava;11;0.1240349732277503;TestRUN
+0437;0;vanuatu daily post;12;0.12341357196793608;TestRUN
+0437;0;vanuatu land diving;13;0.12124712622042566;TestRUN
+0437;0;vanuatu happiest;14;0.11856285407100305;TestRUN
+0437;0;vanuatu tsunami;15;0.10894966908299747;TestRUN
+0437;0;Vanuatu Job;16;0.1074599740659324;TestRUN
+0437;0;Vanuatu Photos;17;0.10470488501190665;TestRUN
+0437;0;Vanuatu Travel;18;0.10470488501190665;TestRUN
+0437;0;Facts About Vanuatu;19;0.10470488501190665;TestRUN
+0437;0;Lonely Planet Vanuatu;20;0.10470488501190665;TestRUN
+0438;0;internet phone service reviews;1;0.6563862751049327;TestRUN
+0438;0;internet phone service free;2;0.5085871152759152;TestRUN
+0438;0;internet phone service ooma;3;0.41060925180215335;TestRUN
+0438;0;internet phone service providers;4;0.25930629446439823;TestRUN
+0438;0;internet phone service google;5;0.22408637002017082;TestRUN
+0438;0;internet phone service canada;6;0.16856405245874595;TestRUN
+0438;0;internet phone service comparison;7;0.16100223737307426;TestRUN
+0438;0;internet phone service skype;8;0.14354963682281396;TestRUN
+0438;0;internet phone service magic jack;9;0.12772560688791745;TestRUN
+0438;0;Free Internet Phone Service;10;0.12760609111600565;TestRUN
+0438;0;internet phone service like magicjack;11;0.125;TestRUN
+0438;0;internet phone service providers reviews;12;0.11741382997473124;TestRUN
+0438;0;Optimum Internet Service Phone;13;0.1166697305403708;TestRUN
+0438;0;internet phone service reviews 2012;14;0.11342928044398144;TestRUN
+0438;0;internet phone service for business;15;0.11020320897012137;TestRUN
+0438;0;Free Cell Phone Service Online;16;0.1074599740659324;TestRUN
+0438;0;AOL Online Phone Service;17;0.10470488501190665;TestRUN
+0438;0;Free Phone and Service;18;0.10470488501190665;TestRUN
+0438;0;internet phone service for small businesses;19;0.10470488501190665;TestRUN
+0438;0;Cancel AT&T Phone Service Online;20;0.10470488501190665;TestRUN
+0438;0;Online Phone Service Reviews;21;0.10470488501190665;TestRUN
+0438;0;internet phone service providers in my area;22;0.10470488501190665;TestRUN
+0438;0;Free Free Call Service;23;0.10470488501190665;TestRUN
+0439;0;gs pay rate 2011;1;1.1837336380534742;TestRUN
+0439;0;gs pay rate 2010;2;0.3092907458868514;TestRUN
+0439;0;gs pay rate 2012;3;0.2219644630290829;TestRUN
+0439;0;gs pay rate hourly;4;0.19010093623249935;TestRUN
+0439;0;gs pay rate table;5;0.18396505978302186;TestRUN
+0439;0;GS PayScale;6;0.16731380801245482;TestRUN
+0439;0;gs pay rate 2008;7;0.1662371918130596;TestRUN
+0439;0;gs pay rate 2009;8;0.15308343810712127;TestRUN
+0439;0;gs pay rate overseas;9;0.1418586695688113;TestRUN
+0439;0;gs pay rate columbus ohio;10;0.13946219864195677;TestRUN
+0439;0;gs pay rate dc;11;0.1321675484521487;TestRUN
+0439;0;GS Pay Rates for 2010;12;0.13172186240853004;TestRUN
+0439;0;gs pay rates 2011;13;0.12010077194794959;TestRUN
+0439;0;gs pay rates fy 11;14;0.11631100000447267;TestRUN
+0439;0;gs pay rates 2012;15;0.11342928044398144;TestRUN
+0439;0;Pay Rate GS-14;16;0.11036397005251836;TestRUN
+0439;0;gs pay rate for 2012;17;0.1096875305549074;TestRUN
+0439;0;gs pay rate federal employees;18;0.1074599740659324;TestRUN
+0439;0;gs pay rates step increase years;19;0.10470488501190665;TestRUN
+0439;0;gs pay rates locality;20;0.10470488501190665;TestRUN
+0439;0;gs pay rates 2011 opm;21;0.10470488501190665;TestRUN
+0439;0;FY12 GS Salary Rates;22;0.10470488501190665;TestRUN
+0439;0;2012 Locality Pay Rates;23;0.10470488501190665;TestRUN
+0439;0;gs pay rates 2010;24;0.10470488501190665;TestRUN
+0439;0;gs pay rates 12;25;0.10470488501190665;TestRUN
+0439;0;2012 GS Pay Rates;26;0.10470488501190665;TestRUN
+0439;0;Federal Pay Cap  2011;27;0.10470488501190665;TestRUN
+0439;0;Federal Pay Rate 2012;28;0.10470488501190665;TestRUN
+0439;0;gs pay rates 2009;29;0.10470488501190665;TestRUN
+0439;0;gs pay rates washington dc;30;0.10470488501190665;TestRUN
+0440;0;brooks brothers clearance store;1;0.5765061178721603;TestRUN
+0440;0;brooks brothers clearance center;2;0.4836672753825295;TestRUN
+0440;0;brooks brothers clearance event;3;0.34498289258429005;TestRUN
+0440;0;brooks brothers clearance shirts;4;0.30755308303760875;TestRUN
+0440;0;brooks brothers clearance sale;5;0.21487668018890943;TestRUN
+0440;0;brooks brothers clearance items;6;0.15505445190522343;TestRUN
+0440;0;brooks brothers clearance outlet;7;0.15313696332337373;TestRUN
+0440;0;brooks brothers clearance women's;8;0.14354963682281396;TestRUN
+0440;0;brooks brothers clearance center garland nc;9;0.14015271499362128;TestRUN
+0440;0;brooks brothers clearance ties;10;0.13726384248517481;TestRUN
+0440;0;Brooks Brothers Store Sale;11;0.12760609111600565;TestRUN
+0440;0;Brooks Brothers Annual Sale;12;0.12373972895806096;TestRUN
+0440;0;brooks brothers clearance suits;13;0.11741382997473124;TestRUN
+0440;0;brooks brothers clearance center garland;14;0.11369430777827295;TestRUN
+0440;0;Brooks Brothers Sale Dates 2011;15;0.10470488501190665;TestRUN
+0440;0;brooks brothers clearance return policy;16;0.10470488501190665;TestRUN
+0440;0;Brooks Brothers Deals;17;0.10470488501190665;TestRUN
+0440;0;Brooks Brothers Outlet;18;0.10470488501190665;TestRUN
+0440;0;Brooks Brothers Semi-Annual Sale;19;0.10470488501190665;TestRUN
+0440;0;Brooks Brothers Women;20;0.10470488501190665;TestRUN
+0440;0;Brooks Brothers Garland Clearance Center;21;0.10470488501190665;TestRUN
+0441;0;churchill downs tickets;1;0.25873716943821756;TestRUN
+0441;0;churchill downs entries;2;0.25170908011155807;TestRUN
+0441;0;churchill downs storm;3;0.2282161830915585;TestRUN
+0441;0;churchill downs incorporated;4;0.21457196672933698;TestRUN
+0441;0;churchill downs racing;5;0.16856405245874595;TestRUN
+0441;0;churchill downs results;6;0.16210496370461402;TestRUN
+0441;0;churchill downs museum;7;0.15977493138296167;TestRUN
+0441;0;churchill downs tornado;8;0.15505445190522343;TestRUN
+0441;0;churchill downs kentucky;9;0.14354963682281396;TestRUN
+0441;0;churchill downs seating chart;10;0.14002301787753388;TestRUN
+0441;0;churchill downs schedule;11;0.125;TestRUN
+0441;0;Churchill Downs Race Track;12;0.12373972895806096;TestRUN
+0441;0;churchill downs jobs;13;0.11741382997473124;TestRUN
+0441;0;churchill downs gift shop;14;0.11317475841397963;TestRUN
+0441;0;churchill downs tours;15;0.11069577425793553;TestRUN
+0441;0;Churchill Downs Quick Results;16;0.10470488501190665;TestRUN
+0441;0;Churchill Downs Oaks;17;0.10470488501190665;TestRUN
+0441;0;Churchill Downs Race Results;18;0.10470488501190665;TestRUN
+0441;0;Churchill Downs Breeders' Cup;19;0.10470488501190665;TestRUN
+0441;0;churchill downs breeders cup;20;0.10470488501190665;TestRUN
+0441;0;churchill downs apartments denver;21;0.10470488501190665;TestRUN
+0442;0;condos in florida keys;1;1.1362330171554293;TestRUN
+0442;0;condos in florida for rent;2;0.35466244391144824;TestRUN
+0442;0;condos in florida panhandle;3;0.27614415225784505;TestRUN
+0442;0;condos in florida destin;4;0.23279202075443434;TestRUN
+0442;0;condos in florida beach;5;0.17960731974843547;TestRUN
+0442;0;condos in florida orlando;6;0.164349717202923;TestRUN
+0442;0;condos in florida city florida;7;0.14221364616079052;TestRUN
+0442;0;condos in florida gulf coast;8;0.1375350869046182;TestRUN
+0442;0;condos in florida on the beach;9;0.1356239776163638;TestRUN
+0442;0;condos in florida for sale;10;0.1320994635237014;TestRUN
+0442;0;condos in florida for vacation;11;0.12840669104699318;TestRUN
+0442;0;Oceanfront Condos in Florida;12;0.12760609111600565;TestRUN
+0442;0;condos in florida keys for sale;13;0.12707027625554443;TestRUN
+0442;0;Foreclosure Condos in Florida;14;0.1166697305403708;TestRUN
+0442;0;condos in florida for spring break;15;0.11596019709614902;TestRUN
+0442;0;condos in florida panama city;16;0.11335908886094155;TestRUN
+0442;0;Rental Rentals in Florida;17;0.11020320897012137;TestRUN
+0442;0;Senior Condos in Florida;18;0.1074599740659324;TestRUN
+0442;0;condos in florida under $100 000;19;0.10470488501190665;TestRUN
+0442;0;Vacation Rentals in Florida;20;0.10470488501190665;TestRUN
+0442;0;Rent Condo in Florida;21;0.10470488501190665;TestRUN
+0442;0;condos in florida panhandle for sale;22;0.10470488501190665;TestRUN
+0442;0;FHA Approved Condos in Florida;23;0.10470488501190665;TestRUN
+0442;0;Beach Rentals in Florida;24;0.10470488501190665;TestRUN
+0442;0;condos in florida near disney world;25;0.10470488501190665;TestRUN
+0442;0;condos in florida on the beach for rent;26;0.10470488501190665;TestRUN
+0443;0;dog poop clean up bags;1;0.3964014108243863;TestRUN
+0443;0;Dog Poop Bags;2;0.28055530936696366;TestRUN
+0443;0;dog clean up bags dispenser;3;0.27844722826792634;TestRUN
+0443;0;dog clean up bags with handles;4;0.2748512910541491;TestRUN
+0443;0;dog clean up bags biodegradable;5;0.2625328252103309;TestRUN
+0443;0;Large Dog Poop Bags;6;0.25252600737879677;TestRUN
+0443;0;dog clean up bags free shipping;7;0.22829742101984113;TestRUN
+0443;0;Dog Poop Bag Dispenser;8;0.1499831526381446;TestRUN
+0443;0;Doggie Clean Up Bags;9;0.13472453119089534;TestRUN
+0443;0;Dog Pick Up Bag Dispenser;10;0.1280151914806265;TestRUN
+0443;0;Dog Poop Dispenser;11;0.12330664822273107;TestRUN
+0443;0;Cheap Dog Poop Bags;12;0.11847640875064036;TestRUN
+0443;0;Dog Poop Pick Up Bags;13;0.11449458466297736;TestRUN
+0444;0;designer dog breeds a-z;1;0.3620897034373907;TestRUN
+0444;0;designer dog breeds pictures;2;0.34419813514245634;TestRUN
+0444;0;designer dog breeds uk;3;0.2560620537581528;TestRUN
+0444;0;designer dog breeds mutts;4;0.21457196672933698;TestRUN
+0444;0;designer dog breeds list;5;0.1892061759511316;TestRUN
+0444;0;designer dog breeds hybrids;6;0.18015899058355647;TestRUN
+0444;0;designer dog breeds for sale;7;0.16861731199208183;TestRUN
+0444;0;designer dog breeds small;8;0.16856405245874595;TestRUN
+0444;0;designer dog breeds indiana;9;0.15505445190522343;TestRUN
+0444;0;Best Designer Dog Breeds;10;0.13172186240853004;TestRUN
+0444;0;designer dog breeds toy;11;0.125;TestRUN
+0444;0;designer dog breeds breeders;12;0.11741382997473124;TestRUN
+0444;0;Small Designer Dogs Breeds;13;0.11342928044398144;TestRUN
+0444;0;designer dog breeds photos;14;0.11069577425793553;TestRUN
+0444;0;Teacup Dog Breeds;15;0.10470488501190665;TestRUN
+0444;0;designer dog breeds that don't shed;16;0.10470488501190665;TestRUN
+0444;0;designer dog breeds with pictures;17;0.10470488501190665;TestRUN
+0444;0;designer dog breeds with jack russell;18;0.10470488501190665;TestRUN
+0444;0;designer dog breeds in mo;19;0.10470488501190665;TestRUN
+0444;0;Pictures of Designer Dogs;20;0.10470488501190665;TestRUN
+0444;0;Most Popular Designer Dog Breeds;21;0.10470488501190665;TestRUN
+0444;0;designer dog breeds australia;22;0.10470488501190665;TestRUN
+0444;0;designer dog breeds hybrid;23;0.10470488501190665;TestRUN
+0444;0;Designer Dog Breed List;24;0.10470488501190665;TestRUN
+0444;0;Small Mixed Breed Dogs;25;0.10470488501190665;TestRUN
+0444;0;designer dog breeds poodle;26;0.10470488501190665;TestRUN
+0445;0;pressure washers reviews;1;0.6053094415552174;TestRUN
+0445;0;pressure washers direct;2;0.37324474290320514;TestRUN
+0445;0;pressure washers for sale;3;0.2986033992246313;TestRUN
+0445;0;pressure washers sears;4;0.24381949199791556;TestRUN
+0445;0;pressure washers parts;5;0.1837913060376178;TestRUN
+0445;0;pressure washers home depot;6;0.172268854652553;TestRUN
+0445;0;pressure washers menards;7;0.17094240377665817;TestRUN
+0445;0;pressure washers lowes;8;0.15706458000180915;TestRUN
+0445;0;pressure washers honda;9;0.1435714945067183;TestRUN
+0445;0;pressure washers electric;10;0.13512461080748964;TestRUN
+0445;0;pressure washers costco;11;0.12630312278332595;TestRUN
+0445;0;pressure washers on sale;12;0.12485384703645684;TestRUN
+0445;0;Commercial Pressure Washers;13;0.1074599740659324;TestRUN
+0445;0;Sears Pressure Washers;14;0.10470488501190665;TestRUN
+0445;0;Electric Power Washer;15;0.10470488501190665;TestRUN
+0445;0;Troy Built Pressure Washer;16;0.10470488501190665;TestRUN
+0445;0;Karcher Pressure Washer Parts;17;0.10470488501190665;TestRUN
+0445;0;Gas Pressure Washers;18;0.10470488501190665;TestRUN
+0445;0;Best Deals Honda Pressure Washers;19;0.10470488501190665;TestRUN
+0446;0;sore throat remedies;1;0.3869338203060236;TestRUN
+0446;0;sore throat treatment;2;0.3620897034373907;TestRUN
+0446;0;sore throat symptoms;3;0.3402434652177078;TestRUN
+0446;0;sore throat allergies;4;0.27573484846989754;TestRUN
+0446;0;sore throat medicine;5;0.20413602193128236;TestRUN
+0446;0;sore throat relief;6;0.18082848901321086;TestRUN
+0446;0;sore throat causes;7;0.16856405245874595;TestRUN
+0446;0;sore throat cure;8;0.13363417515765103;TestRUN
+0446;0;sore throat remedy;9;0.125;TestRUN
+0446;0;Throat Cancer Symptoms;10;0.12373972895806096;TestRUN
+0446;0;sore throat swollen glands;11;0.12343689485985956;TestRUN
+0446;0;sore throat and fever;12;0.11741382997473124;TestRUN
+0446;0;Strep Throat Symptoms;13;0.1166697305403708;TestRUN
+0446;0;sore throat no fever;14;0.11069577425793553;TestRUN
+0446;0;sore throat and ear ache;15;0.11020320897012137;TestRUN
+0446;0;sore throat home remedies;16;0.10470488501190665;TestRUN
+0446;0;Photos of Sore Throat;17;0.10470488501190665;TestRUN
+0446;0;sore throat and cough;18;0.10470488501190665;TestRUN
+0446;0;Persistent Sore Throat;19;0.10470488501190665;TestRUN
+0446;0;What Causes a Sore Throat;20;0.10470488501190665;TestRUN
+0446;0;sore throat on one side;21;0.10470488501190665;TestRUN
+0446;0;Sore Throat Gallery;22;0.10470488501190665;TestRUN
+0446;0;Sore Throat Infections;23;0.10470488501190665;TestRUN
+0446;0;sore throat for a week;24;0.10470488501190665;TestRUN
+0447;0;idaho state flower pictures;1;1.0349486777528702;TestRUN
+0447;0;idaho state flower picture;2;0.4522648452635483;TestRUN
+0447;0;idaho state flower name;3;0.32890653469983333;TestRUN
+0447;0;idaho state flower tree;4;0.20413602193128236;TestRUN
+0447;0;idaho state flower photo;5;0.1846524724518007;TestRUN
+0447;0;idaho state flower and bird;6;0.17587900923001076;TestRUN
+0447;0;idaho state flower syringa;7;0.1749854682134914;TestRUN
+0447;0;idaho state flower facts;8;0.14354963682281396;TestRUN
+0447;0;idaho state flower description;9;0.13363417515765103;TestRUN
+0447;0;idaho state flower information;10;0.12817022654156163;TestRUN
+0447;0;Idaho State Bird;11;0.12760609111600565;TestRUN
+0447;0;idaho state flower info;12;0.125;TestRUN
+0447;0;idaho state flower and tree;13;0.1197206663321995;TestRUN
+0447;0;idaho state flower image;14;0.11069577425793553;TestRUN
+0447;0;Idaho State Flag;15;0.11036397005251836;TestRUN
+0447;0;idaho state flower coloring page;16;0.11020320897012137;TestRUN
+0447;0;Idaho State Fruit;17;0.1073837109562251;TestRUN
+0447;0;idaho state flower and bird pictures;18;0.10470488501190665;TestRUN
+0447;0;Idaho State Nickname;19;0.10470488501190665;TestRUN
+0447;0;Idaho State Animal;20;0.10470488501190665;TestRUN
+0447;0;Idaho State Tree;21;0.10470488501190665;TestRUN
+0447;0;Idaho State Seal;22;0.10470488501190665;TestRUN
+0447;0;idaho state flower and bird and tree;23;0.10470488501190665;TestRUN
+0447;0;Washington State Flower;24;0.10470488501190665;TestRUN
+0447;0;idaho state flower syringa picture;25;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds address;1;0.44285408084263206;TestRUN
+0448;0;indiana state fairgrounds schedule;2;0.3081794851024488;TestRUN
+0448;0;indiana state fairgrounds indianapolis;3;0.25873716943821756;TestRUN
+0448;0;indiana state fairgrounds camping;4;0.2560620537581528;TestRUN
+0448;0;indiana state fairgrounds events;5;0.2512453420504277;TestRUN
+0448;0;indiana state fairgrounds map;6;0.24665053384868638;TestRUN
+0448;0;indiana state fairgrounds calendar;7;0.15505445190522343;TestRUN
+0448;0;indiana state fairgrounds events 2012;8;0.13363417515765103;TestRUN
+0448;0;indiana state fairgrounds stage collapse;9;0.125;TestRUN
+0448;0;Indiana State Fair;10;0.12373972895806096;TestRUN
+0448;0;indiana state fairgrounds hoosier 100;11;0.11741382997473124;TestRUN
+0448;0;indiana state fairgrounds flea market;12;0.11069577425793553;TestRUN
+0448;0;Indiana Swap Meets;13;0.1074599740659324;TestRUN
+0448;0;Indiana State Fairgrounds Campground;14;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds blue ribbon pavilion;15;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds dog show;16;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds liquidation sale;17;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds gun show;18;0.10470488501190665;TestRUN
+0448;0;Indiana State Fairgrounds Event Calendar;19;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds ice skating;20;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds calendar 2012;21;0.10470488501190665;TestRUN
+0448;0;Map Indiana State Fairgrounds;22;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds train show;23;0.10470488501190665;TestRUN
+0448;0;indiana state fairgrounds garage sale;24;0.10470488501190665;TestRUN
+0449;0;fybromyalgia meds;1;0.290720582683929;TestRUN
+0449;0;fibromyalgia symptoms;2;0.21848954578801755;TestRUN
+0449;0;fybromyalgia and humidity;3;0.216960627374455;TestRUN
+0449;0;fybromyalgia forum;4;0.21406980417430124;TestRUN
+0449;0;fybromyalgia disability guidelines;5;0.1950832972751529;TestRUN
+0449;0;fibromyalgia;6;0.17574698036331332;TestRUN
+0449;0;Fibromyalgia and Foot Pain;7;0.17490616515264162;TestRUN
+0449;0;fibromyalgia diet;8;0.13449327233151875;TestRUN
+0449;0;fibromyalgia uk;9;0.13226208652440716;TestRUN
+0449;0;fibromyalgia disability;10;0.1320820136389899;TestRUN
+0449;0;Diet for Fibromyalgia;11;0.12288259465439562;TestRUN
+0449;0;fibromyalgia treatment;12;0.1197206663321995;TestRUN
+0449;0;fybromyalgiamedicine;13;0.11794184756293391;TestRUN
+0449;0;How Is Fibromyalgia Diagnosed;14;0.11667638694358717;TestRUN
+0449;0;fibromyalgia and back pain;15;0.11449458466297736;TestRUN
+0449;0;fibromyalgia chat room;16;0.1133522074432992;TestRUN
+0449;0;Best Foods for Fibromyalgia;17;0.11239288222610143;TestRUN
+0449;0;fibromyalgia syndrome;18;0.11230826649725775;TestRUN
+0449;0;Fibromyalgia Pain Points Chart;19;0.11036694812187209;TestRUN
+0449;0;Pictures of Fibromyalgia;20;0.10956862060791578;TestRUN
+0449;0;fybromyalgiarhuematica;21;0.10933885573388327;TestRUN
+0449;0;fibromyalgia causes;22;0.10797865602642022;TestRUN
+0449;0;fibromyalgia pain;23;0.10631657445414791;TestRUN
+0449;0;fibromyalgia diagnosis;24;0.10470488501190665;TestRUN
+0449;0;fibromyalgia tender points;25;0.10470488501190665;TestRUN
+0449;0;fibromyalgia pictures;26;0.10470488501190665;TestRUN
+0449;0;fibromyalgia medication;27;0.10470488501190665;TestRUN
+0449;0;Medications for Fibromyalgia;28;0.10470488501190665;TestRUN
+0449;0;fibromyalgia medicine;29;0.10470488501190665;TestRUN
+0450;0;ontario california airport parking;1;Infinity;TestRUN
+0450;0;ontario california airport code;2;0.5103023449753141;TestRUN
+0450;0;ontario california airport shuttle;3;0.4005874937120534;TestRUN
+0450;0;ontario california airport hotels;4;0.26346885089846017;TestRUN
+0450;0;ontario california airport jobs;5;0.1846524724518007;TestRUN
+0450;0;ontario california airport address;6;0.18147913413364458;TestRUN
+0450;0;ontario california airport careers;7;0.16856405245874595;TestRUN
+0450;0;ontario california airport transportation;8;0.13363417515765103;TestRUN
+0450;0;ontario california airport map;9;0.12883698143661962;TestRUN
+0450;0;Ontario International Airport;10;0.12760609111600565;TestRUN
+0450;0;ontario california airport car rental;11;0.11962601556607831;TestRUN
+0450;0;ontario california airport employment;12;0.11741382997473124;TestRUN
+0450;0;ontario california airport long term parking;13;0.11317475841397963;TestRUN
+0450;0;ontario california airport airlines;14;0.11069577425793553;TestRUN
+0450;0;Ontario International Airport Parking;15;0.11036397005251836;TestRUN
+0450;0;ontario california airport car rentals;16;0.1074599740659324;TestRUN
+0450;0;Ontario Airport Flights;17;0.10470488501190665;TestRUN
+0450;0;Ontario CA Airport Hotels;18;0.10470488501190665;TestRUN
+0450;0;Ontario Airport Map;19;0.10470488501190665;TestRUN
+0450;0;Ontario CA Airport Address;20;0.10470488501190665;TestRUN
+0450;0;Airport Shuttle Service Ontario California;21;0.10470488501190665;TestRUN
+0450;0;Airlines Ontario CA Airport;22;0.10470488501190665;TestRUN

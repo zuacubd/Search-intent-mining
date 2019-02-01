@@ -1,0 +1,1784 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ntcir10intent[
+<!ELEMENT ntcir10intent (topic)*>
+<!ELEMENT topic (
+query, intent+)>
+<!ATTLIST topic
+ number CDATA #REQUIRED>
+<!ELEMENT query (#PCDATA)>
+ <!ELEMENT intent (
+#PCDATA)>
+<!ATTLIST intent
+ number CDATA #REQUIRED  probability CDATA #REQUIRED>
+]>
+<ntcir10intent>
+
+<topic number="0401">
+<query>403b</query>
+<intent number="1" probability="0.153285">
+<description>403b 【rules】</description>
+<examples>403b rules;403b rule;403b regulations;403b regulation overview;403b plan rules;403 B Rules</examples>
+</intent>
+<intent number="2" probability="0.153285">
+<description>403b【plan】</description>
+<examples>tiaa-cref - 403(b) plans;tax-deferred 403(b) plan;roth accounts to 401k and 403b plans;roth 403b plans;online guide 403b plans;my 403b plan;money into a 403b plan;loan from your 403b plan;highland community college employee paid 403b plan vendor list;Fidelity 403 B Retirement Plan;fidelity 403 b retirement plan;faq on 403(b) plan form 5500;distribution from a 403b plan;differences between 401k and 403b plans;contribution rules that are unique to 403b plans;comparison of 457 and 403b plans;best 4</examples>
+</intent>
+<intent number="3" probability="0.153285">
+<description>403b 【account】</description>
+<examples>money in the orphan 403b account;contributions to 403b accounts;cash out 403b account;are 403baccounts worthwhile;403b opening a new account;403b accounts;403b account retirement;403b account;403b -- opening a new account</examples>
+</intent>
+<intent number="4" probability="0.138686">
+<description>403b 【information】</description>
+<examples>guide 403b;for more information; contact us at 403b;403b resources;403b online;403b main page;403b information;403b info;403(b) information</examples>
+</intent>
+<intent number="5" probability="0.138686">
+<description>403b 【retirement】</description>
+<examples>understanding 403b retirement;retirement including 509 403b;retirement 403b;guide 403b retirement;fidelity 403b retirement plan;after retirement changing 403b plan;403b retirement plans;403b retirement plan;403b retirement amount;403b retirement accounts;403b retirement account;403b retirement</examples>
+</intent>
+<intent number="6" probability="0.138686">
+<description>403b 【contributions】</description>
+<examples>after tax contribution to your 403b;403b contributions;403b contribution rules;403b contribution limits 2012;403B Contribution Limits;403b contribution limits;403b contribution limit;403b contribution;2009 403b contribution limits;2007 403b contributions</examples>
+</intent>
+<intent number="7" probability="0.124088">
+<description>403b 【withdraw】</description>
+<examples>403B Withdrawal Rules;403b withdrawal rules;403b withdrawal;403b hardship withdrawal;403b find money withdraw;403B Early Withdrawal;403b early withdrawal</examples>
+</intent>
+</topic>
+
+<topic number="0402">
+<query>angular cheilitis</query>
+<intent number="1" probability="0.139073">
+<description>angular chelitis【symptoms】</description>
+<examples>sores of angular cheilitis;appearance and dealing with angular cheilitis symptoms;angular chelitis symptoms angular cheilitis center;angular cheilitis symptoms;angular cheilitis scars;angular cheilitis out of body experience;angular cheilitis contagious;angular cheilitis clinical and histological features;angular cheilitis breastfeeding difficulties;angular cheilitis allergies</examples>
+</intent>
+<intent number="2" probability="0.139073">
+<description>angular cheilitis【causes】</description>
+<examples>common causes of angular cheilitis;common angular cheilitis causes;certain behaviors that cause angular cheilitis;causes of perleche angular cheilitis stomatitis;Causes of Angular Cheilitis;causes of angular cheilitis;angular cheilitis tinea corporis;Angular Cheilitis Stress;angular cheilitis stress;angular cheilitis iron poisoning;angular cheilitis causes lips;angular cheilitis causes;angular cheilitis caused by deficiencies;angular cheilitis can be caused by bacteria;angular cheilitis anemia</examples>
+</intent>
+<intent number="3" probability="0.139073">
+<description>angular cheilitis【treatment】</description>
+<examples>what to do about angular cheilitis;what causes angular cheilitis and how is it treated;unbound medline treatment of angular cheilitis the significance;treatment for angular cheilitis is determined by the factor;treatment for angular cheilitis;treatment angular cheilitis;treat angular cheilitis;stop angular cheilitis;perleche treatment for angular cheilitis;perleche angular cheilitis treatment;perleche and angular cheilitis treatment;order to conserve angular cheilitis;natural remedies for angula</examples>
+</intent>
+<intent number="4" probability="0.125828">
+<description>angular cheilitis【basic information】</description>
+<examples>type of angular cheilitis;number of angular cheilitis;form of the angular cheilitis;definition of angular cheilitis;can angular cheilitis spread;angular cheilitis pyridoxal phosphatase;angular cheilitis pyridoxal kinase;angular cheilitis pronunciation;angular cheilitis overview;angular cheilitis information;angular cheilitis diagnosis;angular cheilitis definition;angular cheilitis cheilosis defined</examples>
+</intent>
+<intent number="5" probability="0.112583">
+<description>angular cheilitis【relative disease】</description>
+<examples>skin angular cheilitis;oral candidiasis angular cheilitis;candidal angular cheilitis;artery of angular cheilitis;angular cheilitis stomatognathic disease;angular cheilitis stomatitis;angular cheilitis really cracked chapped;angular cheilitis oral candidiasis;angular cheilitis or perleche;angular cheilitis or cold sore;angular cheilitis hiv;angular cheilitis herpes;angular cheilitis granulomatosa;angular cheilitis exfoliative;angular cheilitis exfoliativa;angular cheilitis cold sores;angular chei</examples>
+</intent>
+<intent number="6" probability="0.099338">
+<description>angular cheilitis【nutritions】</description>
+<examples>vitamin deficiency angular cheilitis;foods which can limit the occurrence of angular cheilitis;angular cheilitis vitamin b6;Angular Cheilitis Vitamin;angular cheilitis vitamin;angular cheilitis vegetarian nutrition;angular cheilitis thiamine;angular cheilitis riboflavin;angular cheilitis niacin;angular cheilitis health fitness medicine;angular cheilitis b vitamins</examples>
+</intent>
+<intent number="7" probability="0.099338">
+<description>angular cheilitis【pictures】</description>
+<examples>Pictures of Angular Cheilitis;pictures of angular cheilitis;angular cheilitis pictures;angular cheilitis picture</examples>
+</intent>
+<intent number="8" probability="0.086093">
+<description>angular cheilitis【resource】</description>
+<examples>latest news release from angularcheilitis-cure;angular cheilitis wikipedia;angular cheilitis videos;angular cheilitis resources;angular cheilitis journal;angular cheilitis full text journal;angular cheilitis foundation;angular cheilitis forum;angular cheilitis crustosa factitia 0 images;angular cheilitis cass sculpture foundation;angular cheilitis blog;angular cheilitis articles</examples>
+</intent>
+<intent number="9" probability="0.059603">
+<description>angular cheilitis【people】</description>
+<examples>angular cheilitis pregnancy;angular cheilitis occurs frequently in the elderly population;angular cheilitis children</examples>
+</intent>
+</topic>
+
+<topic number="0403">
+<query>pocono</query>
+<intent number="1" probability="0.135484">
+<description>pocono【travel】</description>
+<examples>visit poconos;tours poconos scranton;poconos visit;poconos vacation;poconos travel guide;poconos travel;poconos pennsylvania vacations travel;poconos information info travel;poconos for kids;Poconos Family Vacations;poconos family vacations;pocono vacations;Pocono Vacation Packages;pocono vacation packages;pocono resorts vacation;pocono mountains vacation bureau</examples>
+</intent>
+<intent number="2" probability="0.135484">
+<description>pocono【information】</description>
+<examples>the poconos geography and climate;poconos weather;poconos map;poconos manor;poconos land for sale;poconos information;poconos directions maps;poconos commercial property;Pocono Map;pocono map;pocono manor;pocono discounts;pocono biological laboratories history;list of pocono 500 broadcasters;land in the poconos;exotic birds in the poconos</examples>
+</intent>
+<intent number="3" probability="0.122581">
+<description>pocono【places to stay】</description>
+<examples>stroudsburg poconos;resorts in the poconos for teenagers;rental poconos;real estate poconos;poconos vacation rentals;poconos suites;poconos spa resorts;poconos shawnee golf resort;poconos resorts for couples;poconos resorts;poconos resort woodloch;poconos resort pennsylvania;poconos rentals homeaway;poconos rentals;poconos real estate;poconos places stay dining;poconos pennsylvania hotels tannersville;poconos palace;poconos lodge;poconos inclusive resorts;poconos hotels;poconos homes;poconos gre</examples>
+</intent>
+<intent number="4" probability="0.122581">
+<description>pocono【natural sights】</description>
+<examples>youth association of pocono mountain;water parks in poconos;water park in the poconos;poconos water park;poconos trips;poconos mountains pennsylvania;poconos mountains;poconos mountain;poconos hills;poconos caesars;poconos attractions;pocono waterparks;pocono summit pennsylvania;pocono summit;pocono scranton pennsylvania;pocono pa mountains;pocono mountains visitors bureau;pocono mountains pennsylvania;pocono mountains 125;pocono mountains;pocono mountaineers;pocono lake pa;pocono lake;paradise </examples>
+</intent>
+<intent number="5" probability="0.109677">
+<description>pocono【activities】</description>
+<examples>things to do in the poconos;things summer poconos;the poconos camping;spa packages in the poconos;spa in the poconos;ski lodge poconos;poconos tournaments;poconos time share camelback;poconos snowboard;Poconos Skiing;poconos skiing;poconos ski;poconos horseback riding;poconos fishing;poconos camping;poconos camp;pocono state crafts festival;pocono sports in pennsylvania;pocono mountain youth wrestling;pocono mini golf;pocono labonte motorsports;pocono invitational basketball camp;pocono family y</examples>
+</intent>
+<intent number="6" probability="0.109677">
+<description>pocono【service】</description>
+<examples>wi-fi north pocono;uss pocono;services poconos;poconos packages;poconos online reservation;poconos gift;poconos directory medical;poconos craigslist;poconos cars trucks craigslist;poconohealthsystem;pocono wiki;pocono web;pocono medical center;pocono area service;liquor license in poconos;liquor license for sale in poconos;craigslist poconos;coordinators planners poconos;bus service to the poconos</examples>
+</intent>
+<intent number="7" probability="0.096774">
+<description>pocono【raceway】</description>
+<examples>poconos raceway;pocono turn one racing;pocono terry labonte;pocono raceway weather;pocono raceway tickets;pocono raceway seating chart;pocono raceway hotels;pocono raceway address;pocono raceway;pocono pocono raceway;pocono mountains pennsylvania pa located raceway;pocono bobby labonte;pocono 500 notable races</examples>
+</intent>
+<intent number="8" probability="0.096774">
+<description>pocono【region】</description>
+<examples>the poconos mountain region;the poconos lake region;residents of the pocono mountain school district;poconos pennsylvania northeastern;pocono pocono mountain school district;pocono plateau;pocono northeastern pennsylvania;pocono mountains region;pocono mountains pennsylvania home region search;pocono mountain west;pocono mountain school district;pocono lakes region;pocono coal region;pocono center;north pocono school district;mountains pennsylvania home region search;bartonsville poconos area</examples>
+</intent>
+<intent number="9" probability="0.070968">
+<description>pocono【facilities around】</description>
+<examples>pocono restaurants;pocono museums;pocono farms;pocono country place;pocono biological laboratories;pocono arts council;pocono area museums;pocono andy belmont;hospitals in poconos pa;country club of the poconos</examples>
+</intent>
+</topic>
+
+<topic number="0404">
+<query>figs</query>
+<intent number="1" probability="0.125749">
+<description> figs【grow】</description>
+<examples>home garden figs;growing figs;Growing Fig Trees;grow figs;figs: home;figs grown wild;figs growers home;figs grow way</examples>
+</intent>
+<intent number="2" probability="0.125749">
+<description>figs【health benefit】</description>
+<examples>health benefits of figs;health benefits figs;figs health benefits;figs benefits;figs and health</examples>
+</intent>
+<intent number="3" probability="0.125749">
+<description>figs【cooking】</description>
+<examples>syrup of figs;figs food;figs cooking;figs charlestown menu;figs boston menu;feast figs;cooking with figs;cooking fruits vegetables figs;cooking figs</examples>
+</intent>
+<intent number="4" probability="0.113772">
+<description>figs 【nutrition】</description>
+<examples>figs nutritional value;Figs Nutrition;figs nutrition</examples>
+</intent>
+<intent number="5" probability="0.113772">
+<description>figs 【recipes】</description>
+<examples>stuffed chicken with figs;recipes for stuffed figs;recipes figs;recipe galloping figs;recipe figs;milano figs cocoa recipe;fresh figs recipes;figs recipes;figs food recipes cooking;figs food recipes;figs facts fruit recipes grow health;figs facts fruit grow california recipes;Fig Recipes;facts fruit grow california recipes;emerill lagasse stuffed chicken with figs;emeril lagasse stuffed chicken with figs;edu plantanswers recipes figs figindex;chicken figs recipe</examples>
+</intent>
+<intent number="6" probability="0.101796">
+<description>figs 【eating】</description>
+<examples>stuffed figs;roasted figs;honeyed figs;functional food properties of figs;figs salad;figs pizza;figs ginger;figs gifts and choclate;figs eats;figs chocolate;figs cheese;canning figs;candied figs;baked figs;bacon wrapped figs</examples>
+</intent>
+<intent number="7" probability="0.101796">
+<description> figs【variety】</description>
+<examples>varieties of figs;varieties of dried figs;ray figs u.s. varieties;figs occupy a wide variety;figs family;figs and the diversity;different types of figs</examples>
+</intent>
+<intent number="8" probability="0.101796">
+<description>figs【picture】</description>
+<examples>picture of figs;picture of all types of figs;figs photos;figs photo</examples>
+</intent>
+<intent number="9" probability="0.089820">
+<description>figs 【place】</description>
+<examples>strangler figs thailand;smyrna figs;marseille figs;kadota figs;florida figs;figs philadelphia;figs out usa;figs of the holy land;figs charlestown;figs boston;fig tree pocket queensland;california figs</examples>
+</intent>
+</topic>
+
+<topic number="0405">
+<query>last supper painting</query>
+<intent number="1" probability="0.145833">
+<description>last supper painting【da vinci】</description>
+<examples>the last supper leonardo da vinci;the last supper davinci painting;the last supper by leonardo da vinci;the last supper after da vinci cost;the last supper after da vinci;painting last supper leonardo;ownapainting da vinci the last supper;leonardo's last supper is italy's most famous painting;leonardo 's last supper painting;leonardo last supper painting;leonardo davinci's last supper painting;leonardo davinci the last supper;leonardo da vinci's the last supper;leonardo da vinci the last supper </examples>
+</intent>
+<intent number="2" probability="0.145833">
+<description>last supper painting【versions】</description>
+<examples>years of the last supper painting;wall with a last supper painting;version of the last supper painting;the year of copies of the last supper;the last supper oil paintings;paintings of the last supper from different eras;painting on stones the last supper collection wholesale fr;painting of the last supper painting;painting last supper today;other paintings of the last supper;original picture of the last supper painting;original painting of last supper;original painting last supper;original last </examples>
+</intent>
+<intent number="3" probability="0.131944">
+<description>last supper painting【picture】</description>
+<examples>the picture of last supper painting 500ff;the picture of last supper painting 50 off;picture of the last supper paintings;picture of the last supper painting by da vinci;picture of the last supper painting;picture of the last supper leonardo da vinci;Picture of the Last Supper;picture of da vinci's last supper;picture of da vinci last supper;original picture of the last supper painting 500ff</examples>
+</intent>
+<intent number="4" probability="0.131944">
+<description>last supper painting 【analysis】</description>
+<examples>study for the last supper painting;soteriologic significance of the last supper painting;representation of the last supper painting;other depictions of the last supper painting;last supper painting style;last supper painting signature;last supper painting revealed contemporary;last supper painting quot;last supper painting perspective;last supper painting meaning;last supper painting facts;last supper painting definition;last supper painting cultural depictions of leonardo da vinci;last supper p</examples>
+</intent>
+<intent number="5" probability="0.118056">
+<description>last supper painting【Christ】</description>
+<examples>painting of jesus at the last supper;last supper painting jesus;last supper painting disciples jesus;last supper painting christ washing the disciples feet tintoretto;last supper painting christ;jewish encyclopedia jesus the last supper painting;jesus last supper painting;jesus at the last supper painting;christ and the last supper painting</examples>
+</intent>
+<intent number="6" probability="0.118056">
+<description>last supper painting 【sale】</description>
+<examples>the last supper painting for sale;the cost of copies of the last supper;painting last supper for sale;last supper paintings for sale philippines;last supper paintings for sale;last supper painting wholesale;last supper painting online prices;Last Supper Painting for Sale;last supper painting for sale</examples>
+</intent>
+<intent number="7" probability="0.104167">
+<description> last supper painting【history】</description>
+<examples>the last supper painting on art history;painting last supper history;history of the last supper painting;history last supper painting buzzle</examples>
+</intent>
+<intent number="8" probability="0.104167">
+<description>last supper painting 【location】</description>
+<examples>painting last supper located;milan 's last supper painting;location of the last supper in italy;last supper painting vinci leonardo milan patron plaster;last supper painting vinci leonardo milan patron ludovico;Last Supper Painting Milan Italy;last supper painting milan italy;last supper painting milan;last supper painting madrid;last supper painting location;last supper painting italy;last supper painting italian;last supper painting information milan italy;last supper painting in milan</examples>
+</intent>
+</topic>
+
+<topic number="0406">
+<query>university of phoenix</query>
+<intent number="1" probability="0.121387">
+<description>university of phoenix 【campuses】</description>
+<examples>University Phoenix Student Web eCampus;university phoenix student web ecampus;University Phoenix myCampus;university phoenix mycampus;university of phoenix west michigan campus;university of phoenix tulsa campus;university of phoenix san diego campus;university of phoenix phoenix hohokam campus phoenix;university of phoenix phoenix hohokam campus;university of phoenix phoenix campus;university of phoenix northern colorado campus;university of phoenix jacksonville campus;university of phoenix eca</examples>
+</intent>
+<intent number="2" probability="0.121387">
+<description>university of phoenix【degree】</description>
+<examples>university of phoenix working degree;university of phoenix programs degree information faculty alumni;university of phoenix programs degree;university of phoenix offers degree programs;university of phoenix doctorate;university of phoenix degrees;university of phoenix degree programs;university of phoenix bachelor;university of phoenix ann arbor associate degrees;doctoral degrees from the university of phoenix;degree programs university of phoenix</examples>
+</intent>
+<intent number="3" probability="0.109827">
+<description>university of phoenix 【online】</description>
+<examples>university of phoenix reviews online;university of phoenix programs degree online accreditation college;university of phoenix onlne campus;university of phoenix online phonix;university of phoenix online mba;university of phoenix online enrollment;university of phoenix online degrees;university of phoenix online degree programs;university of phoenix online collections;university of phoenix online campus;university of phoenix online bachelor degree;university of phoenix online application;univers</examples>
+</intent>
+<intent number="4" probability="0.109827">
+<description>university of phoenix【programs】</description>
+<examples>university of phoenix teacher certification program;university of phoenix programs nation;university of phoenix programs;university of phoenix program;university of phoenix doctorate program;university of phoenix doctoral programs;university of phoenix certificate programs</examples>
+</intent>
+<intent number="5" probability="0.109827">
+<description>university of phoenix 【information】</description>
+<examples>university of phoenix transcripts;university of phoenix seating chart;university of phoenix reviews;university of phoenix ranking;university of phoenix people;university of phoenix organization and administration;university of phoenix news;university of phoenix jobs;university of phoenix honors categories;university of phoenix history;university of phoenix headquarters;university of phoenix guide;university of phoenix foundation;university of phoenix enrollment counselor;university of phoenix ed</examples>
+</intent>
+<intent number="6" probability="0.109827">
+<description>university of phoenix 【tuition】</description>
+<examples>university of phoenix tuition;university of phoenix financial aid;university of phoenix financial;university of phoenix cost tuition;university of phoenix admissions and financial aid;affordable university of phoenix</examples>
+</intent>
+<intent number="7" probability="0.109827">
+<description>university of phoenix 【courses】</description>
+<examples>university of phoenix paralegal courses;university of phoenix course descriptions;university of phoenix course;university of phoenix classes offered</examples>
+</intent>
+<intent number="8" probability="0.109827">
+<description>university of phoenix 【schools】</description>
+<examples>university of phoenix surgery;university of phoenix social work;university of phoenix schools;university of phoenix school of nursing;university of phoenix school codes;university of phoenix nursing;university of phoenix mobile;university of phoenix math;university of phoenix masters counseling;university of phoenix marketing and advertising;university of phoenix machine tattoo;university of phoenix learning education;university of phoenix education;university of phoenix customer service;univers</examples>
+</intent>
+<intent number="9" probability="0.098266">
+<description>university of phoenix 【address】</description>
+<examples>university of phoenix address;location of university of phoenix;locate staff at university of phoenix</examples>
+</intent>
+</topic>
+
+<topic number="0407">
+<query>the beatles rock band</query>
+<intent number="1" probability="0.160305">
+<description>the beatles rock band【music】</description>
+<examples>the beatles rock band music roll;the beatles rock band music production;the beatles rock band music of the united kingdom 1960s;the beatles rock band music of india;the beatles rock band music get;the beatles rock band music artists;The Beatles Rock Band Music;the beatles rock band music;the beatles rock band harmonix music systems;the beatles rock band game music career like experience;music of the beatles rock band;early tapes of the beatles rock band</examples>
+</intent>
+<intent number="2" probability="0.160305">
+<description>the beatles rock band【songs】 </description>
+<examples>the beatles rock band songs;the beatles rock band song list;the beatles rock band setlist;the beatles rock band list of songs in the beatles rock band;the beatles rock band full song;the beatles rock band 2007 in downloadable songs for the rock band series;songs covered by the beatles rock band;list of songs in the beatles rock band;first song reference to the beatles rock band;beatles rock band setlist;beatles rock band playlist</examples>
+</intent>
+<intent number="3" probability="0.160305">
+<description>the beatles rock band【history】</description>
+<examples>year after the beatles rock band;time the beatles rock band;the beatles rock band title;the beatles rock band time;the beatles rock band legends;the beatles rock band history biography;the beatles rock band development;the beatles rock band come together;the beatles rock band biography;the beatles rock band 2008;the beatles rock band 1970 1967;story of the beatles rock band;life with the beatles rock band;history of the beatles rock band;end of the beatles rock band;brian who managed the beatles</examples>
+</intent>
+<intent number="4" probability="0.129771">
+<description>the beatles rock band 【albums】</description>
+<examples>the beatles rock band records vinyl;the beatles rock band masters volume past;the beatles rock band albums;double album and both the beatles rock band;albums by the beatles rock band</examples>
+</intent>
+<intent number="5" probability="0.129771">
+<description>the beatles rock band 【photos】</description>
+<examples>the beatles rock band photos;pictures of the beatles rock band</examples>
+</intent>
+<intent number="6" probability="0.129771">
+<description>the beatles rock band 【instruments】</description>
+<examples>the beatles rock band instruments;the beatles rock band instrument peripherals;the beatles rock band drums;the beatles rock band chords;the beatles rock band bass hofner;drummer for the beatles rock band;beatles rock band drum set;beatles rock band bass</examples>
+</intent>
+<intent number="7" probability="0.129771">
+<description>the beatles rock band【member】</description>
+<examples>the beatles rock band ringo starr;the beatles rock band band hero;members of the beatles rock band</examples>
+</intent>
+</topic>
+
+<topic number="0408">
+<query>septic system design</query>
+<intent number="1" probability="0.127273">
+<description> septic system design【maintenance】</description>
+<examples>septic system designs and inspections;septic system design testing soil chapter;septic system design protector;septic system design and maintenance;perc tests septic system design;maintenance of your septic system design;care of your septic system design</examples>
+</intent>
+<intent number="2" probability="0.127273">
+<description>septic system design【installation】</description>
+<examples>septic system design operation;septic system design installation;septic system design install;septic system design drainage installation;septic system design and installation;septic system design and construction;operation of a septic system design;building or septic system design</examples>
+</intent>
+<intent number="3" probability="0.115152">
+<description>septic system design 【drain field】</description>
+<examples>septic system drainfield design;septic system designs drainfield;septic system design tank drainfields treatments;septic system design septic drain field;septic system design drainfield size;septic system design drainfield;septic system design drainage;septic system design drain field;design septic system drainfield</examples>
+</intent>
+<intent number="4" probability="0.115152">
+<description> septic system design【information】</description>
+<examples>septic systems principles and design;septic system leach field design;septic system designers;septic system design/infiltrators;septic system design trickling filter;septic system design tools;septic system design systems toilets composting;septic system design specifications;septic system design software edge planning;septic system design software;septic system design services;septic system design septage;septic system design parameters;septic system design nitrogen cycle;septic system design i</examples>
+</intent>
+<intent number="5" probability="0.103030">
+<description>septic system design【type】</description>
+<examples>Simple Septic System Design;simple septic system design;septic system design simple;septic system design providing advanced;septic system design constructed wetland;septic system design alternatives;septic system design advanced;residential septic system design;pressure septic system design;new design septic system;engineered septic system design;dry well septic system design;design for new and expanding wastewater septic systems;conventional septic system design;best septic system design;altern</examples>
+</intent>
+<intent number="6" probability="0.103030">
+<description>septic system design 【tanks】</description>
+<examples>tanks septic system design;septic tanks septic system design;septic tank system design;septic systems how work septic tanks septic design tank;septic system design tanks;septic system design tank soil;septic system design storage tank;septic system design septic tank;septic system design of the tank;septic system design imhoff tank;design of a septic tank system</examples>
+</intent>
+<intent number="7" probability="0.103030">
+<description>septic system design【location】</description>
+<examples>septic system designers nh;septic system design water supply and sanitation in costa rica;septic system design water resources management in argentina;septic system design urban water management in bogot colombia;septic system design tires virginia;septic system design texas;septic system design nj;septic system design nh;septic system design maine;septic system design island;septic system design in texas;septic system design in nh;septic system design in california;septic system design florida </examples>
+</intent>
+<intent number="8" probability="0.103030">
+<description>septic system design 【repair】</description>
+<examples>septic system design; sewer system design and repairs;septic system design repair;repairs to your septic system design</examples>
+</intent>
+<intent number="9" probability="0.103030">
+<description>septic system design【cost】</description>
+<examples>to provide quality septic system designs within your budget;septic system design cost;cost of septic system design</examples>
+</intent>
+</topic>
+
+<topic number="0409">
+<query>porterville</query>
+<intent number="1" probability="0.162791">
+<description>porterville【college】</description>
+<examples>veterans program at porterville college;students at porterville college;positive experience at porterville college;porterville junior college;Porterville Community College;porterville community college;porterville colleges;porterville college spring schedule;porterville college smart;porterville college president's message;porterville college men;porterville college library;porterville college fall schedule;porterville college class schedule;porterville college baseball;porterville college athle</examples>
+</intent>
+<intent number="2" probability="0.162791">
+<description>porterville 【school】</description>
+<examples>sequoia middle school porterville;schools in the porterville unified school district;school injuries monache porterville ca;porterville; california schools in the [[porterville unified school district]];porterville; california education;porterville unified school district;porterville unified public school district california;porterville ubified public school distric california;porterville schools;porterville school unified;porterville school district;porterville school;porterville public schools</examples>
+</intent>
+<intent number="3" probability="0.147287">
+<description>porterville【hotels】</description>
+<examples>porterville inn;Porterville Hotels;porterville hotels;porterville hotel</examples>
+</intent>
+<intent number="4" probability="0.131783">
+<description> porterville【weather】</description>
+<examples>weather porterville;porterville weather forecast;porterville weather - accuweather forecast for ca 93257;porterville weather;porterville smog;porterville hurricanes</examples>
+</intent>
+<intent number="5" probability="0.131783">
+<description>porterville 【california】</description>
+<examples>porterville; western cape;porterville; california 2010;porterville; california;porterville tulare county;porterville tulare california;porterville porterville california;porterville east porterville california;porterville county tulare;porterville central california;porterville california tulare county;porterville california care;porterville california;porterville cal;porterville ca yellow pages;porterville ca yellow;porterville ca population;porterville ca county;porterville ca best western;por</examples>
+</intent>
+<intent number="6" probability="0.131783">
+<description>porterville 【guide】</description>
+<examples>suspected gang members arrested in porterville;porterville; california history;porterville; california geography;porterville resources;porterville program;porterville panthers;porterville official website;porterville news;porterville music;porterville monache;porterville mohegan sun;porterville man;porterville logo;porterville lawyers general;porterville information general;porterville information;porterville indian gaming regulatory act;porterville events;porterville california city information</examples>
+</intent>
+<intent number="7" probability="0.131783">
+<description>porterville【map】</description>
+<examples>porterville map;Map of Porterville CA;map of porterville ca</examples>
+</intent>
+</topic>
+
+<topic number="0410">
+<query>grilling</query>
+<intent number="1" probability="0.175000">
+<description>grilling 【recipes】</description>
+<examples>summer grilling recipes;southwestern grilling recipes;rotisserie grilling recipes;quick and easy grilling recipes;plank grilling recipes;Memorial Day Grilling Recipes;memorial day grilling recipes;low fat grilling recipes;low carb diabetic grilling recipes;low calorie grilling recipes;labor day grilling recipes;infrared grilling recipes;healthy grilling recipes;grilling recipies;grilling recipes summer;grilling recipes healthy;grilling recipes free;grilling recipes featured;grilling recipes easy</examples>
+</intent>
+<intent number="2" probability="0.175000">
+<description> grilling【barbecue】</description>
+<examples>meat for grilling;grilling regional variations of barbecue;grilling recipes barbecue;grilling packets;grilling bbq enjoy;grilling bbq barbecue;grilling barbecue grill;grilling barbecue;grilling and bbq baskets;free barbecues grilling newsletter;barbecues grilling guide;barbecues grilling;barbecue grilling newsletter;barbecue grill;barbecue and grilling tips</examples>
+</intent>
+<intent number="3" probability="0.175000">
+<description>grilling 【tips】</description>
+<examples>recipes tips techniques food grill;recipes tips grilled right much;guide to grilling;grilling tri tip roasts;grilling tips;grilling recipes webkatalog;grilling recipes tips techniques food grill;grilling recipes tips reviews;grilling recipes tips grilled right much;grilling recipes tips advice related;grilling recipes tips;grilling recipes shows;grilling methods;grilling instructions;doneness grilling tips</examples>
+</intent>
+<intent number="4" probability="0.158333">
+<description>grilling 【type】</description>
+<examples>smoking grilling recipes;grills grilling types;grilling wood planks;grilling with wood;grilling teppanyaki;grilling stove-top pan grilling;grilling recipes fire epicurious;grilling hibachi;gas grilling recipes;gas grilling</examples>
+</intent>
+<intent number="5" probability="0.158333">
+<description> grilling 【seafood】</description>
+<examples>trout grilling recipes;shrimp grilling recipes;seafood grilling recipes;recipes for grilling fish;lobster grilling recipes;grilling tilapia recipes;grilling shrimp;grilling sea bass;grilling scallops recipes;grilling salmon recipes;grilling salmon;grilling recipes salmon;grilling lobsters;grilling lobster tails;grilling lobster;grilling glaze for salmon;grilling fish recipes;grilling fish;fish grilling baskets;brazilian lobster tail grilling recipes;amberjack grilling recipes</examples>
+</intent>
+<intent number="6" probability="0.158333">
+<description>grilling 【steaks】</description>
+<examples>steak grilling tips;steak grilling times;steak grilling recipes;rotisserie grilling beef;ribeye roast recipes for grilling;grilling the perfect steak;grilling steaks on charcoal grill;grilling steaks;grilling steak recipes;grilling steak;grilling grill recipes beef way cooking;grilling flank steak;grilling beef recipes;grill recipes beef way cooking;beef producers grilling recipes</examples>
+</intent>
+</topic>
+
+<topic number="0411">
+<query>furniture for small spaces</query>
+<intent number="1" probability="0.137681">
+<description>furniture for small spaces【decorating】</description>
+<examples>furniture for small spaces decoration gardening;furniture for small spaces decorating home living includes place;furniture for small spaces decorating home live people place;furniture for small spaces decorating home design apartment store;furniture for small spaces decorating home apartment ideas place;furniture for small spaces decorating home;furniture for small spaces decorating essentials;furniture for small spaces decorating</examples>
+</intent>
+<intent number="2" probability="0.137681">
+<description>furniture for small spaces 【information】</description>
+<examples>furniture for small spaces style;furniture for small spaces solutions;furniture for small spaces resources;furniture for small spaces product reviews;furniture for small spaces images;furniture for small spaces constellation program;furniture for small spaces collection;furniture for small spaces atelier bow wow;furniture for small spaces articles remodeling green;furniture for small spaces archives;entryway furniture for small spaces;designer furniture for small spaces</examples>
+</intent>
+<intent number="3" probability="0.137681">
+<description>furniture for small spaces【tips for choosing】</description>
+<examples>tips on choosing furniture for small spaces;tips for small spaces furniture;furniture for small spaces tricks;furniture for small spaces tips rooms;furniture for small spaces tips;choice of furniture for small spaces;buying furniture for small spaces;7 tips for buying furniture for small spaces</examples>
+</intent>
+<intent number="4" probability="0.137681">
+<description>furniture for small spaces【living room】</description>
+<examples>lounge furniture for small spaces;living room furniture for small spaces;furniture for small spaces one room living;furniture for small spaces living room style tips save;furniture for small spaces living room bedroom convertible compact;furniture for small spaces living room;furniture for small living spaces;furniture for living in small spaces</examples>
+</intent>
+<intent number="5" probability="0.123188">
+<description> furniture for small spaces【feature】</description>
+<examples>wooden garden furniture for small spaces;wood furniture for small spaces;type of furniture for small spaces;smart furniture for small spaces |;modern office furniture for small spaces;modern furniture for small spaces;leather furniture for small spaces;furniture for small spaces modern;furniture for small spaces house beautiful;furniture for small spaces entertaining;furniture for small spaces double portable electric;furniture for small spaces best smaller;functional furniture for small spaces;</examples>
+</intent>
+<intent number="6" probability="0.108696">
+<description>furniture  for small spaces【ideas】</description>
+<examples>ideas for furniture for small spaces;furniture ideas for small spaces;furniture for small spaces thinking;furniture for small spaces littlediggs stylish renovation;furniture for small spaces ideas;furniture for small spaces design ideas;furniture design for small spaces</examples>
+</intent>
+<intent number="7" probability="0.108696">
+<description>furniture for small spaces 【kitchen】</description>
+<examples>kitchen furniture small spaces;kitchen furniture for small spaces;furniture for small spaces mutiara damansara;furniture for small spaces kitchen;dining room furniture for small spaces;dining furniture for small spaces</examples>
+</intent>
+<intent number="8" probability="0.108696">
+<description>furniture for small spaces 【prices 】</description>
+<examples>furniture for small spaces tags;furniture for small spaces prices people;furniture for small spaces compare prices</examples>
+</intent>
+</topic>
+
+<topic number="0412">
+<query>dnr</query>
+<intent number="1" probability="0.196262">
+<description>dnr 【department of natural resources】</description>
+<examples>dnr natural department resources state page;dnr natural department resources site web;dnr natural department resources hunting fishing;dnr department natural resources;dnr - department of natural resources;department natural resources dnr</examples>
+</intent>
+<intent number="2" probability="0.177570">
+<description>dnr【information】</description>
+<examples>maps dnr;link on the dnr web site;geographic information systems dnr;dnronline;dnr website;dnr web site;dnr order document;dnr online;dnr offices;dnr office;dnr news;dnr mail phone;dnr magazine;dnr logo natural;dnr license;dnr information center;dnr homepage;dnr home page;dnr history;dnr director;dnr definition dictionary;dnr data;dnr central office;all dnr sites;advance directive or dnr order</examples>
+</intent>
+<intent number="3" probability="0.158879">
+<description>dnr 【locations】</description>
+<examples>Wisconsin DNR;wisconsin dnr;west virginia dnr;washington dnr;virginia dnr;state of michigan dnr;sapelo dnr meeting;radio dnr luxembourg;ohio dnr;odnr ohio parks;new york dnr;missouri dnr;minnesota dnr fishing;Minnesota DNR;minnesota dnr;michigan dnr fishing report;michigan dnr;maryland dnr;lakefinder: minnesota dnr;iowa dnr photos;iowa dnr fishing report;Iowa DNR;iowa dnr;indiana dnr;illinois dnr license sales site;Illinois DNR;illinois dnr;georgia dnr home;georgia dnr;dnr wisconsin minnesota;dn</examples>
+</intent>
+<intent number="4" probability="0.158879">
+<description>dnr 【resources system】</description>
+<examples>recreation on dnr-managed lands;dnr watershed improvement;dnr watershed home;dnr resources systems;dnr outdoor events programs;dnr lake finder;dnr inland maps lake;dnr bio-imaging systems</examples>
+</intent>
+<intent number="5" probability="0.121495">
+<description>dnr 【do not resuscitate】</description>
+<examples>resuscitate dnr;dnr resuscitate service;dnr resuscitate;dnr do not resuscitate;dnr - do not resuscitate;d.n.r. do not resuscitate</examples>
+</intent>
+<intent number="6" probability="0.102804">
+<description>dnr 【service center】</description>
+<examples>dnr service center locations;dnr service center;dnr p2 services</examples>
+</intent>
+<intent number="7" probability="0.084112">
+<description>dnr 【wildlife】</description>
+<examples>md dnr wildlife;dnr wildlife plan;dnr wildlife;dnr mead wildlife area</examples>
+</intent>
+</topic>
+
+<topic number="0413">
+<query>arkansas</query>
+<intent number="1" probability="0.132911">
+<description>arkansas 【history】</description>
+<examples>history of morrilton arkansas;history of arkansas;automobile accident star city arkansas;arkansas militia in the civil war;arkansas history commission;arkansas history;arkansas historical;arkansas events calendar;arkansas events;arkansas court records;arkansas american civil;1824: the arkansas war</examples>
+</intent>
+<intent number="2" probability="0.132911">
+<description>arkansas 【national guard】</description>
+<examples>awards and decorations of the national guard;arkansas state guard and the spanish american war;arkansas national guard of the united states;arkansas national guard during world war i;arkansas national guard and world war ii;arkansas national guard;arkansas awards and decorations of the national guard;arkansas army national guard in operation desert storm;arkansas army national guard and the korean war;arkansas army national guard and the global war on terrorism;arkansas army national guard and t</examples>
+</intent>
+<intent number="3" probability="0.132911">
+<description>arkansas【university】</description>
+<examples>university of central arkansas;university of arkansas system;university of arkansas razorback marching band;university of arkansas notable people;university of arkansas fort smith;university of arkansas for medical sciences;university of arkansas football;university of arkansas baseball;university of arkansas at little rock;university of arkansas;university arkansas;arkansas university;arkansas tech university;arkansas state university;arkansas academic scholarship challenge</examples>
+</intent>
+<intent number="4" probability="0.132911">
+<description>arkansas 【weather】</description>
+<examples>national weather service north little rock; arkansas;Flooding in Arkansas;flooding in arkansas;arkansas weather;arkansas floods; 2010;arkansas farmers drought;2010 arkansas floods</examples>
+</intent>
+<intent number="5" probability="0.120253">
+<description>arkansas 【map】</description>
+<examples>arkansas state map;arkansas maps;Arkansas Map;arkansas map</examples>
+</intent>
+<intent number="6" probability="0.120253">
+<description>arkansas 【tourist attractions】</description>
+<examples>tourism in arkansas;hauntings in southeast arkansas;arkansas visit;arkansas vacations;arkansas vacation rentals;arkansas vacation guide;arkansas vacation;arkansas travelers;arkansas travel;arkansas tourist attractions;arkansas camping</examples>
+</intent>
+<intent number="7" probability="0.120253">
+<description>arkansas 【guide】</description>
+<examples>receive the free living in arkansas guide;magazines about arkansas;centery 21 l astate book arkansas;arkansas yellow pages;arkansas website;arkansas records;arkansas post presidency of bill clinton;arkansas online;arkansas official site;arkansas news;arkansas information;arkansas guide;arkansas directory</examples>
+</intent>
+<intent number="8" probability="0.107595">
+<description>arkansas 【school】</description>
+<examples>list of high schools in arkansas;arkansas school international;arkansas school;arkansas high school basketball;arkansas clinton school of public service</examples>
+</intent>
+</topic>
+
+<topic number="0414">
+<query>hobby stores</query>
+<intent number="1" probability="0.205882">
+<description>hobby stores 【shopping online】</description>
+<examples>RC Hobby Shop Online;rc hobby shop online;online rc hobby stores;online hobby stores;Online Hobby Shop;online hobby shop;hobby stores shopping online;hobby stores online</examples>
+</intent>
+<intent number="2" probability="0.186275">
+<description>hobby stores 【locations】</description>
+<examples>wisconsin hobby shops and hobby stores;tucson hobby stores;seattle area hobby stores;radio control hobby stores minnesota;phoenix arizona science hobby stores;phoenix arizona hobby stores;ohio hobby shops and hobby stores;list of hobby stores in mass;illinois hobby stores locate hobby stores in illinois;illinois hobby shops and hobby stores;houston hobby stores;hobby stores uk;hobby stores san jose;hobby stores san antonio;hobby stores saginaw michigan;hobby stores sacramento;hobby stores rosevi</examples>
+</intent>
+<intent number="3" probability="0.166667">
+<description>hobby stores【information】</description>
+<examples>national retail hobby stores association;local hobby stores;list of hobby stores;hobby stores zone;hobby stores target corporation;hobby stores networking;hobby stores list of tamiya product lines;hobby stores items;hobby stores hobby products international;hobby stores full line;hobby stores communities;hobby stores association nrhsa</examples>
+</intent>
+<intent number="4" probability="0.147059">
+<description> hobby stores【toy】</description>
+<examples>toy hobby stores;toy and hobby stores;hobby stores tyco toys</examples>
+</intent>
+<intent number="5" probability="0.147059">
+<description> hobby stores【football card】</description>
+<examples>upper deck spx football cards hobby stores;upper deck sp rookie threads football cards hobby stores;upper deck draft edition football cards hobby stores;ultimate collection football cards hobby stores;playoff contenders football cards hobby stores;football cards hobby stores;finest football cards hobby stores;donruss threads football cards hobby stores;donruss elite football cards hobby stores;certified materials football cards hobby stores;bowman sterling football cards hobby stores;bowman chro</examples>
+</intent>
+<intent number="6" probability="0.147059">
+<description> hobby stores【baseball card】</description>
+<examples>upper deck artifacts baseball cards hobby stores;ultimate collection baseball cards hobby stores;sterling baseball cards hobby stores;history baseball cards hobby stores;ginter baseball cards hobby stores;bowman sterling baseball cards hobby stores;baseball hobby stores;baseball cards hobby stores</examples>
+</intent>
+</topic>
+
+<topic number="0415">
+<query>blue throated hummingbird</query>
+<intent number="1" probability="0.128834">
+<description>blue throated hummingbird 【pictures】</description>
+<examples>terry steele nature photography blue-throated hummingbird;blue-throated hummingbird profile and photos sabo;blue-throated hummingbird | r.m.buquoi photographics;blue-throated hummingbird (lampornis clemenciae) photo;blue throated hummingbird profile and photos;blue throated hummingbird pictures;blue throated hummingbird picture;blue throated hummingbird photos wildlife;blue throated hummingbird photos learn;blue throated hummingbird photos;blue throated hummingbird photo gallery hummingbirds;blu</examples>
+</intent>
+<intent number="2" probability="0.128834">
+<description>blue throated hummingbird 【species】</description>
+<examples>blue-throated birds photos species large;blue throated hummingbird species;blue throated hummingbird clemenciae lampornis blue-throated species member;blue throated hummingbird clemenciae lampornis blue-throated birds species;blue throated hummingbird blue-throated species;blue throated hummingbird blue-throated birds photos species large</examples>
+</intent>
+<intent number="3" probability="0.116564">
+<description>blue throated hummingbird【color】</description>
+<examples>white throat and blue throated hummingbird;main colors of say red to blue throated hummingbird;color blue throated hummingbird;blue throated hummingbird ruby-throated times;blue throated hummingbird ruby throated hummingbird;blue throated hummingbird ruby archilochus colubris;blue throated hummingbird ruby;blue throated hummingbird platinum;blue -throated hummingbird magnificent hummingbird ruby-throated hummingbird black-chinned;blue throated hummingbird buff;blue throated hummingbird black chi</examples>
+</intent>
+<intent number="4" probability="0.116564">
+<description>blue throated hummingbird【feature】</description>
+<examples>blue throated hummingbirds wings;blue throated hummingbird wind spinner;blue throated hummingbird trochilidae;blue throated hummingbird morning sculpture;blue throated hummingbird jorge botanical reserve;blue throated hummingbird gift;blue throated hummingbird clemenciae lampornis;blue throated hummingbird broad billed</examples>
+</intent>
+<intent number="5" probability="0.116564">
+<description>blue throated hummingbird 【location】</description>
+<examples>seychelles blue throated hummingbird;madagascar blue throated hummingbird;hybridization of a blue-throated hummingbird in california;ellijay and blue throated hummingbird;comoro blue throated hummingbird;blue-throated hummingbird in alabama;blue-throated hummingbird discovered in colombia | reuters;blue throated hummingbird virgin islands national park;blue throated hummingbird texas;blue throated hummingbird st charles bay;blue throated hummingbird saint john u s virgin islands;blue throated hu</examples>
+</intent>
+<intent number="6" probability="0.104294">
+<description> blue throated hummingbirds【behavior】</description>
+<examples>reproductive behavior and communication in blue throated hummingbirds;blue throated hummingbirds habitat;blue throated hummingbird habitat;behavior of blue throated hummingbird</examples>
+</intent>
+<intent number="7" probability="0.104294">
+<description>blue throated hummingbird 【food】</description>
+<examples>the blue-throated hummingbird feeds on insects and nectar;blue-throated hummingbird food;blue throated hummingbird feeders;birdbrain charisma hummingbird feeder aqua blue throated hummingbird</examples>
+</intent>
+<intent number="8" probability="0.092025">
+<description>blue throated hummingbird 【information】</description>
+<examples>blue throated hummingbird site;blue throated hummingbird information blue-throated;blue throated hummingbird information</examples>
+</intent>
+<intent number="9" probability="0.092025">
+<description>blue throated hummingbird 【profile】</description>
+<examples>blue-throated hummingbird video;blue-throated hummingbird profile;blue-throated hummingbird posts;blue throated hummingbird song;blue throated hummingbird posters</examples>
+</intent>
+</topic>
+
+<topic number="0416">
+<query>computer programming</query>
+<intent number="1" probability="0.124260">
+<description> computer programming【introduction】</description>
+<examples>Introduction to Computer Programming;introduction to computer programming;introduction computer programming;intro computer programming;instructions to tell the computer programming;computer programming introduction subject</examples>
+</intent>
+<intent number="2" probability="0.124260">
+<description>computer programming 【language】</description>
+<examples>machine language using another computer programming;janus computer programming language;computer programming programming languages;computer programming lisp programming language;computer programming languages list;computer programming languages;computer programming language programmer;computer programming language c;computer programming language;computer programming c++ languages;computer programming c++;best computer programming language</examples>
+</intent>
+<intent number="3" probability="0.124260">
+<description>computer programming【information】</description>
+<examples>mystery from computer programming by researching ehow;Information on Computer Programming;information on computer programming;history of computer programming;errors in computer programming;development of computer programming;computer programming tools;computer programming systems;computer programming system;computer programming projects;computer programming problems;computer programming overview;computer programming news;computer programming methodologies;computer programming library;computer pr</examples>
+</intent>
+<intent number="4" probability="0.112426">
+<description>computer programming 【software】</description>
+<examples>Free Computer Programming Software;free computer programming software;computer programming software engineering;computer programming software;computer programming silicon beach software;computer programming program degree skills science software;computer programming and software</examples>
+</intent>
+<intent number="5" probability="0.112426">
+<description>computer programming 【degree】</description>
+<examples>no degree required computer programming jobs;degree in computer programming;computer programming program degree;computer programming networking science degree;computer programming degrees;computer programming degree earn;computer programming degree;bachelor of computer programming</examples>
+</intent>
+<intent number="6" probability="0.100592">
+<description>computer programming 【certificate】</description>
+<examples>computer programming certification;computer programming certificate programs;computer programming certificate;certificate in computer programming</examples>
+</intent>
+<intent number="7" probability="0.100592">
+<description>computer programming 【salary】</description>
+<examples>computer programming salary 2012;Computer Programming Salary;computer programming salary</examples>
+</intent>
+<intent number="8" probability="0.100592">
+<description>computer programming 【techniques】</description>
+<examples>concepts; techniques; and models of computer programming;concepts techniques models computer programming;computer programming technology;computer programming techniques;computer programming special techniques;computer programming skills technical learn</examples>
+</intent>
+<intent number="9" probability="0.100592">
+<description>computer programming【type】</description>
+<examples>type of computer programming;knuth computer programming;games computer programming;computer programming simula;computer programming optimization;computer programming macintosh;computer programming laserwriter;computer programming java;computer programming games;computer programming ebook download;computer programming debugging;computer programming database;computer programming contest;computer programming cartoon;computer programming algorithmic complexity;blog computer programming;ajax computer</examples>
+</intent>
+</topic>
+
+<topic number="0417">
+<query>barbados</query>
+<intent number="1" probability="0.212121">
+<description>barbados【accomodation】</description>
+<examples>house hotel beach barbados;hotels barbados;hotel barbados;coconut court beach hotel barbados;barbados vacation rentals;barbados rentals vacation;barbados rentals;barbados hotels;barbados hotel travel;barbados caribbean island guide resort hotel;barbados accommodation;accra beach hotel barbados</examples>
+</intent>
+<intent number="2" probability="0.212121">
+<description>barbados 【tour】</description>
+<examples>visitbarbados;visit barbados;vacation to barbados;travel to barbados;sandy lane barbados;hotels barbados tourism vacations;holidays in barbados;barbados weddings;barbados virtual tours;barbados vacation caribbean paradise;barbados vacation;barbados travel info;barbados travel guide;barbados travel;barbados tours tour island;barbados tours;barbados tourism travel reviews;barbados tourism;barbados reviews tripadvisor;Barbados Resorts;barbados resorts;barbados prices tripadvisor;barbados honeymoon </examples>
+</intent>
+<intent number="3" probability="0.191919">
+<description>barbados 【economy】</description>
+<examples>economy of barbados;business barbados investment;barbados stock exchange;barbados real estate;barbados lottery;barbados economy of barbados;barbados economy;barbados deals;barbados currency;barbados business</examples>
+</intent>
+<intent number="4" probability="0.191919">
+<description>barbados 【information】</description>
+<examples>information on barbados;barbados white pages;barbados overview;barbados information;barbados directory</examples>
+</intent>
+<intent number="5" probability="0.191919">
+<description>barbados 【map】</description>
+<examples>outline barbados map;maps barbados online;map of barbados;map barbados;Barbados Map;barbados map</examples>
+</intent>
+</topic>
+
+<topic number="0418">
+<query>lipoma</query>
+<intent number="1" probability="0.120000">
+<description>lipoma 【information】</description>
+<examples>lipoma topic overview;lipoma prevention;lipoma prevalence;lipoma medical dictionary online;lipoma images and video;lipoma definition;lipoma best source information;lipoma article;autoimmune conditions and lipomas</examples>
+</intent>
+<intent number="2" probability="0.120000">
+<description>lipoma【treatment】</description>
+<examples>treatment of a lipoma;lipoma tumor treatment;lipoma treatments;lipoma treatment surgery;lipoma treatment minnesota hemorrhoid;lipoma treatment;lipoma board treatments and cures</examples>
+</intent>
+<intent number="3" probability="0.120000">
+<description>lipoma 【cure】</description>
+<examples>lipoma surgery;lipoma petrificans;lipoma melting injections;lipoma liposuction;lipoma lipomaremoval;lipoma lipitor;lipoma injection cure;lipoma doctors india;lipoma doctor;lipoma diagnosis;lipoma cure;lipoma clinic;lipoma case study;lipoma arch surg;home remedy for a lipoma;emedicine lipoma</examples>
+</intent>
+<intent number="4" probability="0.120000">
+<description>lipoma 【symptoms】</description>
+<examples>symptoms causes types doctor image;symptoms causes treatment tumor fatty;lipoma symptoms treatment patient;lipoma symptoms treatment information;lipoma symptoms causes types doctor image;lipoma symptoms causes;Lipoma Symptoms;lipoma symptoms;lipoma numbness;lipoma chemical process of decomposition;connective tissue disorders with lipomas</examples>
+</intent>
+<intent number="5" probability="0.108571">
+<description>lipoma 【causes】</description>
+<examples>lipoma causes;Causes of Lipoma Tumors;causes of lipoma tumors;cause of lipoma</examples>
+</intent>
+<intent number="6" probability="0.108571">
+<description>lipoma 【remove】</description>
+<examples>removed lipoma;remove lipoma naturally;remove lipoma;lipoma remove;lipoma removal treatment;lipoma removal largest;lipoma removal laparoscopic;lipoma removal incision;Lipoma Removal;lipoma removal;lipoma excision;home remedy for lipoma removal;excision lipoma</examples>
+</intent>
+<intent number="7" probability="0.108571">
+<description> lipoma 【picture】</description>
+<examples>Pictures Lipomas Tumor;pictures lipomas tumor;picture of lipoma;lipoma pictures;lipoma picture;lipoma pics</examples>
+</intent>
+<intent number="8" probability="0.097143">
+<description>lipoma 【fatty tumor】</description>
+<examples>soft tissue tumors lipoma;lipoma tumor tissue;lipoma tumor;lipoma tissues tumor;lipoma natural fatty;Lipoma Fatty Tumors Humans;lipoma fatty tumors humans;lipoma fatty tumor;lipoma fatty mass;lipoma fat cells;lipoma benign tumor;fatty lipomas;fatty lipoma mass;fatty lipoma</examples>
+</intent>
+<intent number="9" probability="0.097143">
+<description>lipoma 【types】</description>
+<examples>subcutaneous lipoma lipomas;subcutaneous lipoma;spiral cell lipoma;scrotum lipoma;scrotum like protrusion lipoma;renal lipoma;pleomorphic lipoma;parosteal lipoma;malignant lipoma;lipoma upper involving nerve;lipoma types;lipoma pectoralis major muscle;lipoma on the chest wall;lipoma myxomatodes;lipoma myxoma;lipoma minilaparotomy;lipoma mastocytoma;lipoma lump harmless;lipoma lumbosacral stress incontinence;lipoma located on the buttocks;lipoma ingentaconnect;lipoma in abdomen;lipoma hibernoma;l</examples>
+</intent>
+</topic>
+
+<topic number="0419">
+<query>battles in the civil war</query>
+<intent number="1" probability="0.216495">
+<description>battles in the civil war 【history】</description>
+<examples>battles of the civil war history;battles in the civil war history;battles in the civil war historians</examples>
+</intent>
+<intent number="2" probability="0.195876">
+<description>battles in the civil war 【archive】</description>
+<examples>yankee women gender battles in the civil war;great american battles of the civil war mindscape;casualties in the civil war battles;battles of the civil war states united;battles of the civil war soldier;battles of the civil war people american;battles of the civil war news;battles of the civil war involving south carolina troops;battles of the civil war events;battles in the civil war united states civil defense;battles in the civil war uniforms;battles in the civil war soldiers;battles in the c</examples>
+</intent>
+<intent number="3" probability="0.195876">
+<description>battles in the civil war 【timeline】</description>
+<examples>timeline of the civil war battles;timeline of the battles of the civil war;timeline of key battles of the civil war;timeline of battles in the civil war;timeline for battles in the civil war;battles of the civil war timeline;battles in the civil war timeline;battles in the civil war books timeline;battles in the civil war american one state timeline maps</examples>
+</intent>
+<intent number="4" probability="0.195876">
+<description>battles in the civil war 【museum】</description>
+<examples>battles in the civil war new england civil war museum;battles in the civil war national civil war naval museum at port columbus;battles in the civil war national civil war museum;battles in the civil war museum;battles in the civil war civil war and underground railroad museum of philadelphia</examples>
+</intent>
+<intent number="5" probability="0.195876">
+<description>battles in the civil war 【sites】</description>
+<examples>the civil war battles in the west;the civil war battles in the south;the civil war battles in texas;the civil war battles in missouri;tennesseans in the civil war battles;map of the civil war battles in mississippi;louisiana battles in the civil war;locations of civil war battles;harrisburg in the american civil war;civil war battles tennessee;civil war battles shiloh;civil war battles mississippi;civil war battles in virginia;civil war battles in south carolina;civil war battles in north caroli</examples>
+</intent>
+</topic>
+
+<topic number="0420">
+<query>scooters</query>
+<intent number="1" probability="0.140000">
+<description>scooters 【store】</description>
+<examples>walmart scooters;scooters store;scooters shop;scooters power store;scooter store</examples>
+</intent>
+<intent number="2" probability="0.140000">
+<description>scooters【motor】</description>
+<examples>scooters types of motorcycles;scooters scooter motorcycle;scooters motorized scooter;scooters motorcycles;scooters motorcycle;scooters motor dealers;scooters motor;scooters mopeds;scooters cycling;scooters and motorcycles;Scooters and Motor Scooters;scooters and motor scooters;scooters and mopeds;scooter motorcycle;scooter (motorcycle);motorized scooters;motorized scooter;motorcycles scooters;motor scooters gas;motor scooters;Motor Scooter;motor scooter;moped scooters;folding motorized scooters</examples>
+</intent>
+<intent number="3" probability="0.126667">
+<description>scooters 【information】</description>
+<examples>scooters sites;scooters reviews;scooters online;scooters information;scooters homepage</examples>
+</intent>
+<intent number="4" probability="0.126667">
+<description>scooters 【photo】</description>
+<examples>scooters snapshot;scooters scooters scooters photo declan mccullagh photograph</examples>
+</intent>
+<intent number="5" probability="0.126667">
+<description>scooters  【sale】</description>
+<examples>wholesale pocket rocket scooters;wholesale gas scooters;usa wholesale scooters;scooters sale;scooters prices;scooters for sale;scooters electric sale;scooters cheap;motor scooters for sale gas;discount scooters;compare prices scooters;cheap motor scooters;cheap gas scooters</examples>
+</intent>
+<intent number="6" probability="0.113333">
+<description>scooters【brand】</description>
+<examples>vespa scooters;scooters vespa;scooters piaggio aprilia;scooters piaggio;scooters bmw c1;scooters aprilia;schwinn scooters;lambretta scooters;kymco scooters;aprilia scooters</examples>
+</intent>
+<intent number="7" probability="0.113333">
+<description>scooters【electric】</description>
+<examples>treme scooters electric;scooters electric vehicle conversion;scooters electric vehicle;scooters electric scooters motor scooters;scooters electric motorized;scooters electric motorcycles and scooters;scooters electric motor;electric scooters pocket bikes;electric scooters motorized scooters gas scooters;electric scooters gas scooters motorized scooters;Electric Scooters;electric scooters;electric powered scooters;electric motorcycles and scooters;electric motor scooters;electric mobility scooter</examples>
+</intent>
+<intent number="8" probability="0.113333">
+<description>scooters【type】</description>
+<examples>twist n go low boy scooters;street scooters;street legal scooters;square scooter;scooters triumph daytona 675;scooters sports gear;scooters skates;scooters racing;scooters for kids;scooters beach;scooterboy;scooter spongebob squarepants character;scooter coronation street character;scooter (spongebob squarepants character);scooter (coronation street character);road scooters;main st scooters;knee scooter;flying scooters;fast scooters powered;bionex scooters;big boy scooters</examples>
+</intent>
+</topic>
+
+<topic number="0421">
+<query>ron howard</query>
+<intent number="1" probability="0.141892">
+<description>ron howard【film】</description>
+<examples>the davinchi code ron howard;slumdog millionaire ron howard;ron howard the secret life of walter mitty film;ron howard the da vinci code film;ron howard new movie;ron howard movies directed;ron howard movies;ron howard movie;ron howard happy days;ron howard grand theft;ron howard films;ron howard film roles and ''happy days'';ron howard film;ron howard da vinci code;ron howard beautiful mind;ron howard apollo 13 film;ron howard a beautiful mind film;ron howard a beautiful mind;new film by ron ho</examples>
+</intent>
+<intent number="2" probability="0.141892">
+<description>ron howard 【pictures】</description>
+<examples>ron howardphotos;ron howard profile photos;ron howard pictures;ron howard photos news videos show pictures;ron howard photos news videos pictures taylor;ron howard photos news;ron howard photos;ron howard photographs;ron howard news video photos;Ron Howard Family Pictures;ron howard family pictures;ron howard family photos;photos of ron howard;photos news videos pictures taylor;mikron howard case picture</examples>
+</intent>
+<intent number="3" probability="0.141892">
+<description>ron howard 【filmography】</description>
+<examples>ron howard the alamo 2004 film;ron howard photos news movies biography tv;ron howard on election 2008;ron howard movies biography formula canon american;ron howard movies biography;ron howard filmography;ron howard 2005 cinderella;ron howard 1999 film;ron howard 1999 comedy edtv;ron howard 1999;2009 ron howard;1999 Ron Howard Satire;1999 ron howard satire;1999 ron howard film;1999 ron howard comedy;1977 ron howard movie;1977 ron howard</examples>
+</intent>
+<intent number="4" probability="0.141892">
+<description>ron howard 【profile】</description>
+<examples>young ron howard;ron howard university;ron howard profile story;ron howard personal life;ron howard parents;ron howard oklahoma born;ron howard home town;ron howard early life;ron howard death;ron howard birthday;ron howard biography;ron howard bio;ron howard age;ron howard absolutenow</examples>
+</intent>
+<intent number="5" probability="0.114865">
+<description>ron howard【director】</description>
+<examples>the directors ron howard;ron howard movie lists directors;ron howard movie director;ron howard list of movies as directors;ron howard best director;ron howard (director);ron howard (american director);mermaid ron howard director;directors ron howard;director ron howard visits bangor;director ron howard</examples>
+</intent>
+<intent number="6" probability="0.114865">
+<description>ron howard 【archive】</description>
+<examples>ron howard news;ron howard media satire;ron howard gallery;ron howard filmbug;ron howard chimes in on child actors;ron howard archive;ron howard allstar game;ohio ron howard music center</examples>
+</intent>
+<intent number="7" probability="0.101351">
+<description>ron howard 【tv】</description>
+<examples>ron howard tv series;ron howard tv;ron howard the questor tapes tv series;ron howard television;ron howard - tv</examples>
+</intent>
+<intent number="8" probability="0.101351">
+<description>ron howard 【associates】</description>
+<examples>russell crowe and ron howard movies;ron howard william broyles jr;ron howard tom hanks;ron howard suzanne somers richard dreyfuss;ron howard stars;ron howard ronald obituary view;ron howard ronald;ron howard rance howard;ron howard opie;ron howard obama;ron howard morris;ron howard mitchell hurwitz;ron howard matthew mcconaughey;ron howard loves michael jackson;ron howard johnson;ron howard jennifer connelly;ron howard henry winkler;ron howard defends michael jackson;ron howard cunningham;ron ho</examples>
+</intent>
+</topic>
+
+<topic number="0422">
+<query>becoming a paralegal</query>
+<intent number="1" probability="0.122807">
+<description>becoming a paralegal【requirement】</description>
+<examples>what are the requirements for becoming a paralegal;the requirements of becoming a paralegal | fremont college;requirements of becoming a paralegal;requirements in becoming a paralegal;requirements for becoming a paralegal;qualifications for becoming a paralegal;criteria for becoming a paralegal;becoming a paralegal requirements;becoming a paralegal description requirements duties</examples>
+</intent>
+<intent number="2" probability="0.122807">
+<description>becoming a paralegal 【certificate】</description>
+<examples>usc paralegal certificate - becoming a paralegal;becoming paralegal assistant;becoming a paralegal legal document assistant;becoming a paralegal law legal;becoming a paralegal contract attorney;becoming a paralegal certificate;becoming a paralegal careers;becoming a paralegal career;becoming a paralegal bs;becoming a paralegal become career;becoming a paralegal become an awesome legal assistant;becoming a paralegal assistant;becoming a paralegal and a lawyer;becoming a paralegal accredited;becom</examples>
+</intent>
+<intent number="3" probability="0.122807">
+<description>becoming a paralegal 【definition】</description>
+<examples>paralegal studies career video: becoming a paralegal;cost of becoming a paralegal;becoming a paralegal students;becoming a paralegal specialist;becoming a paralegal resume;becoming a paralegal regulation;becoming a paralegal interview;becoming a paralegal graduates;becoming a paralegal experience;becoming a paralegal diploma program;becoming a paralegal definition;becoming a paralegal corporate;becoming a paralegal before law school</examples>
+</intent>
+<intent number="4" probability="0.111111">
+<description>becoming a paralegal 【degree】</description>
+<examples>degrees becoming a paralegal;becoming a paralegal with a bachelor's degree;becoming a paralegal studies degree;becoming a paralegal degrees online;becoming a paralegal degree online;becoming a paralegal degree;becoming a paralegal bachelors degree;becoming a paralegal bachelor</examples>
+</intent>
+<intent number="5" probability="0.111111">
+<description>becoming a paralegal【training】</description>
+<examples>what is involved in becoming a paralegal;the training involved in becoming a paralegal;becoming a paralegal training online;becoming a paralegal training expectfrom;becoming a paralegal training;becoming a paralegal job training</examples>
+</intent>
+<intent number="6" probability="0.111111">
+<description>becoming a paralegal 【information】</description>
+<examples>information on becoming a paralegal;becoming a paralegal world network;becoming a paralegal resources good;becoming a paralegal introduction;becoming a paralegal information;becoming a paralegal info</examples>
+</intent>
+<intent number="7" probability="0.099415">
+<description>becoming a paralegal 【course】</description>
+<examples>becoming a paralegal education classes;becoming a paralegal courses;becoming a paralegal classes;becoming a paralegal approved course</examples>
+</intent>
+<intent number="8" probability="0.099415">
+<description> becoming a paralegal【step】</description>
+<examples>Steps to Becoming a Paralegal;steps to becoming a paralegal;steps in becoming a paralegal;steps for becoming a paralegal;process of becoming a paralegal;10 steps to becoming a paralegal</examples>
+</intent>
+<intent number="9" probability="0.099415">
+<description>becoming a paralegal 【studies】</description>
+<examples>becoming a paralegal study choose;becoming a paralegal studies office management;becoming a paralegal studies family law;becoming a paralegal studies employment law;becoming a paralegal studies courses;becoming a paralegal studies college program;becoming a paralegal studies</examples>
+</intent>
+</topic>
+
+<topic number="0423">
+<query>hip fractures</query>
+<intent number="1" probability="0.172131">
+<description>hip fractures 【medicine】</description>
+<examples>hip fractures zoledronic acid;hip fractures teriparatide;hip fractures temazepam;hip fractures rivaroxaban;hip fractures quinolone;hip fractures premarin;hip fractures medical;hip fractures drugs;hip fractures common medicine;hip fractures bisphosphonate;hip fractures alendronic acid</examples>
+</intent>
+<intent number="2" probability="0.172131">
+<description>hip fractures 【treatment】</description>
+<examples>treatment of a hip fractures;permanent cure from hip fractures and hip joints;nontreatment of hip fractures in senile patients;how to treat hip fractures;hospitals with hip fractures;hip fractures treatment;hip fractures symptoms treatment;hip fractures orthopaedic;hip fractures health treatment</examples>
+</intent>
+<intent number="3" probability="0.172131">
+<description>hip fractures【cause】</description>
+<examples>hip fractures risks and causes;hip fractures fractured neck of femur;hip fractures and their causes;hip fractures and contusions;falls hip fractures;fall causes a hip fractures;developmental dysplasia of the hip fractures;causes of hip fractures;bone and cause a pathological hip fractures;aaos falls and hip fractures</examples>
+</intent>
+<intent number="4" probability="0.172131">
+<description>hip fractures 【symptoms】</description>
+<examples>symptoms of hip fractures;pain in the hip fractures;hip fractures symptoms;hip fractures parkinsonian gait;hip fractures and dislocations</examples>
+</intent>
+<intent number="5" probability="0.155738">
+<description>hip fractures【case】</description>
+<examples>thigh bone and hip fractures;spine and hip fractures;osteoarthritis of the hip fractures;intertrochanteric hip fractures;hip fractures types;hip fractures pelvic;hip fractures of the femoral neck;hip fractures ischium;hip fractures intertrochanteric fracture;hip fractures intertrochanteric;hip fractures in dogs;hip fractures human leg;hip fractures femoral shaft;femur fractures hip fractures;cases of hip fractures;arthritis of the hip fractures</examples>
+</intent>
+<intent number="6" probability="0.155738">
+<description>hip fractures 【prevention】</description>
+<examples>protectors prevent hip fractures;prevention of hip fractures;prevent hip fractures;hip fractures protectors;hip fractures fall prevention;external protectors hip fractures</examples>
+</intent>
+</topic>
+
+<topic number="0424">
+<query>rock art</query>
+<intent number="1" probability="0.132075">
+<description>rock art【information】</description>
+<examples>rock art useful information;rock art sources;rock art sites;rock art screensaver download;rock art resources;rock art resource;rock art pages;rock art navigation;rock art main page;rock art internet;information on rock art;info rock art</examples>
+</intent>
+<intent number="2" probability="0.132075">
+<description>rock art 【archives】</description>
+<examples>world 's rock art literature;video rock art national geographic;topics rock art;south rock art digital archive;rock art terminology;rock art studies;rock art signs;rock art projects;rock art print;rock art posters;rock art poster;rock art news;rock art natural term;rock art methods;rock art links;rock art images;rock art gallery;rock art festival 2012;rock art facts;rock art experimental music;rock art education;rock art collections;rock art books;rock art articles;rock art art music;rock art ar</examples>
+</intent>
+<intent number="3" probability="0.119497">
+<description>rock art【location】</description>
+<examples>yard rock art in wichita ks;world rock art;welsh rock art organisation;utah rock art;trust for african rock art;texas rock art;southwest rock art;southern african rock art;south african rock art;sedona arizona red rock art;saharan rock art;rock art southwest anasazi;rock art southern focus nevada;rock art rockart upper midwest;rock art of the southwest;rock art of the iberian mediterranean basin;rock art of the central zone;rock art of figuig;rock art of alta;rock art oceanic art;rock art namibi</examples>
+</intent>
+<intent number="4" probability="0.119497">
+<description>rock art【museum】</description>
+<examples>tanum rock art museum;little rock art museum</examples>
+</intent>
+<intent number="5" probability="0.119497">
+<description> rock art【style】</description>
+<examples>styles of rock art;Rock'n Roll Art;rock'n roll art;rock art park;rock art paleolithic;rock art for kids;red rock art;punk rock art;pop rock art;paleolithic rock art;oldest rock art;of cave and rock art;native rock art;khoit tsenkher cave rock art;genres rock art;garage rock art;fine rock art;classic rock art;blues rock art;black rock art foundation;beaver creek rock art style;ancient rock art download;ancient rock art;ancient african rock art;anasazi rock art;aboriginal rock art</examples>
+</intent>
+<intent number="6" probability="0.106918">
+<description>rock art【paintings】</description>
+<examples>rock art rock drawings in valcamonica;rock art paintings;rock art cave painting;Painted Rock Art;painted rock art;mwela and adjacent areas rock art site (rock paintings)</examples>
+</intent>
+<intent number="7" probability="0.106918">
+<description>rock art 【association】</description>
+<examples>society through rock art;rock art research association;international federation of rock art organizations;bay area rock art research association;association of the friends of saharan rock art</examples>
+</intent>
+<intent number="8" probability="0.081761">
+<description>rock art 【show】</description>
+<examples>rock art show dallas;rock art show</examples>
+</intent>
+<intent number="9" probability="0.081761">
+<description>rock art 【conservation】</description>
+<examples>rock art preservation;rock art in danger;rock art conservation</examples>
+</intent>
+</topic>
+
+<topic number="0425">
+<query>signs of a heartattack</query>
+<intent number="1" probability="0.165354">
+<description>signs of a heartattack【early warnings】</description>
+<examples>warning signs of a heart attack;timely recognition of signs of a heartattack;signs of a heartattack attack heart symptoms warning answers;signs of a heartattack answers warning;signs of a heart attack symptoms causes risk;signs of a heart attack first;monitors and check vital signs of a heartattack;heart attack warning signs;heart attack early warning signs of a heartattack;Heart Attack Early Warning Signs;heart attack early warning signs;free warning signs of a heartattack magnet;four warning s</examples>
+</intent>
+<intent number="2" probability="0.149606">
+<description>signs of a heartattack【specific symptoms】 </description>
+<examples>what are the signs and symptoms of a heart attack;weakness all signs of a heartattack;symptoms signs of a heart attack;symptoms of a mild heart attack;signs of a heartattack symptoms;signs of a heartattack attack symptoms;signs of a heart attack symptom;signs and symptoms of heartattack;signs and symptoms of a heart attack;short term memory loss after heart attack;Heart Attack Symptoms Left Arm;heart attack coughing hoax;heart attack coma convulsion;heart attack and back ache;continuing shortnes</examples>
+</intent>
+<intent number="3" probability="0.133858">
+<description>signs of a heartattack【women】</description>
+<examples>women warning signs heart attack;Women Heart Attack Symptoms;warning signs of a heartattack in women;warning signs of a heartattack for women;warning signs of a heart attack for a woman;signs of heart attack in women over 50;signs of heart attack in women;signs of a woman having a heartattack;signs of a heartattack symptoms women;signs of a heartattack in young women;signs of a heartattack in females;signs of a heartattack in a woman;signs of a heartattack for women;signs of a heartattack for a </examples>
+</intent>
+<intent number="4" probability="0.118110">
+<description>signs of a heartattack【complications】</description>
+<examples>symptoms of heart attack in diabetic;signs of a heartattack coronary artery disease</examples>
+</intent>
+<intent number="5" probability="0.118110">
+<description>signs of a heartattack【information】</description>
+<examples>signs of a heart attack treatment;signs of a heart attack resources;signs of a heart attack prevention;signs of a heart attack diagnosed;signs of a heart attack definition;signs of a heart attack causes;services signs of a heart attack</examples>
+</intent>
+<intent number="6" probability="0.086614">
+<description>signs of a heartattack【men】</description>
+<examples>Symptoms Heart Attack Men;signs of a heartattack in a man;signs of a heart attack in men;signs and symptoms of a heart attack in men</examples>
+</intent>
+<intent number="7" probability="0.086614">
+<description>signs of a heartattack【stroke】</description>
+<examples>symptoms of a stroke or heart attack;signs of a stroke or heart attack;signs of a heartattack or stroke;signs of a heart attack or stroke</examples>
+</intent>
+<intent number="8" probability="0.070866">
+<description>signs of a heartattack【children】</description>
+<examples>signs of a heart attack children;infant has signs of a heartattack</examples>
+</intent>
+<intent number="9" probability="0.070866">
+<description>signs of a heartattack【braves season】</description>
+<examples>signs of a heartattack atlanta braves;signs of a heartattack ahmadiyya in switzerland;signs of a heartattack 2009 san francisco 49ers season;signs of a heartattack 2009 kansas city royals season;signs of a heartattack 2007 miami dolphins season;signs of a heartattack 2007 cleveland browns season;signs of a heartattack 2007 atlanta braves season</examples>
+</intent>
+</topic>
+
+<topic number="0426">
+<query>weather strip</query>
+<intent number="1" probability="0.124183">
+<description>weather strip【install】</description>
+<examples>weather stripping installation;weather stripping install vent;installing weatherstrip system;install weather stripping video;install weather stripping;install the new weather strip:</examples>
+</intent>
+<intent number="2" probability="0.124183">
+<description>weather strip【material】</description>
+<examples>weather strip wood;weather strip glass wool;weather strip door windows co metal products;weather strip building insulation materials;plastic weather stripping;neoprene backing for long lasting all weather strip;metal weather stripping;magnetic weather stripping;glass with weather strip to the inside;glass weather strip tool;epdm weather stripping;copper weather stripping;accurate metal weatherstrip co</examples>
+</intent>
+<intent number="3" probability="0.124183">
+<description>weather strip【door】</description>
+<examples>weatherstrip home weatherstripping door oem;Weatherstrip Door;weather strips for doors;weather stripping sliding glass door;weather stripping for car doors;weather stripping doors windows;weather stripping doors types;weather stripping doors home depot;weather stripping doors ezinearticles submission;weather stripping doors;weather stripping door commercial;weather stripping door bottom;weather stripping door;weather stripping a door;weather striping for garage doors;weather striping doors;weath</examples>
+</intent>
+<intent number="4" probability="0.111111">
+<description>weather strip【window】 </description>
+<examples>window weatherstrips;window weather stripping;window weather strip;weather stripping windows;weather stripping window;weather striping windows;products window weather stripping</examples>
+</intent>
+<intent number="5" probability="0.111111">
+<description>weather stripping 【guide】</description>
+<examples>weather stripping walmart;weather stripping tech;weather stripping forums;weather stripping design;weather stripping catalog;weather stripping amateur;weather strip passive solar building design;weather strip electronics fashion;weather strip custom weatherstripping;weather strip clubs;weather strip club listings;ongoing growth in weather strip;guide to weather strip;futures as weather strip</examples>
+</intent>
+<intent number="6" probability="0.111111">
+<description>weather strip【series】</description>
+<examples>weather stripping pontiac;weather stripping buick;weather striping suburban 1996;weather striping for 1993 corvette;weather strip sts 127;weather strip sts 126;weather strip sts 121;weather strip for 2 door 1991 bujck century;types weather stripping online;type of weather strip;restoration kits 64 ford fairlane weather stripping;ford weather stripping;datsun weather stripping 280z;camaro weather stripping;89 pontiac firebird weather stripping;69 marauder weather strip;1988 convertible weather st</examples>
+</intent>
+<intent number="7" probability="0.098039">
+<description>weather strip 【business】</description>
+<examples>weatherstrip home improvement stripping prices;weather stripping products;weather stripping prices;weather stripping business exeter;weather stripping action industries;weather striping products;weather strip weatherstrip home improvement stripping prices;weather strip suppliers;weather strip products;weather strip manufacturers suppliers;weather strip manufacturers;weather strip importers;trading weather strip;suppliers weather stripping</examples>
+</intent>
+<intent number="8" probability="0.098039">
+<description>weather strip【automotive】</description>
+<examples>weather stripping for cars;weather stripping autozone;weather stripping auto;weather striping for cars;truck weather stripping;pontiac firebird weather stripping;jeep weather stripping;car weather stripping;automotive weather strips;automotive weather stripping;auto weather strip;american muscle car weather strippin</examples>
+</intent>
+<intent number="9" probability="0.098039">
+<description>weather strip【home】</description>
+<examples>weatherstrip home weatherstripping parts page;weatherstrip home;weather stripping insulating attic accesses;weather stripping home depot;weather stripping garage;weather strip weatherstripping in buildings;weather strip weatherstrip home weatherstripping parts page;weather strip weatherstrip home;weather strip space shuttle;weather strip hotels;weather strip home depot;weather strip building insulation;weather strip blackburn railway station melbourne;home weather strip;garage weather stripping</examples>
+</intent>
+</topic>
+
+<topic number="0427">
+<query>best long term care insurance</query>
+<intent number="1" probability="0.216495">
+<description>best long term care insurance  【ratings】</description>
+<examples>ranking the best long term care insurance companies;long term care insurance best ratings;long term care insurance best rated;best rates for long term care insurance;best rated long term care insurance companies;best rated long term care insurance;best long term care insurance ratings;best long term care insurance rates;best long term care insurance companies ratings;ambest long term care insurance ratings;a.m. best ratings of long term care insurance;a m best ratings for long term care insuranc</examples>
+</intent>
+<intent number="2" probability="0.195876">
+<description>best long term care insurance 【location】</description>
+<examples>best long term care insurance york;best long term care insurance united states national health care act;best long term care insurance scottsdale;best long term care insurance pennsylvania download;best long term care insurance medicare united states;best long term care insurance medicare canada;best long term care insurance massachusetts health care reform;best long term care insurance iowa;best long term care insurance in oregon;best long term care insurance in florida;best long term care insur</examples>
+</intent>
+<intent number="3" probability="0.195876">
+<description>best long term care insurance 【guide】</description>
+<examples>best long term care insurance reviews;best long term care insurance resource;best long term care insurance products;best long term care insurance patient protection and affordable care act;best long term care insurance online;best long term care insurance information;best long term care insurance industry searches;best long term care insurance home care;best long term care insurance guide;best long term care insurance consumer</examples>
+</intent>
+<intent number="4" probability="0.195876">
+<description>best long term care insurance 【companies】</description>
+<examples>long term care insurance best companies;long term care insurance best affordable quotes companies rates;long term care insurance best affordable quotes companies;long term care insurance best affordable companies rate price;long term care insurance best affordable companies rate;long term care insurance best affordable compani;companies best long term care insurance;best long term care insurance company;best long term care insurance companies 2011;best long term care insurance companies 2010;bes</examples>
+</intent>
+<intent number="5" probability="0.195876">
+<description>best long term care insurance 【price】</description>
+<examples>best long term care insurance price quote;best long term care insurance price;best long term care insurance money;best long term care insurance financial;best long term care insurance coverage</examples>
+</intent>
+</topic>
+
+<topic number="0428">
+<query>pork tenderloin</query>
+<intent number="1" probability="0.175000">
+<description>pork tenderloin 【baked】</description>
+<examples>salt roasted pork tenderloin;roasted pork tenderloin;roast pork tenderloin recipe;roast pork tenderloin;pork tenderloin roast;pork tenderloin recipes delicious sauce chops roast;pork tenderloin recipe rosemary roasted;pork tenderloin on the grill;pork tenderloin bbq;pork tenderloin barbeque;grilled pork tenderloin sandwiches;grilled pork tenderloin recipe;Grilled Pork Tenderloin;grilled pork tenderloin;grill pork tenderloin;Easy Baked Pork Tenderloin;easy baked pork tenderloin;bbq pork tenderloi</examples>
+</intent>
+<intent number="2" probability="0.158333">
+<description>pork tenderloin 【cooking instructions】</description>
+<examples>zucchini and pork tenderloin;wine gravy recipes for pork tenderloin;ways to cook pork tenderloin;spicy pork tenderloin;smoked pork tenderloin recipe;smoked pork tenderloin;smithfield pork tenderloin recipe;slow cooker pork tenderloin recipes;slow cooker pork tenderloin;slow cooked pork tenderloin;recipes using pork tenderloin;recipes delicious mustard collection home;recipe juicy pork tenderloin;receipes for pork tenderloin;pork tenderloin with noodles recipe;pork tenderloin with mushroom gravy;</examples>
+</intent>
+<intent number="3" probability="0.141667">
+<description>pork tenderloin 【the sauce】</description>
+<examples>pork tenderloin sauce;pork tenderloin red wine sauce;pork tenderloin herb;pork tenderloin guava;pork tenderloin cajun</examples>
+</intent>
+<intent number="4" probability="0.141667">
+<description>pork tenderloin 【cooking time】</description>
+<examples>pork tenderloin cooking time;cooking times for pork tenderloin</examples>
+</intent>
+<intent number="5" probability="0.125000">
+<description>pork tenderloin 【the cooker】</description>
+<examples>pork tenderloin slow cooker;pork tenderloin oven;pork tenderloin in the slow cooker;pork tenderloin crockpot;pork tenderloin crock pot;oven pork tenderloin;crockpot pork tenderloin;crock pot pork tenderloin;cooker pork tenderloin</examples>
+</intent>
+<intent number="6" probability="0.125000">
+<description>pork tenderloin 【ingredient】</description>
+<examples>pork tenderloin calories;ingredients for pork tenderloin;ingredient pork tenderloin;calories in pork tenderloin</examples>
+</intent>
+<intent number="7" probability="0.108333">
+<description>pork tenderloin【the cut】</description>
+<examples>whole pork tenderloin;sliced pork tenderloin;sides of pork tenderloin;pulled pork tenderloin;pork tenderloin steaks;pork tenderloin slices;pork tenderloin meat cut;pork tenderloin filet;pork tenderloin chops;loin pork tenderloin;jerk pork tenderloin;ground pork tenderloin;cuts of pork tenderloin;boneless pork tenderloin</examples>
+</intent>
+<intent number="8" probability="0.025000">
+<description>pork tenderloin 【different places】</description>
+<examples>pork tenderloin ohio;pork tenderloin history of chinese cuisine;pork tenderloin cuisine of the midwestern united states;oriental pork tenderloin grilled pork tenderloin recipe;italian pork tenderloin</examples>
+</intent>
+</topic>
+
+<topic number="0429">
+<query>black history</query>
+<intent number="1" probability="0.156716">
+<description>black history【culture】</description>
+<examples>study of black history and culture;stamp on black history black history tour;stamp on black history a black history tour;songs for black history month;selected stories on indiana black history:;great plains black history museum;education first black history activities;black history videos;black history stamp on black history tour;black history skits;black history quotes;black history poems and black history month poems;Black History Poems;black history poems;black history plays;black history pic</examples>
+</intent>
+<intent number="2" probability="0.141791">
+<description>black history【people】</description>
+<examples>woodson: a life in black history (1993);souls of black history;list of famous black history people;Famous Black People;famous black history people;black history scholars of african-american history;black history robert richard hieronimus;Black History People;black history people;black history of blacks;black history makers;black history inventors;black history cuesta benberry;black history carter g woodson;black history black people</examples>
+</intent>
+<intent number="3" probability="0.141791">
+<description>black history【activities】</description>
+<examples>ontario black history society;black history the black community;black history social history;black history negro;black history military history of african americans;black history military;black history fox sports net;black history for action;black history events;black history civilian;black history civil rights;black history challenge;black history activities</examples>
+</intent>
+<intent number="4" probability="0.141791">
+<description>black history【place】</description>
+<examples>booker t washington;black history of the united states;black history of african americans;black history cities and suburbs;black history black hispanic and latino americans;black history black canadians;black history african origins;black history african americans in omaha nebraska;black history african american white chicago heritage;black history african american history;black history african american;baltimore's black history</examples>
+</intent>
+<intent number="5" probability="0.141791">
+<description>black history【knowledge】</description>
+<examples>tours of black history;study of the black history;research in black history;lucent library of black history;Little-Known Black History Facts;little known black history facts;history of black history;foundation seeking landmarks of state's black history;center for contemporary black history at columbia university;center for contemporary black history;center for black history;celebrate black history month learn;britannica guide to black history;black history trivia;black history the dred scott dec</examples>
+</intent>
+<intent number="6" probability="0.126866">
+<description>black history 【celebration】</description>
+<examples>women black history month;trivia questions for black history month;things to do for black history month;the meaning of black history month;started black history month;sermons for black history month;resources black history month;pictures of black history month;origins of black history month;origins black history month;negro history week became black history month;morgan freeman race black history month;lessons celebrate black history month;learn black history month;honor of black history month;h</examples>
+</intent>
+<intent number="7" probability="0.111940">
+<description>black history【time】</description>
+<examples>post civil rights era african american history;black history world war ii;black history world war i;black history timeline;black history the revolution and early america;black history the civil rights movement;black history the antebellum period;black history the american civil war;black history since 1940;black history post civil rights era african-american history;black history post civil rights era african american history;black history past</examples>
+</intent>
+<intent number="8" probability="0.037313">
+<description>black hisory【school】</description>
+<examples>northamptonshire black history association;black history association for the study of african american life and history;black history 4 schools;black history > franklin institute educational hotlists</examples>
+</intent>
+</topic>
+
+<topic number="0430">
+<query>newyork hotels</query>
+<intent number="1" probability="0.152000">
+<description>newyork hotels【cost】</description>
+<examples>reasonable hotels in new york city;newyork hotels cheap;new york hotels save;new york hotels for cheap;new york hotels cheap budget luxury;new york hotels cheap accommodation area;new york hotels cheap;new york hotels budget;hotels in newyork city for cheap;hotels in new york city - cheapostay;find cheap budget new york hotels;cheap new york hotels ny;cheap new york hotels;cheap new york city hotels;cheap hotels new york new york;cheap hotels new york;cheap hotels in newyork city;cheap hotels in</examples>
+</intent>
+<intent number="2" probability="0.152000">
+<description>newyork hotels 【reservations】</description>
+<examples>newyork hotels reservation;newyork hotels booking service;new york hotels; discount hotel reservations;new york hotels online reservations;new york hotels discount #1 reservations;new york hotels booking</examples>
+</intent>
+<intent number="3" probability="0.152000">
+<description>newyork hotels【location】</description>
+<examples>york new city manhattan nyc;queens newyork hotels;queens new york hotels;newyork hotels york new city manhattan nyc;newyork hotels near times square;newyork hotels near time square;newyork hotels manhattan;newyork hotels in manhattan;newyork hotels hotel carter manhattan;new york hotels upper east side;new york hotels times square;new york hotels park central;new york hotels near time square;new york hotels near penn station;new york hotels in manhattan;new york hotels downtown;new york hotels c</examples>
+</intent>
+<intent number="4" probability="0.152000">
+<description> newyork hotels【guide】</description>
+<examples>york new city best online;pictures of newyork hotels;newyork hotels york new city best online;newyork hotels list;newyork hotels guide;newyork hotels biz;new york hotels reviews;new york hotels online;new york hotels official website;new york hotels list;new york hotels guide;new york hotels compare;new york hotels central;new york hotels attraction;new york hotel list;new york hotel directory;map of newyork hotels;map of newyork city hotels;jones of newyork hotels;free classifieds newyork hotel</examples>
+</intent>
+<intent number="5" probability="0.136000">
+<description> newyork hotels 【best hotels】</description>
+<examples>york new city ny best;nice hotels in new york city;newyork hotels york new city ny best;newyork hotels luxury best;new york hotels star;new york hotels luxury;new york hotels great;new york hotels 5 star;new york city hotels | 10 best western locations;new york city hotels : ace hotel;luxury hotels in new york;king of newyork hotels;great new york hotels;famous hotels in new york city;best western new york hotels;best western hotels in new york | 57 hotels;best hotels new york;best hotels in new</examples>
+</intent>
+<intent number="6" probability="0.136000">
+<description>newyork hotels 【names】</description>
+<examples>Trump Hotel New York;syracuse newyork hotels;sheraton newyork hotels and towers;rochester new york hotels;newyork hotels ritz carlton hotel company;newyork hotels grand union hotel saratoga springs new york;newyork hotels flatiron building;newyork hotels al jazeera;new york hotels vegas;new york hotels iroquois;new york hotels hilton;new york hotels franklin;new york hotels auburn;millenium hotels new york;metro new york hotels;marriott hotels newyork;iroquois new york hotels;holiday inn hotels;</examples>
+</intent>
+<intent number="7" probability="0.120000">
+<description> newyork hotels【service facility】</description>
+<examples>spa in newyork hotels;sale in newyork hotels;newyork hotels tv;newyork hotels breakfast booking;new york hotels with pools;new york hotels taxi;new york hotels shopping;new york hotels featuring;new york hotels boutique;boutique hotels new york;bank of newyork hotels</examples>
+</intent>
+</topic>
+
+<topic number="0431">
+<query>old coins</query>
+<intent number="1" probability="0.153285">
+<description>old coins 【information】</description>
+<examples>pages of old coins;old coins standard catalog of world coins;old coins page;old coins online homepage;old coins online;old coins numismatic guaranty corporation;old coins news;old coins information;old coins currency;old coins and currency</examples>
+</intent>
+<intent number="2" probability="0.153285">
+<description>old coins 【value】</description>
+<examples>value old coins;value of old mexican coins;value of old coins chart;value of old coins;value for old coins;Us Old Coin Value;us old coin value;the value of old coins;old coins worth money;old coins worth;old coins values;old coins value guide;old coins value gold silver time worth;old coins value gold;old coins value currency;old coins value chart;old coins value;old coins free appraisal;old coins coin values;old coins as an investment;old coins appraisal;old coins and their value;Old Coin Value</examples>
+</intent>
+<intent number="3" probability="0.153285">
+<description> old coins【picture】</description>
+<examples>videos for old coins;pictures of old coins;old coins with holes in them;old coins images;old coins double eagle</examples>
+</intent>
+<intent number="4" probability="0.138686">
+<description>old coins 【dealing】</description>
+<examples>sell old coins;old us coins for sale;old coins wholesale lots;old coins value gold silver buy find;old coins us dealers;old coins supplies;old coins shopping auction;old coins shop;old coins sell;old coins sale;old coins prices;old coins price guide;old coins in your hands;old coins for sale on ebay;old coins for sale;old coins dealers;old coins dealer;old coins coin supplies;old coins coin dealers;old coins cheap;old coins buyers;old coins auctions;old coin shop coin library;i want to sell old </examples>
+</intent>
+<intent number="5" probability="0.138686">
+<description>old coins【type】</description>
+<examples>old coins quarters;old coins pennies;old coins nickels;old coins dollars;old coins dollar;old coins dimes;old coins cents;old coins and pressed pennies;old coins 20 cent euro coins;old coins 2 euro coins;old coins 1 euro coins;coins old pennies</examples>
+</intent>
+<intent number="6" probability="0.138686">
+<description>old coins 【collecting】</description>
+<examples>old coins value gold prices collecting learn;old coins in your collection;old coins for the coin collector;old coins for collectors;old coins collection;old coins collecting;old coins collect;old coins coin collecting;collectors old coins;collecting greek roman old coins;collectible old coins;coin collecting</examples>
+</intent>
+<intent number="7" probability="0.124088">
+<description>old coins 【identify】</description>
+<examples>old coins identify reference;identify old coins</examples>
+</intent>
+</topic>
+
+<topic number="0432">
+<query>quit smoking</query>
+<intent number="1" probability="0.154412">
+<description>quit smoking【effects】</description>
+<examples>women weight gain quit smoking;what happens when you quit smoking;symtoms when you quit smoking;Side Effects Quitting Smoking;side effects quitting smoking;Quitting Smoking Effects;quit smoking without gaining weight;quit smoking weight gain;quit smoking weight;quit smoking timeline happens;quit smoking symptoms;quit smoking side effects;quit smoking effects;quit smoking cost-effectiveness;quit smoking chronic obstructive pulmonary disease;how much weight do women gain when quit smoking;body whe</examples>
+</intent>
+<intent number="2" probability="0.154412">
+<description>quit smoking【ways】</description>
+<examples>what to do to quit smoking;ways to quit smoking cigarettes;ways to quit smoking;tips to help quit smoking;tips quit smoking;tips how to quit smoking;the most success way to quit smoking;the best quit smoking tapes;Strange Ways to Quit Smoking;strange ways to quit smoking;stop quit smoking easily;real ways quit smoking;quit-smoking action plan;quit smoking: 10 tips;quit smoking videos;quit smoking tips;quit smoking self-help;quit smoking plan;quit smoking notes;quit smoking methods of smoking ces</examples>
+</intent>
+<intent number="3" probability="0.139706">
+<description>quit smoking【benefit】</description>
+<examples>quit smoking health benefits;quit smoking health;quit smoking benefits;quit smoking and your health;Benefits Quitting Smoking;benefits quitting smoking;benefits of quitting smoking</examples>
+</intent>
+<intent number="4" probability="0.139706">
+<description>quit smoking【reasons】</description>
+<examples>why quit smoking;reasons to quit smoking</examples>
+</intent>
+<intent number="5" probability="0.139706">
+<description>quit smoking 【products】</description>
+<examples>wellbutrin quit smoking;using guided imagery to quit smoking;thumbshots quit smoking;quit smoking zyban;quit smoking with chantix;quit smoking tools;quit smoking substitutes for cigarettes;quit smoking stop cigarettes ways help electronic;quit smoking stop cigarettes treatment nicotine products;quit smoking shot chicago;quit smoking shot;quit smoking products;quit smoking pill;quit smoking patches;quit smoking patch;quit smoking ny clinics;quit smoking nicotine replacement therapy;quit smoking n</examples>
+</intent>
+<intent number="6" probability="0.095588">
+<description>quit smoking【public resource】</description>
+<examples>women quit smoking forums;tobacco products scientific advisory committee;stop cigarettes quitline need smokers;quit smoking.com;quit smoking support group;quit smoking support free help;quit smoking stories;quit smoking stop cigarettes quitline need smokers;quit smoking stop cigarettes learn successfully quitting;quit smoking program;quit smoking posters;quit smoking phillip morris program;quit smoking meter discuss topic;quit smoking journals;quit smoking information;quit smoking help informati</examples>
+</intent>
+<intent number="7" probability="0.095588">
+<description>quit smoking 【aids】</description>
+<examples>Stop Smoking Aids;quit smoking tobacco advertising;quit smoking aids;know quit smoking aids;Free Stop Smoking Aids;free quit smoking aids for christians</examples>
+</intent>
+<intent number="8" probability="0.080882">
+<description>quit smoking【people】</description>
+<examples>the people behind quitsmoking;the man who quit smoking;quit smoking workers;quit smoking women and smoking;quit smoking smoking cessation in special populations;quit smoking smoking and pregnancy;quit smoking hospitalized smokers;quit smoking for someone;quit smoking during pregnancy;quit smoking children and adolescents;people quit smoking</examples>
+</intent>
+</topic>
+
+<topic number="0433">
+<query>kansas city mo</query>
+<intent number="1" probability="0.172131">
+<description> kansas city mo【hotel】</description>
+<examples>section 8 housing kansas city mo;residence inn kansas city mo;new homes in kansas city mo;low income housing in kansas city mo;lofts for sale in kansas city mo;la quinta inn kansas city mo;kansas city mo motels;kansas city mo motel;kansas city mo hotels;kansas city mo hotel inn;kansas city mo exploration and settlement;kansas city mo deals hotels rates;kansas city mo casinos;kansas city corporate housing;hotels near sprint center in kansas city mo;hotels cheap kansas city mo discount;home garden</examples>
+</intent>
+<intent number="2" probability="0.172131">
+<description>kansas city mo 【services】</description>
+<examples>yellow pages kansas city mo;westport kansas city mo;volunteer kansas city mo;security self storage kansas city mo;repair in kansas city mo;realtors in kansas city mo;kansas city mo telephone directory;kansas city mo sister cities;kansas city mo services;kansas city mo self storage;kansas city mo license;kansas city mo library;kansas city mo insurance agents;kansas city mo animal shelter</examples>
+</intent>
+<intent number="3" probability="0.172131">
+<description>kansas city mo 【weather forecast】</description>
+<examples>weather forecast news missouri maps;kansas city mo weather forecast women craigslist source;kansas city mo weather forecast school public source;kansas city mo weather forecast radar maps conditions;kansas city mo weather forecast news missouri maps;kansas city mo weather forecast;kansas city mo weather 10 day forecast;Kansas City MO Weather;kansas city mo weather;kansas city mo climate</examples>
+</intent>
+<intent number="4" probability="0.172131">
+<description> kansas city mo【entertainment】</description>
+<examples>sprint center in kansas city mo;spa is located in kansas city mo;pets kansas city mo;music hall kansas city mo;movie in kansas city mo;kauffman stadium in kansas city mo;kansas city mo zoo;kansas city mo sports;kansas city mo performing arts;kansas city mo music hall;kansas city mo museums;kansas city mo film community;film in kansas city;entertainment kansas city mo;concerts kansas city mo;clubs in kansas city mo;beauty salons kansas city mo;artists in kansas city mo;arrowhead stadium kansas ci</examples>
+</intent>
+<intent number="5" probability="0.155738">
+<description>kansas city mo 【map】</description>
+<examples>Kansas City MO Map;kansas city mo map</examples>
+</intent>
+<intent number="6" probability="0.155738">
+<description>kansas city mo 【attractions】</description>
+<examples>parks in kansas city mo;park kansas city mo;kansas city mo things missouri attractions;kansas city mo parks and boulevard system;Kansas City MO Attractions;kansas city mo attractions;attractions kansas city mo</examples>
+</intent>
+</topic>
+
+<topic number="0434">
+<query>civil right movement</query>
+<intent number="1" probability="0.128834">
+<description>civil right movement 【time】</description>
+<examples>tracing the civil right movement 1848 to 1968;timelines related to the civil rights movement;timelines of the civil rights movement;timeline of the civil right movement;timeline of civil rights movement;timeline for the civil right movement;the civil rights movement of the 1960s;the civil rights movement in the 1960s;the civil rights movement 1955-1965: introduction;civil rights movement timeline 1964;Civil Rights Movement Timeline;civil rights movement timeline;civil rights movement of 1960;civ</examples>
+</intent>
+<intent number="2" probability="0.128834">
+<description>civil right movement 【leaders】</description>
+<examples>wikipedia civil rights movement;rosa parks civil rights movement;mother of the civil right movement;martin luther king the civil rights movement;martin luther king civil rights movement;leaders for the civil right movement;leaders civil rights movement;leader of the civil rights movement;heroes of civil rights movement;civil rights movement rosa parks;civil rights movement rosa;civil rights movement resources;civil rights movement news;civil rights movement leaders;Civil Rights Movement Informat</examples>
+</intent>
+<intent number="3" probability="0.116564">
+<description> civil right movement 【places】</description>
+<examples>united states civil rights movement;southern civil rights movement;photographs civil rights movement florida;movement civil rights us;mexican american civil rights movement;civil-rights movement - texas state historical association;civil rights movement tennessee state;civil rights movement sanford;civil rights movement march washington;civil rights movement in northern ireland;civil rights movement in florida;civil rights movement in america;civil rights movement encyclopedia georgia;civil righ</examples>
+</intent>
+<intent number="4" probability="0.116564">
+<description>civil right movement【picture】</description>
+<examples>pictures of the civil rights movement;pictures of civil rights movement;pictures from the civil rights movement;photos of civil rights movement;civil rights movement pictures;civil right movement pictures;civil right movement picture</examples>
+</intent>
+<intent number="5" probability="0.116564">
+<description>civil right movement【information】</description>
+<examples>term papers civil rights movement;term civil right movement;success of the civil right movement;start of the civil rights movement;role of civil right movement;overview of the civil rights movement;list civil rights movement;issue of civil right movement;important events in the civil rights movement;impact of the civil rights movement;history of the civil rights movement;history of civil right movement;history civil rights movement;facts of the civil rights movement;events of the civil rights mo</examples>
+</intent>
+<intent number="6" probability="0.104294">
+<description> civil right movement【people】</description>
+<examples>women of the civil rights movement;women in the civil right movement;women civil rights movement;photographers of the american civil right movement;people of the civil rights movement;people of civil rights movement;civil rights movement womens;civil rights movement veterans;civil rights movement people;civil rights movement kids;civil rights movement for kids;civil rights movement christian;civil right movement veterans;civil right movement people;civil right movement participants;civil right m</examples>
+</intent>
+<intent number="7" probability="0.104294">
+<description>civil right movement【association】</description>
+<examples>leadership conference on civil right movement;group of civil right movement;civil rights movement groups;civil right movement student nonviolent coordinating committee;civil right movement organizations;civil right movement national association for the advancement of colored people;american jewish community and the civil rights movement</examples>
+</intent>
+<intent number="8" probability="0.092025">
+<description>civil right movement【black】</description>
+<examples>the black civil rights movement;links to the black civil right movement;civil right movement black power;black power movement civil rights;black civil rights movement;black civil right movement;african civil rights movement</examples>
+</intent>
+<intent number="9" probability="0.092025">
+<description>civil right movement【african-american】</description>
+<examples>civil right movement for african americans;civil right movement african american parks timeline act;civil right movement african american;african-american civil rights movement;african american civil rights movement</examples>
+</intent>
+</topic>
+
+<topic number="0435">
+<query>credit report</query>
+<intent number="1" probability="0.170732">
+<description>credit report 【information】</description>
+<examples>instant online credit report;instant credit report online;instant credit report;instant approval credit report;credit report reviews;credit report online;credit report news;credit report information;credit report info;credit report guide;credit report definition;credit report alternative data;bankruptcy credit report;annual credit report</examples>
+</intent>
+<intent number="2" probability="0.154472">
+<description>credit report 【credit score】</description>
+<examples>credit report scores;credit report score get now annual site;credit report score get annual now request;credit report score get;credit report score;credit report insurance score;credit report identity score;credit report fico score;credit report credit score united states;credit report credit score;credit report and free credit score;credit report and credit score;credit report acquiring and understanding credit reports and scores</examples>
+</intent>
+<intent number="3" probability="0.154472">
+<description>credit report 【free】</description>
+<examples>totally free credit report;the real free credit report;one free credit report per year;military free credit report;instant free credit report;getting your credit report for free;freee credit report;free triple credit report;free trial credit report;free safe credit report;free fico score credit report;free equifax credit report;free credit reports;free credit report totally;free credit report services;free credit report online;free credit report once a year;Free Credit Report Now;free credit rep</examples>
+</intent>
+<intent number="4" probability="0.138211">
+<description>credit report【agencies】</description>
+<examples>Three Major Credit Reporting Agencies;three major credit reporting agencies;credit reporting agency;credit reporting agencies;credit report collection agency;credit report all three agencies;credit report agency;Credit Report Agencies;credit report agencies</examples>
+</intent>
+<intent number="5" probability="0.138211">
+<description>credit report【loans】</description>
+<examples>mortgage credit report;loan credit report;credit report remortgages;credit report personal loans;credit report payday loans;credit report mortgages;credit report loans approved;credit report loan every;cards free credit report loans</examples>
+</intent>
+<intent number="6" probability="0.121951">
+<description>credit report 【monitoring】</description>
+<examples>score get theft identity monitoring;monitor credit report;credit report score get theft identity monitoring;credit report score get check online monitoring;credit report monitoring;credit report credit report monitoring</examples>
+</intent>
+<intent number="7" probability="0.121951">
+<description>credit report【history】</description>
+<examples>credit report more than one credit history per person;credit report history individual;credit report history;credit report credit history of immigrants;credit report credit history</examples>
+</intent>
+</topic>
+
+<topic number="0436">
+<query>unc</query>
+<intent number="1" probability="0.179487">
+<description>unc 【university】</description>
+<examples>university unc;unc university of north carolina at greensboro;unc university of north carolina at charlotte;unc university northern colorado;unc university libraries;unc university;unc north chapel hill university carolina;carolina university unc tomorrow</examples>
+</intent>
+<intent number="2" probability="0.179487">
+<description>unc 【information】</description>
+<examples>unc webpage;unc videos;unc sweatshop;unc s home page;unc press;unc pics;unc online;unc network;unc map;unc law;unc jobs;unc history;unc address</examples>
+</intent>
+<intent number="3" probability="0.162393">
+<description>unc 【campus】</description>
+<examples>unc student congress;unc professor;unc mba;unc library;unc heels university official;unc faculty;unc eshelman school of pharmacy;unc department;unc campus;unc alumni;unc admissions;unc academic;list of unc charlotte student organizations;college unc</examples>
+</intent>
+<intent number="4" probability="0.128205">
+<description>unc 【news】</description>
+<examples>unc news services;unc news events;unc news;news articles unc</examples>
+</intent>
+<intent number="5" probability="0.128205">
+<description>unc【event】</description>
+<examples>unc neutral nations supervisory commission;unc first republic of south korea;unc bombardment of yeonpyeong;unc battle of pusan perimeter logistics;unc axe murder incident;events unc</examples>
+</intent>
+<intent number="6" probability="0.111111">
+<description>unc 【logo】</description>
+<examples>UNC Logos;unc logos;logo unc</examples>
+</intent>
+<intent number="7" probability="0.111111">
+<description>unc 【hospitals】</description>
+<examples>unc hospitals;unc hospital;unc healthcare;unc health care;unc deleted in colorectal cancer</examples>
+</intent>
+</topic>
+
+<topic number="0437">
+<query>vanuatu</query>
+<intent number="1" probability="0.141892">
+<description>vanuatu 【accommodation】</description>
+<examples>vanuatu vacation rentals;vanuatu pacific islands vacation another accommodation;vanuatu hotels agoda;vanuatu hotels;vanuatu hotel photos;vanuatu bungalows;vanuatu accommodation;pacific islands vacation another accommodation;information travel guide attractions accommodation;hotels vanuatu tourism vacations;friendly bungalows tanna vanuatu</examples>
+</intent>
+<intent number="2" probability="0.141892">
+<description>vanuatu【tourism】</description>
+<examples>vanuatutourism;vanuatuan passport;vanuatu visas;vanuatu travel tips;Vanuatu Travel;vanuatu travel;vanuatu tours activities;vanuatu tours;vanuatu tourism office;vanuatu tourism;vanuatu reviews tripadvisor;vanuatu resorts;vanuatu reef;vanuatu national tourism office;vanuatu le lagon resort;vanuatu information travel;vanuatu hotels beach resorts;vanuatu gallagher travels;tourism vanuatu office vanair;list of world heritage sites in vanuatu;iririki resort vanuatu;hideaway vanuatu</examples>
+</intent>
+<intent number="3" probability="0.128378">
+<description>vanuatu 【entertainment】</description>
+<examples>vanuatu yacht;vanuatu weddings;vanuatu voyage;vanuatu scuba diving;vanuatu land diving;vanuatu honeymoons;vanuatu honeymoon;vanuatu holidays;vanuatu holiday;vanuatu flying adventure tours;vanuatu fishing ocean blue;vanuatu fishing;vanuatu adventure;sailing and vanuatu websites;fish vanuatu tropical paradise;diving in vanuatu;dive vanuatu;cruising vanuatu information;cruise vanuatu</examples>
+</intent>
+<intent number="4" probability="0.128378">
+<description> vanuatu【guide】</description>
+<examples>vanuatu overview;vanuatu online;vanuatu information travel new update facts;vanuatu information;vanuatu guide;outline of vanuatu;online vanuatu;guide vanuatu</examples>
+</intent>
+<intent number="5" probability="0.114865">
+<description>vanuatu【history】</description>
+<examples>vanuatu role in the cold war;vanuatu in the cold war;vanuatu history culture;vanuatu during the cold war;vanuatu durimg the cold war;vanuatu after world war 2;history of vanuatu</examples>
+</intent>
+<intent number="6" probability="0.114865">
+<description>vanuatu 【data】</description>
+<examples>vanuatu videos;vanuatu stamps;vanuatu real estate property;vanuatu real estate;vanuatu news;vanuatu location;vanuatu library;vanuatu flag world atlas;vanuatu data;vanuatu cultural centre;vanuatu cultural;the icrc in vanuatu;shopping in vanuatu;restaurants in vanuatu;real vanuatu life;music of vanuatu;military of vanuatu;health vanuatu;geography of vanuatu;flag of vanuatu;culture of vanuatu;biological weapons and vanuatu;air vanuatu</examples>
+</intent>
+<intent number="7" probability="0.114865">
+<description>vanuatu 【photos】</description>
+<examples>Vanuatu Photos;vanuatu photos;pictures of vanuatu;photos vanuatu</examples>
+</intent>
+<intent number="8" probability="0.114865">
+<description>vanuatu【map】</description>
+<examples>vanuatu map islands;Vanuatu Map;vanuatu map;vanuatu bungalow satellite map;vanuatu a satellite map introduction;our map vanuatu;map of vanuatu</examples>
+</intent>
+</topic>
+
+<topic number="0438">
+<query>internet phone service</query>
+<intent number="1" probability="0.150000">
+<description>internet phone service 【cost】</description>
+<examples>low cost internet phone service;internet phone service pc free;internet phone service operational cost;internet phone service free;internet phone service cost;internet phone service comcast prices;internet phone service cheap;internet phone service cell cheap;international rates internet phone service;free phone service over internet;Free Internet Phone Service;free internet phone service;cheap internet phone service</examples>
+</intent>
+<intent number="2" probability="0.150000">
+<description>internet phone service 【providers】</description>
+<examples>service or internet phone service providers;providers voip telephone business today;providers voip home business plans;phone  internet service providers;internet telephony service provider;internet phone service voip services and providers;internet phone service providers voip telephone business today;internet phone service providers voip home business plans;internet phone service providers voip broadband access dial-up;internet phone service providers voip;internet phone service providers revi</examples>
+</intent>
+<intent number="3" probability="0.135714">
+<description>internet phone service 【advantages】</description>
+<examples>the benefits of internet phone service;necessity for using an internet phone service;internet phone service speed high tv need get;internet phone service speed high tv dsl bundles;internet phone service speed high;internet phone service speed;internet phone service specialists;internet phone service auto;internet phone service advantages;internet phone answering service;home internet phone services;high speed internet phone service;clear internet and phone service</examples>
+</intent>
+<intent number="4" probability="0.121429">
+<description>internet phone service 【information】</description>
+<examples>internet phone service quality of service;internet phone service legal issues;internet phone service history of the internet;internet phone service history of mobile phones;internet phone service directory;internet phone service charter</examples>
+</intent>
+<intent number="5" probability="0.121429">
+<description>internet phone service【options】</description>
+<examples>yahoo internet phone service;vonage internet phone service;voip internet phone service provider;voip internet phone service;verizon internet phone service;uma internet phone service;tesco internet phone service;teleblend internet phone service;support for lingo internet phone service;sunrocket internet phone service;skype internet phone service;Optimum Internet Service Phone;optimum internet service phone;magicjack internet phone service;lingo internet phone service;internet phone service vyke;i</examples>
+</intent>
+<intent number="6" probability="0.107143">
+<description>internet phone service【security】</description>
+<examples>internet phone service security;internet phone service securing voip</examples>
+</intent>
+<intent number="7" probability="0.107143">
+<description>internet phone service 【features】</description>
+<examples>internet phone service technological convergence;internet phone service software;internet phone service gsm services;internet phone service features;internet phone service emergency calls;internet phone service digital</examples>
+</intent>
+<intent number="8" probability="0.107143">
+<description>internet phone service 【international】</description>
+<examples>internet phone service international;internet phone service global;internet phone service for another state</examples>
+</intent>
+</topic>
+
+<topic number="0439">
+<query>gs pay rate</query>
+<intent number="1" probability="0.160305">
+<description>gs pay rate 【information】</description>
+<examples>gs pay rates setting salary survey;gs pay rates review guide full;gs pay rates online;gs pay rates manual;gs pay rates information;gs pay rates calculator hourly salary;gs pay rates calculator;gs pay rate wage;gs pay rate system;gs pay rate social security administration;gs pay rate salaries;gs pay rate rule;gs pay rate requests;gs pay rate provisions;gs pay rate produced by the standard method;gs pay rate plan;gs pay rate of the grade;gs pay rate of return;gs pay rate of interest;gs pay rate of</examples>
+</intent>
+<intent number="2" probability="0.160305">
+<description>gs pay rate【number】</description>
+<examples>rate of pay for gs-11;pay rates for gs;pay rate of gs-7;pay rate of gs-5;pay rate of gs-12;pay rate of gs-11;pay rate of gs 15;pay rate of g s 9;Pay Rate GS-14;pay rate gs 9;pay rate gs 8;pay rate gs 7;pay rate gs 6;pay rate gs 5;pay rate gs 4;pay rate gs 15;pay rate for gs-9;pay rate for gs-5;pay rate for gs-10;pay rate for gs 9 in;pay rate for gs 7;pay rate for gs 12;gs-14 pay rate;gs-13 rate of pay;gs-10 pay rate;gs pay rates fy 11;gs pay rates 12;gs pay rate payable for 1 gs 15;gs pay rate f</examples>
+</intent>
+<intent number="3" probability="0.160305">
+<description>gs pay rate【year】</description>
+<examples>special rate gs pay scale 2009;opm gs pay rates 2012;gs rate pay 2011;gs pay rates locality 2000;GS Pay Rates for 2010;gs pay rates for 2010;gs pay rates 2012;gs pay rates 2011 opm;gs pay rates 2011;gs pay rates 2010;gs pay rates 2009 05;gs pay rates 2009;gs pay rates 2008;gs pay rates 2002;gs pay rate for 2012;gs pay rate 2012 locality;gs pay rate 2012;gs pay rate 2011;gs pay rate 2010;gs pay rate 2009;gs pay rate 2008;gs pay rate 2007 2008 writers guild of america strike;gs locality pay rates </examples>
+</intent>
+<intent number="4" probability="0.145038">
+<description>gs pay rate【scale】</description>
+<examples>hourly rate gs pay scale;GS PayScale;gs pay rates scale federal;gs pay rates scale;gs pay rates payscale;gs pay rates federal scale;gs pay rate schedule general service civil scale;gs pay rate schedule general salary tables scale;gs pay rate scale step;gs pay rate scale;gs pay rate same step</examples>
+</intent>
+<intent number="5" probability="0.129771">
+<description>gs pay rate 【schedule】</description>
+<examples>gs pay rates schedule general;gs pay rates schedule;gs pay rates general schedule;gs pay rate schedules;gs pay rate schedule general overtime current new;gs pay rate schedule general;gs pay rate schedule;general schedule gs positions pay rate schedules</examples>
+</intent>
+<intent number="6" probability="0.129771">
+<description> gs pay rate【occupation】</description>
+<examples>office of personnel gs pay rate;gs pay rates national guard;gs pay rates jury duty;gs pay rates hotel;gs pay rates firefighter federal;gs pay rates collar;gs pay rates civilian;gs pay rate teacher;gs pay rate ohrm management;civil service gs pay rate</examples>
+</intent>
+<intent number="7" probability="0.114504">
+<description>gs pay rate 【basic pay】</description>
+<examples>gs pay rates hourly;gs pay rate of basic pay;gs pay rate hourly</examples>
+</intent>
+</topic>
+
+<topic number="0440">
+<query>brooks brothers clearance</query>
+<intent number="1" probability="0.127517">
+<description>brooks brothers clearance 【information】</description>
+<examples>quick picks: brooks brothers online only clearance;brooks brothers clearance shopping online;brooks brothers clearance page;brooks brothers clearance online;brooks brothers clearance need information</examples>
+</intent>
+<intent number="2" probability="0.127517">
+<description> brooks brothers clearance【goods】</description>
+<examples>great shoes on clearance at brooks brothers;clearance brooks brothers ties;clearance brooks brothers shirts;brooks brothers women women s clearance clearance jewelry;brooks brothers ties clearance;brooks brothers suit sale; clearance; blowout;brooks brothers men men s clearance clearance sport shirts;brooks brothers clearance women's;brooks brothers clearance women;brooks brothers clearance ties;brooks brothers clearance sunglasses;brooks brothers clearance suits;brooks brothers clearance shoes;</examples>
+</intent>
+<intent number="3" probability="0.127517">
+<description>brooks brothers clearance 【place】</description>
+<examples>coupons codes nc garland center;Brooks Brothers Garland Clearance Center;brooks brothers garland clearance center;brooks brothers clearance york;brooks brothers clearance north carolina;brooks brothers clearance manchester town vermont;brooks brothers clearance garland;brooks brothers clearance fashion center;brooks brothers clearance discount sales centers;brooks brothers clearance coupons codes nc garland center;brooks brothers clearance center proxy;brooks brothers clearance center garland nc</examples>
+</intent>
+<intent number="4" probability="0.127517">
+<description> brooks brothers clearance【store】</description>
+<examples>stores people like for brooks brothers clearance;shop brooks brothers clearance - save up to 60;shop brooks brothers clearance;marks spencer sold brooks brothers clearance;brooks brothers clearance united drapery stores;brooks brothers clearance store;brooks brothers clearance outlet;brooks brothers clearance nicollet mall;brooks brothers clearance marks spencer;brooks brothers clearance fair</examples>
+</intent>
+<intent number="5" probability="0.114094">
+<description>brooks brothers clearance【prices】</description>
+<examples>new brooks brothers - clearance prices;brooks brothers clearance prices</examples>
+</intent>
+<intent number="6" probability="0.114094">
+<description>brooks brothers clearance 【coupon code】</description>
+<examples>clearance up to 60 off brooks brothers;brooks brothers: clearance up to 500ff;brooks brothers winter clearance sale: up to 500ff;brooks brothers upto 60 off winter clearance sale;brooks brothers online clearance event 60 off;brooks brothers clearance: up to 500ff clearance - deals;brooks brothers clearance winter 60%;brooks brothers clearance view coupons;brooks brothers clearance up to 60 off;brooks brothers clearance sales;brooks brothers clearance sale up to 60 off;brooks brothers clearance s</examples>
+</intent>
+<intent number="7" probability="0.114094">
+<description>brooks brothers clearance 【service】</description>
+<examples>tag archives: brooks brothers clearance;brooks pharmacy complaints;brooks brothers legendary service;brooks brothers clearance storage;brooks brothers clearance stock;brooks brothers clearance servers;brooks brothers clearance return policy;brooks brothers clearance order;brooks brothers clearance networking;brooks brothers clearance displays;brooks brothers clearance application;brooks brothers clearance account benefits;association with brooks brothers clearance</examples>
+</intent>
+<intent number="8" probability="0.087248">
+<description> brooks brothers clearance【name】</description>
+<examples>william brooks brothers clearance;tamara brooks brothers clearance;robin brooks brothers clearance;richard brooks brothers clearance;randy brooks brothers clearance;michael brooks brothers clearance;meredith brooks brothers clearance;kevin brooks brothers clearance;joseph brooks brothers clearance;john brooks brothers clearance;joe brooks brothers clearance;jennifer brooks brothers clearance;james brooks brothers clearance;henry sands brooks brothers clearance;harry brooks brothers clearance;ger</examples>
+</intent>
+<intent number="9" probability="0.060403">
+<description>brooks brothers clearance【promo codes】</description>
+<examples>brooks brothers clearance promotions;brooks brothers clearance promo codes</examples>
+</intent>
+</topic>
+
+<topic number="0441">
+<query>churchill downs</query>
+<intent number="1" probability="0.144828">
+<description>churchill downs【pictures】</description>
+<examples>pictures of churchill downs;picture of churchill down;churchill downs pictures;churchill downs photographs;churchill downs photo store;churchill downs maps;churchill downs map</examples>
+</intent>
+<intent number="2" probability="0.131034">
+<description>churchill downs 【information】</description>
+<examples>track profile | churchill downs;history churchill downs;founding of churchill downs;details churchill downs;copyright 2009 churchill downs simulcast network;churchill downs website;churchill downs weather;churchill downs track page;churchill downs record;churchill downs quotes;churchill downs profile;churchill downs online;churchill downs officials talking about the new system;churchill downs official site;churchill downs notes;churchill downs news video;churchill downs museum;churchill downs lo</examples>
+</intent>
+<intent number="3" probability="0.131034">
+<description>churchill downs【derby】</description>
+<examples>kentucky derby at churchill downs;glass churchill downs kentucky derby;churchill downs kentucky derby trophy;churchill downs kentucky derby museum;churchill downs kentucky derby;churchill downs illinois derby;churchill downs derby kentucky 1875 first saturday;churchill downs derby kentucky;churchill downs derby</examples>
+</intent>
+<intent number="4" probability="0.131034">
+<description>churchill downs 【race】</description>
+<examples>united states triple crown of thoroughbred racing on television;onto the churchill downs racetrack;horse racing at churchill downs;churchill downs united states triple crown of thoroughbred racing on television;churchill downs united states triple crown of thoroughbred racing;churchill downs racing schedule;churchill downs racing horse track louisville race;churchill downs racing horse history track news;churchill downs racing horse chdn quote news;churchill downs racing;churchill downs racetrac</examples>
+</intent>
+<intent number="5" probability="0.103448">
+<description>churchill downs 【tours】</description>
+<examples>churchill downs tours;churchill downs road;churchill downs infield</examples>
+</intent>
+<intent number="6" probability="0.103448">
+<description>churchill downs 【address】</description>
+<examples>churchill downs address;address of churchill downs</examples>
+</intent>
+<intent number="7" probability="0.089655">
+<description>churchill downs 【entertainment】</description>
+<examples>promotions | churchill downs entertainment;churchill downs wagering;churchill downs mint julep;churchill downs kenosha yacht club;churchill downs hoosier park;churchill downs facilities;churchill downs concert;churchill downs club;churchill downs betting</examples>
+</intent>
+<intent number="8" probability="0.089655">
+<description>churchill downs 【tickets】</description>
+<examples>churchill downs tickets full sports;churchill downs tickets;churchill downs derby kentucky charts seating tickets</examples>
+</intent>
+<intent number="9" probability="0.075862">
+<description>churchill downs【winston】</description>
+<examples>sir winston churchill downs;churchill downs winston time;churchill downs winston salem elementary;churchill downs winston biography;churchill downs winston 81;churchill downs winston 1940;churchill downs winston 1874 1965;churchill downs winston;churchill downs memorial winston</examples>
+</intent>
+</topic>
+
+<topic number="0442">
+<query>condos in florida</query>
+<intent number="1" probability="0.127273">
+<description>condos  in florida【for sale】</description>
+<examples>the villages in florida condos for sale;sale condos in florida;oceanfront condos for sale in florida;find condos for sale in florida;destin florida condos for sale;condos in florida sale front;condos in florida sale condominiums beachfront luxury waterfront;condos in florida sale condominiums;condos in florida panhandle for sale;condos in florida on the beach for sale;condos in florida oceanfront sale;condos in florida keys for sale;condos in florida for sale;condos in florida estate real sale c</examples>
+</intent>
+<intent number="2" probability="0.127273">
+<description>condos in florida 【rentls】</description>
+<examples>vacation rentals condos in florida;townhouses or condos for rent in lake worth florida area;rental condos in florida keys;rental condos in florida;rent vacation condos in florida;rent condos in florida;Rent Condo in Florida;rent condo in florida;condos in orlando florida for rent;condos in florida vacation rentals;condos in florida vacation condo rentals;condos in florida rentals vacation owner;condos in florida rentals vacation;condos in florida rentals;condos in florida orlando rentals;condos </examples>
+</intent>
+<intent number="3" probability="0.115152">
+<description>condos in florida【guide】</description>
+<examples>sale condominiums luxury waterfront search;florida homes and condos online;florida condos information;condos in florida sale listings;condos in florida sale condominiums luxury waterfront search;condos in florida real estate articles;condos in florida online;condos in florida map;condos in florida lots;condos in florida information need;condos in florida guide;condos in florida buyers;condos in florida blog;condos in florida best source</examples>
+</intent>
+<intent number="4" probability="0.115152">
+<description>condos in florida【price】</description>
+<examples>prices of condos in florida;luxury condos in florida;luxury condos florida;florida condo bargains;condos in florida under 50 000;condos in florida under $100 000;cheap condos to rent in florida;cheap condos in florida</examples>
+</intent>
+<intent number="5" probability="0.115152">
+<description>condos in florida 【on the beach】</description>
+<examples>waterfront condos in florida;waterfront condos florida;sunny isles condos in florida;one seagrove beach condo in seagrove beach; florida;Oceanfront Condos in Florida;oceanfront condos in florida;luxury and oceanfront condos in southeast florida;destin florida beachfront condos;delray beach florida condos;daytona beach condos in florida;condos in florida waterfront;condos in florida on the beach;condos in florida oceanfront find;condos in florida gulf coast;condos in florida gulf;condos in florid</examples>
+</intent>
+<intent number="6" probability="0.115152">
+<description>condos in florida 【condo hotel】</description>
+<examples>condos in florida rentals rates hotels;condos in florida hotels;condos in florida condo hotel</examples>
+</intent>
+<intent number="7" probability="0.103030">
+<description>condos in florida【for vacation】</description>
+<examples>vacation condos in florida;condos in florida vacation condo;condos in florida for vacation;condos in florida for spring break</examples>
+</intent>
+<intent number="8" probability="0.090909">
+<description>condos in florida 【homes】</description>
+<examples>vacation houses and find rental condos in florida;the moontide condominiums; new smyrna beach; florida - home;pictures of furnished condos and homes;houses and condos in florida;find florida homes and condos now;estate real sale condominiums fl;division of florida condominiums; timeshares; and mobile homes;destin florida homes and condos;condos in florida vacation rental home;condos in florida vacation homes;condos in florida vacation home rentals;condos in florida luxury homes;condos in florida</examples>
+</intent>
+<intent number="9" probability="0.090909">
+<description>condos in florida【city】</description>
+<examples>sarasota florida condos;pensacola florida condos;orlando condos;condos in orlando florida;condos in jacksonville florida;condos in ft myers florida;condos in florida orlando;condos in florida fort myers;condos in florida fort;condos in florida conestoga;condos in florida city florida;condos in florida cities;condos in florida cape coral;condos in florida bradenton;condos bradenton florida</examples>
+</intent>
+</topic>
+
+<topic number="0443">
+<query>dog clean up bags</query>
+<intent number="1" probability="0.154412">
+<description> dog clean up bags【information】</description>
+<examples>view all dog clean up bags;shopping results for dog clean up bags;pictures and dog clean up bags;information on dog clean up bags;hunting dog clean up bags;dog clean up bags review;dog clean up bags homepage;dog clean up bags disposal</examples>
+</intent>
+<intent number="2" probability="0.154412">
+<description>dog clean up bags 【dog waste】</description>
+<examples>waste pet poop dispenser rolls;dogipot litter bags -- pet cleanup bags;dog waste cleanup bags; pack of 40;dog clean-up bags; tools; waste products;dog clean up bags wipes;dog clean up bags waste scented;dog clean up bags waste pet scoopers supplies pooper;dog clean up bags waste pet;dog clean up bags waste holder shaped;dog clean up bags waste clean-up;dog clean up bags urine;dog clean up bags fluids;dog clean up bags dog waste</examples>
+</intent>
+<intent number="3" probability="0.139706">
+<description>dog clean up bags 【prices】</description>
+<examples>gifts for over fifty dog clean up bags;dog clean up bags prices supplies;dog clean up bags petsmart prices</examples>
+</intent>
+<intent number="4" probability="0.125000">
+<description>dog clean up bags【poop】</description>
+<examples>waste pet poop pick clean-up;pet waste bags for doggie poop cleanup;dog poopy bags; dog poo; dog poo cleanup;Dog Poop Pick Up Bags;dog poop cleanup waste bags;dog poop clean up bags;dog clean up bags waste pet poop pick clean-up;dog clean up bags poop denver;dog clean up bags poop;dog clean up bags company kyjen</examples>
+</intent>
+<intent number="5" probability="0.125000">
+<description>dog clean up bags 【for use】</description>
+<examples>puppy or dog clean up bags;home dog clean up bags;dog clean up bags with handles;dog clean up bags with easy tie;dog clean up bags refills;dog clean up bags on a roll;dog clean up bags for use;dog clean up bags for all dogs;dog clean up bags and cases</examples>
+</intent>
+<intent number="6" probability="0.110294">
+<description>dog clean up bags 【dispenser】</description>
+<examples>free dog cleanup bags dispenser;doggie clean-up bags with dispenser;Dog Poop Bag Dispenser;dog clean up bags waste pet poop dispenser rolls;dog clean up bags on board dispenser;dog clean up bags litter;dog clean up bags dispenser</examples>
+</intent>
+<intent number="7" probability="0.110294">
+<description>dog clean up bags【biodegradable】</description>
+<examples>four paws biodegradable doggie doo bags clean-up;dog clean up bags waste biodegradable biobag;dog clean up bags poop biodegradable flushable;dog clean up bags biodegradable;biodegradable dog clean up bags</examples>
+</intent>
+<intent number="8" probability="0.080882">
+<description>dog clean up bags【carry】</description>
+<examples>dog clean up bags free shipping;dog clean up bags carry</examples>
+</intent>
+</topic>
+
+<topic number="0444">
+<query>designer dog breeds</query>
+<intent number="1" probability="0.135484">
+<description>designer dog breeds 【guide】</description>
+<examples>rsm s guide to designer dog breeds;designer dogs puppies breeds information;designer dog breeds your personal guide;designer dog breeds resources;designer dog breeds online community;designer dog breeds online;designer dog breeds guide;designer dog breeds encyclopedia;designer dog breeds dog breed information;designer dog breeds choosing</examples>
+</intent>
+<intent number="2" probability="0.135484">
+<description>designer dog breeds 【breed】</description>
+<examples>white long haired dog breeds;types of designer dog breeds;trend alert designer dog breeds;labradoodle 151 designer dog breeds;greater swiss mountain dog designer and mixed breeds;designer dog breeds yorkie chihuahua;designer dog breeds with multiple breed ancestors;designer dog breeds with jack russell;designer dog breeds the pomeranian;designer dog breeds the great dane;designer dog breeds the cockapoo;designer dog breeds terrier group;designer dog breeds such as the rottweiler;designer dog bre</examples>
+</intent>
+<intent number="3" probability="0.122581">
+<description>designer dog breeds【mixed breed dog】</description>
+<examples>mixed up mutts; designer dog breeds;doodle dog breeds; designer dogs; hybrid dogs;designer dog breeds the mutt;designer dog breeds poodle;designer dog breeds or hybrids;designer dog breeds mutts;designer dog breeds mixed breed dog;designer dog breeds mixed;Designer Dog Breeds Hybrids;designer dog breeds hybrids;designer dog breeds hybrid mixed list choose purebred;designer dog breeds hybrid mixed information cross purebred;designer dog breeds hybrid mixed information care new;designer dog breeds</examples>
+</intent>
+<intent number="4" probability="0.122581">
+<description>designer dog breeds 【photos】</description>
+<examples>pictures of designer dog breeds;designer dog breeds with pictures;designer dog breeds pictures information types;designer dog breeds pictures;designer dog breeds photos;designer dog breeds photo gallery;designer breeds dogs pictures</examples>
+</intent>
+<intent number="5" probability="0.109677">
+<description>designer dog breeds 【sale】</description>
+<examples>designer dog breeds sale puppies like videos breeders;designer dog breeds sale puppies breeders lovers local;designer dog breeds sale puppies;designer dog breeds for sale;designer breeds dogs sale</examples>
+</intent>
+<intent number="6" probability="0.109677">
+<description> designer dog breeds【list】</description>
+<examples>small breed designer dog breeds listing;list of small designer dog breeds;list of designer dog breeds;list of all designer dog breeds;list designer dog breeds;designer dog breeds list;Designer Dog Breed List;designer dog breed list;designer breeds dogs list</examples>
+</intent>
+<intent number="7" probability="0.096774">
+<description>designer dog breeds 【purebred dog】</description>
+<examples>designer dog breeds sale puppies purebred cross two;designer dog breeds rare breeds;designer dog breeds purebred dog;designer dog breeds pedigree dogs exposed</examples>
+</intent>
+<intent number="8" probability="0.083871">
+<description>designer dog breeds【popular】</description>
+<examples>popular designer dog breeds facts;popular designer dog breeds;Most Popular Designer Dog Breeds;most popular designer dog breeds;designer dog breeds popular squidoo;designer dog breeds popular</examples>
+</intent>
+<intent number="9" probability="0.083871">
+<description> designer dog breeds 【size】</description>
+<examples>Small Designer Dogs Breeds;small designer dog breeds for sale;small designer dog breeds;small designer breed dogs;large dog designer breeds;designer dog collars for large breeds;designer dog breeds small;designer dog breeds feist dog</examples>
+</intent>
+</topic>
+
+<topic number="0445">
+<query>pressure washers</query>
+<intent number="1" probability="0.152000">
+<description> pressure washers【brands】</description>
+<examples>xcell presure washers;pressure washers simoniz;pressure washers refurbished;pressure washers lowes;pressure washers k rcher;pressure washers elite washing;pressure washers direct northstar;pressure washers costco;pressure washers coleman;northstar pressure washers;nilfisk pressure washers;mitm pressure washers;mi t-m pressure washers;lowes pressure washers;landa pressure washers;husky pressure washers;hotsy pressure washers;generac pressure washers;excell pressure washers;excel pressure washers;</examples>
+</intent>
+<intent number="2" probability="0.152000">
+<description> pressure washers【types】</description>
+<examples>types of pressure washers;trailer pressure washers;trailer mount pressure washers;pressure washers types;pressure washers surfaces type;pressure washers mobile business;pressure washers mobile;pressure washers electric wall mounted;pressure washers carpet cleaning;pressure washers antifreeze;pressure washers alternative fuel vehicle;mobile pressure washers for sale;mobile pressure washers;car pressure washers;alto pressure washers</examples>
+</intent>
+<intent number="3" probability="0.152000">
+<description>pressure washers 【power washing】</description>
+<examples>psi electric pressure washers;pressure washers washing machine;pressure washers washing ga;pressure washers power washing;pressure washers power washers;pressure washers fashion electronics;pressure washers electric power;pressure washers electric;pressure washers cleaning washing;pressure washers cleaners;pressure pro pressure washers;powered pressure washers;power pressure washers;electric pressure washers;direct drive pressure washers</examples>
+</intent>
+<intent number="4" probability="0.152000">
+<description>pressure washers 【price】</description>
+<examples>pressure washers rated;pressure washers prices products;pressure washers prices;pressure washers power electric best prices accessories;pressure washers discount;discount pressure washers;cheap pressure washers</examples>
+</intent>
+<intent number="5" probability="0.136000">
+<description> pressure washers【gas】</description>
+<examples>psi gas pressure washers;pressure washers power electric quality gas selection;pressure washers gasoline direct injection;gas-powered pressure washers;gasoline pressure washers;Gas Pressure Washers;gas pressure washers;gas electric pressure washers and accessories;extension hose for gas pressure washers;extension hose for 3;600 psi gas pressure washers</examples>
+</intent>
+<intent number="6" probability="0.136000">
+<description>pressure washers【reviews】</description>
+<examples>pressure washers: pressure washer reviews; pressure washer ratings;pressure washers walmart;pressure washers uses;pressure washers superstore;pressure washers reviews;pressure washers read reviews;pressure washers products now;pressure washers on sale;pressure washers guide;pressure washers for sale;pressure washers direct;pressure washers buying guide;pressure washer reviews;pressure washer buyer's guide - pressure washers direct;large selection of pressure washers for sale;huge range of pressu</examples>
+</intent>
+<intent number="7" probability="0.120000">
+<description> pressure washers【repair】</description>
+<examples>repair pressure washers;pressure washers repair</examples>
+</intent>
+</topic>
+
+<topic number="0446">
+<query>sore throat</query>
+<intent number="1" probability="0.148936">
+<description> sore throat【information】</description>
+<examples>sore throat wrongdiagnosis;sore throat overview;sore throat free encyclopedia;sore throat differential diagnosis;sore throat definition medical;sore throat definition;sore throat centor criteria;sore throat causes treatment affliction covers overview;management of sore throat and indications;information sore throat;guideline management sore throat</examples>
+</intent>
+<intent number="2" probability="0.148936">
+<description> sore throat【medicine】</description>
+<examples>tylenol cold sore throat;sore throat tylenol;sore throat sprays;sore throat spray;sore throat post nasal drip;sore throat medicine;sore throat manuka honey;sore throat lozenges;sore throat gargling salt;sore throat colloidal silver;sore throat antimicrobial;sore throat amoxicillin;sore throat ambroxol;medicine to the sore throat;gargles for sore throat;gargle whiskey to soothe a sore throat;cepacol sore throat;antibiotics for sore throat</examples>
+</intent>
+<intent number="3" probability="0.148936">
+<description>sore throat 【symptom】</description>
+<examples>target sore throat and mouth pain;symptoms of flu include sore throat;swollen sore throat;swollen neck glands and sore throat;swollen glands sore throat;sore throat with white patches;sore throat white spots on tongue;sore throat white spots;sore throat when swallowing;sore throat symptoms;sore throat swollen glands severe headache and neck and back pain symptoms;sore throat swallow painful;sore throat pharyngitis symptoms;sore throat pain headache abdominal;sore throat pain;sore throat muscle p</examples>
+</intent>
+<intent number="4" probability="0.148936">
+<description>sore throat 【cure】</description>
+<examples>treating sore throat;treat sore throat;sore throat treatments;sore throat treatment;sore throat surgery;sore throat remedy;Sore Throat Remedies;sore throat remedies;sore throat natural cures;sore throat lymphatic system assessment;sore throat cures;sore throat cure symptoms;sore throat cure;quick ways to get rid of a sore throat;natural sore throat remedies;herbal remedies for sore throat;herbal cures for sore throat;healing sore throat;getting rid of a sore throat;get rid of sore throat</examples>
+</intent>
+<intent number="5" probability="0.148936">
+<description> sore throat【cause】</description>
+<examples>sore throat symptoms causes;sore throat causes treatment videos pharynx information;sore throat causes treatment symptoms diagnosis health;sore throat causes treatment common health infection;sore throat causes treatment;sore throat causes symptoms;sore throat causes;reasons for a sore throat;other causes of sore throat;causes of sore throat;cause of the sore throat;bacterial cause of sore throat</examples>
+</intent>
+<intent number="6" probability="0.134752">
+<description> sore throat【home remedy】</description>
+<examples>sore throat remedies home;sore throat home remedies;homeopathic sore throat;home remedy sore throat;home remedies for sore throat;home cure for sore throat</examples>
+</intent>
+<intent number="7" probability="0.120567">
+<description> sore throat【soothe】</description>
+<examples>sore throat soothe;sore throat relief for children;sore throat relief;soothe sore throat;soothe a sore throat;relieving sore throat pain;8 sore-throat soothers</examples>
+</intent>
+</topic>
+
+<topic number="0447">
+<query>idaho state flower</query>
+<intent number="1" probability="0.155556">
+<description>idaho state flower【pictures】</description>
+<examples>state idaho flower picture;pictures of the idaho state flower;pictures of idaho's state flower;picture state flower idaho;idaho state flower pictures;idaho state flower picture;idaho state flower photo;idaho state flower gallery photo white;idaho state flower and bird pictures</examples>
+</intent>
+<intent number="2" probability="0.155556">
+<description>idaho state flower【syringa】</description>
+<examples>syringa state flower idaho;syringa idaho state flower;syringa flower idaho state;state flower of idaho syringa;idaho state state flower: syringa;idaho state flower syringa picture;idaho state flower syringa philadelphus lewisii;idaho state flower syringa lewisii gem 1931 use;idaho state flower syringa lewisii 1931 picture facts;idaho state flower syringa lewisii 1931 designated adopted;idaho state flower syringa lewisii;idaho state flower syringa;idaho state flower is the syringa</examples>
+</intent>
+<intent number="3" probability="0.155556">
+<description>idaho state flower 【information】</description>
+<examples>information idaho's state flower;info state flower idaho;idaho statutes state flower;idaho state flower selection;idaho state flower news;idaho state flower information;idaho state flower info;idaho state flower image;idaho state flower identification guide;idaho state flower grow;idaho state flower description;idaho state flower coloring page;idaho state flower blog</examples>
+</intent>
+<intent number="4" probability="0.140741">
+<description>idaho state flower【flower】</description>
+<examples>state of idaho state flower;state flower of idaho;state flower in idaho;state flower for idaho;most popular "idaho state flower" products;idaho state tree flower;idaho state flower tree;idaho state flower idaho;idaho state flower bouquets;idaho state flower and tree;idaho state flower</examples>
+</intent>
+<intent number="5" probability="0.096296">
+<description> idaho state flower【history】</description>
+<examples>history of idaho state flower</examples>
+</intent>
+<intent number="6" probability="0.081481">
+<description>idaho state flower【florists】</description>
+<examples>idaho state flower florists;idaho state flower florist;florists in idaho state flower</examples>
+</intent>
+<intent number="7" probability="0.081481">
+<description>idaho state flower【shop】</description>
+<examples>order flowers to idaho state;idaho state flower shops;idaho state flower shop network member;idaho state flower shop network;idaho state flower shop name;idaho state flower shop directory</examples>
+</intent>
+<intent number="8" probability="0.066667">
+<description>idaho state flower【arrangments】</description>
+<examples>idaho state flower arrangments;idaho state flower arrangements</examples>
+</intent>
+<intent number="9" probability="0.066667">
+<description>idaho state flower【name】</description>
+<examples>name state flower idaho;idaho state flower name</examples>
+</intent>
+</topic>
+
+<topic number="0448">
+<query>indiana state fairgrounds</query>
+<intent number="1" probability="0.147887">
+<description>indiana state fairgrounds【transportation】 </description>
+<examples>public transportation to indiana state fairgrounds (isf); indianapolis;indiana state fairgrounds truck;indiana state fairgrounds speedway;indiana state fairgrounds indiana state road 912;indiana state fairgrounds driving directions;indiana state fairgrounds directions;indiana state fairgrounds auto</examples>
+</intent>
+<intent number="2" probability="0.147887">
+<description>indiana state fairgrounds【calendar of events】</description>
+<examples>indiana state fairgrounds; indianapolis upcoming events on do317;Indiana State Fairgrounds Schedule;indiana state fairgrounds schedule;indiana state fairgrounds indianapolis events;indiana state fairgrounds events upcoming;indiana state fairgrounds events 2012;indiana state fairgrounds events 2011;indiana state fairgrounds events;indiana state fairgrounds event schedule;Indiana State Fairgrounds Event Calendar;indiana state fairgrounds event calendar;indiana state fairgrounds calendar of events;</examples>
+</intent>
+<intent number="3" probability="0.133803">
+<description> indiana state fairgrounds【show】</description>
+<examples>motorcycle expo indiana state fairgrounds;knife show at the indiana state fairgrounds;indy circle track expo at the indiana state fairgrounds;indiana state fairgrounds train show;indiana state fairgrounds shows;indiana state fairgrounds show rv;indiana state fairgrounds show indianapolis;indiana state fairgrounds show bird;indiana state fairgrounds show;indiana state fairgrounds home show;indiana state fairgrounds gun show;indiana state fairgrounds flower patio show;indiana state fairgrounds exp</examples>
+</intent>
+<intent number="4" probability="0.119718">
+<description>indiana state fairgrounds【hotel】 </description>
+<examples>indiana state fairgrounds motel;indiana state fairgrounds indianapolis hotel comfort;hotels near indiana state fairgrounds</examples>
+</intent>
+<intent number="5" probability="0.119718">
+<description>Indiana State Fairgrounds【address】</description>
+<examples>Indiana State Fairgrounds Address;indiana state fairgrounds address;indiana state fairgrounds 1202 e 38th st;gates opened at the indiana state fairgrounds on east 38th street</examples>
+</intent>
+<intent number="6" probability="0.119718">
+<description>indiana state fairgrounds【facilities】</description>
+<examples>the barn at the indiana state fairgrounds;restaurants near indiana state fairgrounds; indianapolis;indiana state fairgrounds indiana s congressional districts;indiana state fairgrounds i 5 exit;indiana state fairgrounds grandstand;indiana state fairgrounds facilities;indiana state fairgrounds entrance;indiana state fairgrounds antique;barn at the indiana state fairgrounds</examples>
+</intent>
+<intent number="7" probability="0.105634">
+<description>indiana State Fairgrounds【map】</description>
+<examples>Map Indiana State Fairgrounds;indiana state fairgrounds map</examples>
+</intent>
+<intent number="8" probability="0.105634">
+<description>indiana state fairgrounds【related information】</description>
+<examples>sites across indiana state fairgrounds;indiana state fairgrounds on right;indiana state fairgrounds john mccain presidential campaign 2000;indiana state fairgrounds hoosier 100;indiana state fairgrounds fiber festivals;indiana state fairgrounds famous visitors;indiana state fairgrounds battle of corydon;indiana state fairgrounds attractions facts</examples>
+</intent>
+</topic>
+
+<topic number="0449">
+<query>fybromyalgia</query>
+<intent number="1" probability="0.124260">
+<description>fybromyalgia【information】</description>
+<examples>solutions fibromyalgia;information about fibromyalgia;fybromyalgia website;fybromyalgia info;free online lectronic bi pl fybromyalgia;fibromyalgia resources;fibromyalgia page;fibromyalgia online;fibromyalgia news;fibromyalgia information;fibromyalgia everything know;fibromyalgia definition;fibromyalgia consultant solutions;fibromyalgia articles;fibromyalgia answers;educational material on fybromyalgia syndrome;definition fibromyalgia;awareness of fybromyalgia</examples>
+</intent>
+<intent number="2" probability="0.124260">
+<description>fybromyalgia【symptom】</description>
+<examples>urinary incontinence and fybromyalgia;symptoms of fibromyalgia;severe fibromyalgia symptoms;neurological problems associated with fibromyalgia;know signs fibromyalgia;knots in skin fibromyalgia;hypermobility fibromyalgia;fybromyalgia signs and symptoms;Fibromyalgia Symptoms;fibromyalgia symptoms;fibromyalgia sore hips;fibromyalgia medically unexplained physical symptoms;fibromyalgia fatigue;fibromyalgia bones joints muscles;effect on fybromyalgia;common symptoms of fybromyalgia;cognitive impairm</examples>
+</intent>
+<intent number="3" probability="0.124260">
+<description> fybromyalgia【treatment】</description>
+<examples>treatments in hydrotherapy for fibromyalgia;treatments for fybromyalgia sleeping pills;treatments for fybromyalgia benzodiazepines;treatments for fibromyalgia;treatment fibromyalgia;rheumatologist and fibromyalgia specialist;pain treatment for fibromyalgia;pain relief for fybromyalgia with pain relief cushions;meds that work for the depression associated with fibromyalgia;Medications for Fibromyalgia;medications for fibromyalgia;medical fibromyalgia;fybromyalgia treatment;fybromyalgia physical t</examples>
+</intent>
+<intent number="4" probability="0.124260">
+<description> fybromyalgia【cause】</description>
+<examples>mood elevation and fybromyalgia;human growth hormones for fybromyalgia;fybromyalgia stress;fybromyalgia longed severe emotional stress;fybromyalgia genetic predisposition;fybromyalgia deficient growth hormone (gh) secretion;fybromyalgia causation hypotheses;fybromyalgia aquatics program;fybromyalgia and humidity;fibromyalgia trigger points;fibromyalgia trigger point;fibromyalgia trigger;fibromyalgia causes;fibromyalgia and vitamin deficiency;fibromyalgia and vitamin d deficiency;causes fibromyal</examples>
+</intent>
+<intent number="5" probability="0.112426">
+<description>fybromyalgia【medicine】</description>
+<examples>prednisone for fibromyalgia;lyrica fibromyalgia;hypertension fybromyalgia elavil;fybromyalgiamedicine;fybromyalgia muscle relaxants;fybromyalgia elavil;fish oil fibromyalgia;fibromyalgia wintergreen;fibromyalgia placebo;fibromyalgia nabilone;fibromyalgia mindbody relaxation;fibromyalgia medicine;fibromyalgia medical cannabis;fibromyalgia lyrica;fibromyalgia helpful drugs;fibromyalgia cetyl myristoleate;fibromyalgia and coral calcium;effexor xl fibromyalgia;effexor and fibromyalgia;cymbalta fibro</examples>
+</intent>
+<intent number="6" probability="0.112426">
+<description>fybromyalgia【disease】</description>
+<examples>nationalfibromyalgia fibromyalgia;fybromyalgia fms disorder;fybromyalgia disability guidelines;fybromyalgia and other joint diseases;fms disorder;fibromyalgia rheumatology;fibromyalgia palindromic rheumatism;fibromyalgia lyme disease;fibromyalgia health webmd;fibromyalgia health;fibromyalgia disorder;fibromyalgia disease;fibromyalgia disability;disease fibromyalgia</examples>
+</intent>
+<intent number="7" probability="0.100592">
+<description>fybromyalgia【pain】</description>
+<examples>tooth pain and fibromyalgia;fybromyalgia fibromyalgia pain characterized fatigue muscle;fybromyalgia fibromyalgia pain;fibromyalgia pin points picture;fibromyalgia pain treatment;Fibromyalgia Pain Points Chart;fibromyalgia pain points chart;fibromyalgia pain points;fibromyalgia pain information research forum;fibromyalgia pain characterized fatigue muscle;fibromyalgia pain;fibromyalgia low back pain;Fibromyalgia and Foot Pain;fibromyalgia and foot pain;fibromyalgia and back pain</examples>
+</intent>
+<intent number="8" probability="0.088757">
+<description> fybromyalgia【picture】</description>
+<examples>Pictures of Fibromyalgia;pictures of fibromyalgia;fibromyalgia pictures</examples>
+</intent>
+<intent number="9" probability="0.088757">
+<description>fybromyalgia【diagnosis】</description>
+<examples>fybromyalgia diagnosis;fibromyalgia diagnosis;diagnose fibromyalgia</examples>
+</intent>
+</topic>
+
+<topic number="0450">
+<query>ontario california airport</query>
+<intent number="1" probability="0.122807">
+<description>ontario california airport【airlines】</description>
+<examples>ontario california airport flight deals;ontario california airport cheap flights;ontario california airport airlines;ontario california airport airline tickets;Ontario Airport Flights;flights to ontario california airport;cheap flights to ontario california airport;airlines ontario california airport;Airlines Ontario CA Airport</examples>
+</intent>
+<intent number="2" probability="0.122807">
+<description>ontario california airport【hotel】</description>
+<examples>residence inn by marriott ontario california airport;quality inn airport ontario california;ontario intl. airport hotels in ontario; california;ontario california hotels; quality inn ontario airport hotel;ontario california hotel near ontario international airport;ontario california hotel - ramada ontario airport;ontario california airport travelodge;ontario california airport super motel south;ontario california airport south econo lodge;ontario california airport sheraton;ontario california ai</examples>
+</intent>
+<intent number="3" probability="0.122807">
+<description>ontario california airport【transportation】</description>
+<examples>to and from the airport com ontario california;ontario california airport transportation ground;ontario california airport transportation;ontario california airport rodeway;ontario california airport road;ontario california airport limousine;ontario california airport limo limousine;ontario california airport limo;ontario california airport amtrak</examples>
+</intent>
+<intent number="4" probability="0.122807">
+<description>ontario california airport【guides】</description>
+<examples>ontario california airport type;ontario california airport online;ontario california airport information;ontario california airport info;ontario california airport guides;official website of ontario california airport</examples>
+</intent>
+<intent number="5" probability="0.111111">
+<description>ontario california airport【facilities】</description>
+<examples>view conditions at ontario international airport ont ontario california;suites ontario california airport;ontario california airport terminals;ontario california airport suites embassy;ontario california airport roof;ontario california airport near mills mall;ontario california airport international ont ca east terminal;ontario california airport harley davidson motorcycle;ontario california airport facilities;ontario california airport conditions;ontario california airport coachway;ontario cali</examples>
+</intent>
+<intent number="6" probability="0.099415">
+<description>ontario california airport【address】</description>
+<examples>ontario california airport location;ontario california airport address;Ontario CA Airport Address;airport ontario california address;address for ontario california airport</examples>
+</intent>
+<intent number="7" probability="0.099415">
+<description>ontario california airport【map】</description>
+<examples>ontario california airport map;map of ontario california airport;airport ontario california map</examples>
+</intent>
+<intent number="8" probability="0.099415">
+<description>ontario california airport【service】</description>
+<examples>ups airport ontario california;ontario california airport travel;ontario california airport transfers;ontario california airport services;ontario california airport service;ontario california airport self storage;ontario california airport police</examples>
+</intent>
+<intent number="9" probability="0.099415">
+<description>ontario california airport 【weather conditions】</description>
+<examples>ontario california airport weather conditions;ontario california airport weather</examples>
+</intent>
+</topic>
+
+</ntcir10intent>
